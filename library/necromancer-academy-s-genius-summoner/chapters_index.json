@@ -1,0 +1,3470 @@
+[
+  {
+    "num": 1,
+    "title_en": "Chapter 1: Chapter 1",
+    "title_cn": "第1章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0001.json"
+  },
+  {
+    "num": 2,
+    "title_en": "Chapter 2: Chapter 2",
+    "title_cn": "第2章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0002.json"
+  },
+  {
+    "num": 3,
+    "title_en": "Chapter 3: Chapter 3",
+    "title_cn": "第3章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0003.json"
+  },
+  {
+    "num": 4,
+    "title_en": "Chapter 4: Chapter 4",
+    "title_cn": "第4章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0004.json"
+  },
+  {
+    "num": 5,
+    "title_en": "Chapter 5: Chapter 5",
+    "title_cn": "第5章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0005.json"
+  },
+  {
+    "num": 6,
+    "title_en": "Chapter 6: Chapter 6",
+    "title_cn": "第6章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0006.json"
+  },
+  {
+    "num": 7,
+    "title_en": "Chapter 7: Chapter 7",
+    "title_cn": "第7章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0007.json"
+  },
+  {
+    "num": 8,
+    "title_en": "Chapter 8: Chapter 8",
+    "title_cn": "第8章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0008.json"
+  },
+  {
+    "num": 9,
+    "title_en": "Chapter 9: Chapter 9",
+    "title_cn": "第9章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0009.json"
+  },
+  {
+    "num": 10,
+    "title_en": "Chapter 10: Chapter 10",
+    "title_cn": "第10章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0010.json"
+  },
+  {
+    "num": 11,
+    "title_en": "Chapter 11: Chapter 11",
+    "title_cn": "第11章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0011.json"
+  },
+  {
+    "num": 12,
+    "title_en": "Chapter 12: Chapter 12",
+    "title_cn": "第12章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0012.json"
+  },
+  {
+    "num": 13,
+    "title_en": "Chapter 13: Chapter 13",
+    "title_cn": "第13章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0013.json"
+  },
+  {
+    "num": 14,
+    "title_en": "Chapter 14: Chapter 14",
+    "title_cn": "第14章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0014.json"
+  },
+  {
+    "num": 15,
+    "title_en": "Chapter 15: Chapter 15",
+    "title_cn": "第15章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0015.json"
+  },
+  {
+    "num": 16,
+    "title_en": "Chapter 16: Chapter 16",
+    "title_cn": "第16章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0016.json"
+  },
+  {
+    "num": 17,
+    "title_en": "Chapter 17: Chapter 17",
+    "title_cn": "第17章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0017.json"
+  },
+  {
+    "num": 18,
+    "title_en": "Chapter 18: Chapter 18",
+    "title_cn": "第18章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0018.json"
+  },
+  {
+    "num": 19,
+    "title_en": "Chapter 19: Chapter 19",
+    "title_cn": "第19章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0019.json"
+  },
+  {
+    "num": 20,
+    "title_en": "Chapter 20: Chapter 20",
+    "title_cn": "第20章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0020.json"
+  },
+  {
+    "num": 21,
+    "title_en": "Chapter 21: Chapter 21",
+    "title_cn": "第21章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0021.json"
+  },
+  {
+    "num": 22,
+    "title_en": "Chapter 22: Chapter 22",
+    "title_cn": "第22章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0022.json"
+  },
+  {
+    "num": 23,
+    "title_en": "Chapter 23: Chapter 23",
+    "title_cn": "第23章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0023.json"
+  },
+  {
+    "num": 24,
+    "title_en": "Chapter 24: Chapter 24",
+    "title_cn": "第24章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0024.json"
+  },
+  {
+    "num": 25,
+    "title_en": "Chapter 25: Chapter 25",
+    "title_cn": "第25章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0025.json"
+  },
+  {
+    "num": 26,
+    "title_en": "Chapter 26: Chapter 26",
+    "title_cn": "第26章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0026.json"
+  },
+  {
+    "num": 27,
+    "title_en": "Chapter 27: Chapter 27",
+    "title_cn": "第27章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0027.json"
+  },
+  {
+    "num": 28,
+    "title_en": "Chapter 28: Chapter 28",
+    "title_cn": "第28章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0028.json"
+  },
+  {
+    "num": 29,
+    "title_en": "Chapter 29: Chapter 29",
+    "title_cn": "第29章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0029.json"
+  },
+  {
+    "num": 30,
+    "title_en": "Chapter 30: Chapter 30",
+    "title_cn": "第30章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0030.json"
+  },
+  {
+    "num": 31,
+    "title_en": "Chapter 31: Chapter 31",
+    "title_cn": "第31章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0031.json"
+  },
+  {
+    "num": 32,
+    "title_en": "Chapter 32: Chapter 32",
+    "title_cn": "第32章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0032.json"
+  },
+  {
+    "num": 33,
+    "title_en": "Chapter 33: Chapter 33",
+    "title_cn": "第33章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0033.json"
+  },
+  {
+    "num": 34,
+    "title_en": "Chapter 34: Chapter 34",
+    "title_cn": "第34章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0034.json"
+  },
+  {
+    "num": 35,
+    "title_en": "Chapter 35: Chapter 35",
+    "title_cn": "第35章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0035.json"
+  },
+  {
+    "num": 36,
+    "title_en": "Chapter 36: Chapter 36",
+    "title_cn": "第36章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0036.json"
+  },
+  {
+    "num": 37,
+    "title_en": "Chapter 37: Chapter 37",
+    "title_cn": "第37章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0037.json"
+  },
+  {
+    "num": 38,
+    "title_en": "Chapter 38: Chapter 38",
+    "title_cn": "第38章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0038.json"
+  },
+  {
+    "num": 39,
+    "title_en": "Chapter 39: Chapter 39",
+    "title_cn": "第39章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0039.json"
+  },
+  {
+    "num": 40,
+    "title_en": "Chapter 40: Chapter 40",
+    "title_cn": "第40章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0040.json"
+  },
+  {
+    "num": 41,
+    "title_en": "Chapter 41: Chapter 41",
+    "title_cn": "第41章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0041.json"
+  },
+  {
+    "num": 42,
+    "title_en": "Chapter 42: Chapter 42",
+    "title_cn": "第42章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0042.json"
+  },
+  {
+    "num": 43,
+    "title_en": "Chapter 43: Chapter 43",
+    "title_cn": "第43章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0043.json"
+  },
+  {
+    "num": 44,
+    "title_en": "Chapter 44: Chapter 44",
+    "title_cn": "第44章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0044.json"
+  },
+  {
+    "num": 45,
+    "title_en": "Chapter 45: Chapter 45",
+    "title_cn": "第45章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0045.json"
+  },
+  {
+    "num": 46,
+    "title_en": "Chapter 46: Chapter 46",
+    "title_cn": "第46章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0046.json"
+  },
+  {
+    "num": 47,
+    "title_en": "Chapter 47: Chapter 47",
+    "title_cn": "第47章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0047.json"
+  },
+  {
+    "num": 48,
+    "title_en": "Chapter 48: Chapter 48",
+    "title_cn": "第48章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0048.json"
+  },
+  {
+    "num": 49,
+    "title_en": "Chapter 49: Chapter 49",
+    "title_cn": "第49章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0049.json"
+  },
+  {
+    "num": 50,
+    "title_en": "Chapter 50: Chapter 50",
+    "title_cn": "第50章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0050.json"
+  },
+  {
+    "num": 51,
+    "title_en": "Chapter 51: Chapter 51",
+    "title_cn": "第51章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0051.json"
+  },
+  {
+    "num": 52,
+    "title_en": "Chapter 52: Chapter 52",
+    "title_cn": "第52章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0052.json"
+  },
+  {
+    "num": 53,
+    "title_en": "Chapter 53: Chapter 53",
+    "title_cn": "第53章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0053.json"
+  },
+  {
+    "num": 54,
+    "title_en": "Chapter 54: Chapter 54",
+    "title_cn": "第54章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0054.json"
+  },
+  {
+    "num": 55,
+    "title_en": "Chapter 55: Chapter 55",
+    "title_cn": "第55章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0055.json"
+  },
+  {
+    "num": 56,
+    "title_en": "Chapter 56: Chapter 56",
+    "title_cn": "第56章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0056.json"
+  },
+  {
+    "num": 57,
+    "title_en": "Chapter 57: Chapter 57",
+    "title_cn": "第57章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0057.json"
+  },
+  {
+    "num": 58,
+    "title_en": "Chapter 58: Chapter 58",
+    "title_cn": "第58章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0058.json"
+  },
+  {
+    "num": 59,
+    "title_en": "Chapter 59: Chapter 59",
+    "title_cn": "第59章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0059.json"
+  },
+  {
+    "num": 60,
+    "title_en": "Chapter 60: Chapter 60",
+    "title_cn": "第60章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0060.json"
+  },
+  {
+    "num": 61,
+    "title_en": "Chapter 61: Chapter 61",
+    "title_cn": "第61章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0061.json"
+  },
+  {
+    "num": 62,
+    "title_en": "Chapter 62: Chapter 62",
+    "title_cn": "第62章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0062.json"
+  },
+  {
+    "num": 63,
+    "title_en": "Chapter 63: Chapter 63",
+    "title_cn": "第63章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0063.json"
+  },
+  {
+    "num": 64,
+    "title_en": "Chapter 64: Chapter 64",
+    "title_cn": "第64章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0064.json"
+  },
+  {
+    "num": 65,
+    "title_en": "Chapter 65: Chapter 65",
+    "title_cn": "第65章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0065.json"
+  },
+  {
+    "num": 66,
+    "title_en": "Chapter 66: Chapter 66",
+    "title_cn": "第66章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0066.json"
+  },
+  {
+    "num": 67,
+    "title_en": "Chapter 67: Chapter 67",
+    "title_cn": "第67章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0067.json"
+  },
+  {
+    "num": 68,
+    "title_en": "Chapter 68: Chapter 68",
+    "title_cn": "第68章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0068.json"
+  },
+  {
+    "num": 69,
+    "title_en": "Chapter 69: Chapter 69",
+    "title_cn": "第69章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0069.json"
+  },
+  {
+    "num": 70,
+    "title_en": "Chapter 70: Chapter 70",
+    "title_cn": "第70章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0070.json"
+  },
+  {
+    "num": 71,
+    "title_en": "Chapter 71: Chapter 71",
+    "title_cn": "第71章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0071.json"
+  },
+  {
+    "num": 72,
+    "title_en": "Chapter 72: Chapter 72",
+    "title_cn": "第72章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0072.json"
+  },
+  {
+    "num": 73,
+    "title_en": "Chapter 73: Chapter 73",
+    "title_cn": "第73章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0073.json"
+  },
+  {
+    "num": 74,
+    "title_en": "Chapter 74: Chapter 74",
+    "title_cn": "第74章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0074.json"
+  },
+  {
+    "num": 75,
+    "title_en": "Chapter 75: Chapter 75",
+    "title_cn": "第75章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0075.json"
+  },
+  {
+    "num": 76,
+    "title_en": "Chapter 76: Chapter 76",
+    "title_cn": "第76章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0076.json"
+  },
+  {
+    "num": 77,
+    "title_en": "Chapter 77: Chapter 77",
+    "title_cn": "第77章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0077.json"
+  },
+  {
+    "num": 78,
+    "title_en": "Chapter 78: Chapter 78",
+    "title_cn": "第78章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0078.json"
+  },
+  {
+    "num": 79,
+    "title_en": "Chapter 79: Chapter 79",
+    "title_cn": "第79章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0079.json"
+  },
+  {
+    "num": 80,
+    "title_en": "Chapter 80: Chapter 80",
+    "title_cn": "第80章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0080.json"
+  },
+  {
+    "num": 81,
+    "title_en": "Chapter 81: Chapter 81",
+    "title_cn": "第81章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0081.json"
+  },
+  {
+    "num": 82,
+    "title_en": "Chapter 82: Chapter 82",
+    "title_cn": "第82章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0082.json"
+  },
+  {
+    "num": 83,
+    "title_en": "Chapter 83: Chapter 83",
+    "title_cn": "第83章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0083.json"
+  },
+  {
+    "num": 84,
+    "title_en": "Chapter 84: Chapter 84",
+    "title_cn": "第84章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0084.json"
+  },
+  {
+    "num": 85,
+    "title_en": "Chapter 85: Chapter 85",
+    "title_cn": "第85章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0085.json"
+  },
+  {
+    "num": 86,
+    "title_en": "Chapter 86: Chapter 86",
+    "title_cn": "第86章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0086.json"
+  },
+  {
+    "num": 87,
+    "title_en": "Chapter 87: Chapter 87",
+    "title_cn": "第87章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0087.json"
+  },
+  {
+    "num": 88,
+    "title_en": "Chapter 88: Chapter 88",
+    "title_cn": "第88章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0088.json"
+  },
+  {
+    "num": 89,
+    "title_en": "Chapter 89: Chapter 89",
+    "title_cn": "第89章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0089.json"
+  },
+  {
+    "num": 90,
+    "title_en": "Chapter 90: Chapter 90",
+    "title_cn": "第90章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0090.json"
+  },
+  {
+    "num": 91,
+    "title_en": "Chapter 91: Chapter 91",
+    "title_cn": "第91章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0091.json"
+  },
+  {
+    "num": 92,
+    "title_en": "Chapter 92: Chapter 92",
+    "title_cn": "第92章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0092.json"
+  },
+  {
+    "num": 93,
+    "title_en": "Chapter 93: Chapter 93",
+    "title_cn": "第93章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0093.json"
+  },
+  {
+    "num": 94,
+    "title_en": "Chapter 94: Chapter 94",
+    "title_cn": "第94章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0094.json"
+  },
+  {
+    "num": 95,
+    "title_en": "Chapter 95: Chapter 95",
+    "title_cn": "第95章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0095.json"
+  },
+  {
+    "num": 96,
+    "title_en": "Chapter 96: Chapter 96",
+    "title_cn": "第96章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0096.json"
+  },
+  {
+    "num": 97,
+    "title_en": "Chapter 97: Chapter 97",
+    "title_cn": "第97章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0097.json"
+  },
+  {
+    "num": 98,
+    "title_en": "Chapter 98: Chapter 98",
+    "title_cn": "第98章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0098.json"
+  },
+  {
+    "num": 99,
+    "title_en": "Chapter 99: Chapter 99",
+    "title_cn": "第99章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0099.json"
+  },
+  {
+    "num": 100,
+    "title_en": "Chapter 100: Chapter 100",
+    "title_cn": "第100章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0100.json"
+  },
+  {
+    "num": 101,
+    "title_en": "Chapter 101: Chapter 101",
+    "title_cn": "第101章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0101.json"
+  },
+  {
+    "num": 102,
+    "title_en": "Chapter 102: Chapter 102",
+    "title_cn": "第102章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0102.json"
+  },
+  {
+    "num": 103,
+    "title_en": "Chapter 103: Chapter 103",
+    "title_cn": "第103章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0103.json"
+  },
+  {
+    "num": 104,
+    "title_en": "Chapter 104: Chapter 104",
+    "title_cn": "第104章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0104.json"
+  },
+  {
+    "num": 105,
+    "title_en": "Chapter 105: Chapter 105",
+    "title_cn": "第105章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0105.json"
+  },
+  {
+    "num": 106,
+    "title_en": "Chapter 106: Chapter 106",
+    "title_cn": "第106章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0106.json"
+  },
+  {
+    "num": 107,
+    "title_en": "Chapter 107: Chapter 107",
+    "title_cn": "第107章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0107.json"
+  },
+  {
+    "num": 108,
+    "title_en": "Chapter 108: Chapter 108",
+    "title_cn": "第108章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0108.json"
+  },
+  {
+    "num": 109,
+    "title_en": "Chapter 109: Chapter 109",
+    "title_cn": "第109章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0109.json"
+  },
+  {
+    "num": 110,
+    "title_en": "Chapter 110: Chapter 110",
+    "title_cn": "第110章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0110.json"
+  },
+  {
+    "num": 111,
+    "title_en": "Chapter 111: Chapter 111",
+    "title_cn": "第111章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0111.json"
+  },
+  {
+    "num": 112,
+    "title_en": "Chapter 112: Chapter 112",
+    "title_cn": "第112章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0112.json"
+  },
+  {
+    "num": 113,
+    "title_en": "Chapter 113: Chapter 113",
+    "title_cn": "第113章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0113.json"
+  },
+  {
+    "num": 114,
+    "title_en": "Chapter 114: Chapter 114",
+    "title_cn": "第114章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0114.json"
+  },
+  {
+    "num": 115,
+    "title_en": "Chapter 115: Chapter 115",
+    "title_cn": "第115章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0115.json"
+  },
+  {
+    "num": 116,
+    "title_en": "Chapter 116: Chapter 116",
+    "title_cn": "第116章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0116.json"
+  },
+  {
+    "num": 117,
+    "title_en": "Chapter 117: Chapter 117",
+    "title_cn": "第117章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0117.json"
+  },
+  {
+    "num": 118,
+    "title_en": "Chapter 118: Chapter 118",
+    "title_cn": "第118章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0118.json"
+  },
+  {
+    "num": 119,
+    "title_en": "Chapter 119: Chapter 119",
+    "title_cn": "第119章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0119.json"
+  },
+  {
+    "num": 120,
+    "title_en": "Chapter 120: Chapter 120",
+    "title_cn": "第120章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0120.json"
+  },
+  {
+    "num": 121,
+    "title_en": "Chapter 121: Chapter 121",
+    "title_cn": "第121章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0121.json"
+  },
+  {
+    "num": 122,
+    "title_en": "Chapter 122: Chapter 122",
+    "title_cn": "第122章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0122.json"
+  },
+  {
+    "num": 123,
+    "title_en": "Chapter 123: Chapter 123",
+    "title_cn": "第123章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0123.json"
+  },
+  {
+    "num": 124,
+    "title_en": "Chapter 124: Chapter 124",
+    "title_cn": "第124章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0124.json"
+  },
+  {
+    "num": 125,
+    "title_en": "Chapter 125: Chapter 125",
+    "title_cn": "第125章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0125.json"
+  },
+  {
+    "num": 126,
+    "title_en": "Chapter 126: Chapter 126",
+    "title_cn": "第126章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0126.json"
+  },
+  {
+    "num": 127,
+    "title_en": "Chapter 127: Chapter 127",
+    "title_cn": "第127章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0127.json"
+  },
+  {
+    "num": 128,
+    "title_en": "Chapter 128: Chapter 128",
+    "title_cn": "第128章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0128.json"
+  },
+  {
+    "num": 129,
+    "title_en": "Chapter 129: Chapter 129",
+    "title_cn": "第129章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0129.json"
+  },
+  {
+    "num": 130,
+    "title_en": "Chapter 130: Chapter 130",
+    "title_cn": "第130章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0130.json"
+  },
+  {
+    "num": 131,
+    "title_en": "Chapter 131: Chapter 131",
+    "title_cn": "第131章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0131.json"
+  },
+  {
+    "num": 132,
+    "title_en": "Chapter 132: Chapter 132",
+    "title_cn": "第132章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0132.json"
+  },
+  {
+    "num": 133,
+    "title_en": "Chapter 133: Chapter 133",
+    "title_cn": "第133章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0133.json"
+  },
+  {
+    "num": 134,
+    "title_en": "Chapter 134: Chapter 134",
+    "title_cn": "第134章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0134.json"
+  },
+  {
+    "num": 135,
+    "title_en": "Chapter 135: Chapter 135",
+    "title_cn": "第135章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0135.json"
+  },
+  {
+    "num": 136,
+    "title_en": "Chapter 136: Chapter 136",
+    "title_cn": "第136章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0136.json"
+  },
+  {
+    "num": 137,
+    "title_en": "Chapter 137: Chapter 137",
+    "title_cn": "第137章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0137.json"
+  },
+  {
+    "num": 138,
+    "title_en": "Chapter 138: Chapter 138",
+    "title_cn": "第138章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0138.json"
+  },
+  {
+    "num": 139,
+    "title_en": "Chapter 139: Chapter 139",
+    "title_cn": "第139章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0139.json"
+  },
+  {
+    "num": 140,
+    "title_en": "Chapter 140: Chapter 140",
+    "title_cn": "第140章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0140.json"
+  },
+  {
+    "num": 141,
+    "title_en": "Chapter 141: Chapter 141",
+    "title_cn": "第141章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0141.json"
+  },
+  {
+    "num": 142,
+    "title_en": "Chapter 142: Chapter 142",
+    "title_cn": "第142章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0142.json"
+  },
+  {
+    "num": 143,
+    "title_en": "Chapter 143: Chapter 143",
+    "title_cn": "第143章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0143.json"
+  },
+  {
+    "num": 144,
+    "title_en": "Chapter 144: Chapter 144",
+    "title_cn": "第144章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0144.json"
+  },
+  {
+    "num": 145,
+    "title_en": "Chapter 145: Chapter 145",
+    "title_cn": "第145章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0145.json"
+  },
+  {
+    "num": 146,
+    "title_en": "Chapter 146: Chapter 146",
+    "title_cn": "第146章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0146.json"
+  },
+  {
+    "num": 147,
+    "title_en": "Chapter 147: Chapter 147",
+    "title_cn": "第147章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0147.json"
+  },
+  {
+    "num": 148,
+    "title_en": "Chapter 148: Chapter 148",
+    "title_cn": "第148章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0148.json"
+  },
+  {
+    "num": 149,
+    "title_en": "Chapter 149: Chapter 149",
+    "title_cn": "第149章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0149.json"
+  },
+  {
+    "num": 150,
+    "title_en": "Chapter 150: Chapter 150",
+    "title_cn": "第150章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0150.json"
+  },
+  {
+    "num": 151,
+    "title_en": "Chapter 151",
+    "title_cn": "第151章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0151.json"
+  },
+  {
+    "num": 152,
+    "title_en": "Chapter 152",
+    "title_cn": "第152章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0152.json"
+  },
+  {
+    "num": 153,
+    "title_en": "Chapter 153",
+    "title_cn": "第153章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0153.json"
+  },
+  {
+    "num": 154,
+    "title_en": "Chapter 154",
+    "title_cn": "第154章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0154.json"
+  },
+  {
+    "num": 155,
+    "title_en": "Chapter 155",
+    "title_cn": "第155章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0155.json"
+  },
+  {
+    "num": 156,
+    "title_en": "Chapter 156",
+    "title_cn": "第156章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0156.json"
+  },
+  {
+    "num": 157,
+    "title_en": "Chapter 157",
+    "title_cn": "第157章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0157.json"
+  },
+  {
+    "num": 158,
+    "title_en": "Chapter 158",
+    "title_cn": "第158章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0158.json"
+  },
+  {
+    "num": 159,
+    "title_en": "Chapter 159",
+    "title_cn": "第159章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0159.json"
+  },
+  {
+    "num": 160,
+    "title_en": "Chapter 160",
+    "title_cn": "第160章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0160.json"
+  },
+  {
+    "num": 161,
+    "title_en": "Chapter 161",
+    "title_cn": "第161章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0161.json"
+  },
+  {
+    "num": 162,
+    "title_en": "Chapter 162",
+    "title_cn": "第162章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0162.json"
+  },
+  {
+    "num": 163,
+    "title_en": "Chapter 163",
+    "title_cn": "第163章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0163.json"
+  },
+  {
+    "num": 164,
+    "title_en": "Chapter 164",
+    "title_cn": "第164章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0164.json"
+  },
+  {
+    "num": 165,
+    "title_en": "Chapter 165",
+    "title_cn": "第165章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0165.json"
+  },
+  {
+    "num": 166,
+    "title_en": "Chapter 166",
+    "title_cn": "第166章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0166.json"
+  },
+  {
+    "num": 167,
+    "title_en": "Chapter 167",
+    "title_cn": "第167章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0167.json"
+  },
+  {
+    "num": 168,
+    "title_en": "Chapter 168",
+    "title_cn": "第168章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0168.json"
+  },
+  {
+    "num": 169,
+    "title_en": "Chapter 169",
+    "title_cn": "第169章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0169.json"
+  },
+  {
+    "num": 170,
+    "title_en": "Chapter 170",
+    "title_cn": "第170章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0170.json"
+  },
+  {
+    "num": 171,
+    "title_en": "Chapter 171",
+    "title_cn": "第171章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0171.json"
+  },
+  {
+    "num": 172,
+    "title_en": "Chapter 172",
+    "title_cn": "第172章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0172.json"
+  },
+  {
+    "num": 173,
+    "title_en": "Chapter 173",
+    "title_cn": "第173章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0173.json"
+  },
+  {
+    "num": 174,
+    "title_en": "Chapter 174",
+    "title_cn": "第174章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0174.json"
+  },
+  {
+    "num": 175,
+    "title_en": "Chapter 175",
+    "title_cn": "第175章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0175.json"
+  },
+  {
+    "num": 176,
+    "title_en": "Chapter 176",
+    "title_cn": "第176章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0176.json"
+  },
+  {
+    "num": 177,
+    "title_en": "Chapter 177",
+    "title_cn": "第177章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0177.json"
+  },
+  {
+    "num": 178,
+    "title_en": "Chapter 178",
+    "title_cn": "第178章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0178.json"
+  },
+  {
+    "num": 179,
+    "title_en": "Chapter 179",
+    "title_cn": "第179章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0179.json"
+  },
+  {
+    "num": 180,
+    "title_en": "Chapter 180",
+    "title_cn": "第180章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0180.json"
+  },
+  {
+    "num": 181,
+    "title_en": "Chapter 181",
+    "title_cn": "第181章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0181.json"
+  },
+  {
+    "num": 182,
+    "title_en": "Chapter 182",
+    "title_cn": "第182章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0182.json"
+  },
+  {
+    "num": 183,
+    "title_en": "Chapter 183",
+    "title_cn": "第183章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0183.json"
+  },
+  {
+    "num": 184,
+    "title_en": "Chapter 184",
+    "title_cn": "第184章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0184.json"
+  },
+  {
+    "num": 185,
+    "title_en": "Chapter 185",
+    "title_cn": "第185章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0185.json"
+  },
+  {
+    "num": 186,
+    "title_en": "Chapter 186",
+    "title_cn": "第186章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0186.json"
+  },
+  {
+    "num": 187,
+    "title_en": "Chapter 187",
+    "title_cn": "第187章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0187.json"
+  },
+  {
+    "num": 188,
+    "title_en": "Chapter 188",
+    "title_cn": "第188章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0188.json"
+  },
+  {
+    "num": 189,
+    "title_en": "Chapter 189",
+    "title_cn": "第189章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0189.json"
+  },
+  {
+    "num": 190,
+    "title_en": "Chapter 190",
+    "title_cn": "第190章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0190.json"
+  },
+  {
+    "num": 191,
+    "title_en": "Chapter 191",
+    "title_cn": "第191章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0191.json"
+  },
+  {
+    "num": 192,
+    "title_en": "Chapter 192",
+    "title_cn": "第192章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0192.json"
+  },
+  {
+    "num": 193,
+    "title_en": "Chapter 193",
+    "title_cn": "第193章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0193.json"
+  },
+  {
+    "num": 194,
+    "title_en": "Chapter 194",
+    "title_cn": "第194章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0194.json"
+  },
+  {
+    "num": 195,
+    "title_en": "Chapter 195",
+    "title_cn": "第195章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0195.json"
+  },
+  {
+    "num": 196,
+    "title_en": "Chapter 196",
+    "title_cn": "第196章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0196.json"
+  },
+  {
+    "num": 197,
+    "title_en": "Chapter 197",
+    "title_cn": "第197章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0197.json"
+  },
+  {
+    "num": 198,
+    "title_en": "Chapter 198",
+    "title_cn": "第198章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0198.json"
+  },
+  {
+    "num": 199,
+    "title_en": "Chapter 199",
+    "title_cn": "第199章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0199.json"
+  },
+  {
+    "num": 200,
+    "title_en": "Chapter 200",
+    "title_cn": "第200章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0200.json"
+  },
+  {
+    "num": 201,
+    "title_en": "Chapter 201",
+    "title_cn": "第201章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0201.json"
+  },
+  {
+    "num": 202,
+    "title_en": "Chapter 202",
+    "title_cn": "第202章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0202.json"
+  },
+  {
+    "num": 203,
+    "title_en": "Chapter 203",
+    "title_cn": "第203章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0203.json"
+  },
+  {
+    "num": 204,
+    "title_en": "Chapter 204",
+    "title_cn": "第204章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0204.json"
+  },
+  {
+    "num": 205,
+    "title_en": "Chapter 205",
+    "title_cn": "第205章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0205.json"
+  },
+  {
+    "num": 206,
+    "title_en": "Chapter 206",
+    "title_cn": "第206章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0206.json"
+  },
+  {
+    "num": 207,
+    "title_en": "Chapter 207",
+    "title_cn": "第207章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0207.json"
+  },
+  {
+    "num": 208,
+    "title_en": "Chapter 208",
+    "title_cn": "第208章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0208.json"
+  },
+  {
+    "num": 209,
+    "title_en": "Chapter 209",
+    "title_cn": "第209章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0209.json"
+  },
+  {
+    "num": 210,
+    "title_en": "Chapter 210",
+    "title_cn": "第210章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0210.json"
+  },
+  {
+    "num": 211,
+    "title_en": "Chapter 211",
+    "title_cn": "第211章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0211.json"
+  },
+  {
+    "num": 212,
+    "title_en": "Chapter 212",
+    "title_cn": "第212章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0212.json"
+  },
+  {
+    "num": 213,
+    "title_en": "Chapter 213",
+    "title_cn": "第213章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0213.json"
+  },
+  {
+    "num": 214,
+    "title_en": "Chapter 214",
+    "title_cn": "第214章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0214.json"
+  },
+  {
+    "num": 215,
+    "title_en": "Chapter 215",
+    "title_cn": "第215章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0215.json"
+  },
+  {
+    "num": 216,
+    "title_en": "Chapter 216",
+    "title_cn": "第216章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0216.json"
+  },
+  {
+    "num": 217,
+    "title_en": "Chapter 217",
+    "title_cn": "第217章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0217.json"
+  },
+  {
+    "num": 218,
+    "title_en": "Chapter 218",
+    "title_cn": "第218章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0218.json"
+  },
+  {
+    "num": 219,
+    "title_en": "Chapter 219",
+    "title_cn": "第219章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0219.json"
+  },
+  {
+    "num": 220,
+    "title_en": "Chapter 220",
+    "title_cn": "第220章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0220.json"
+  },
+  {
+    "num": 221,
+    "title_en": "Chapter 221",
+    "title_cn": "第221章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0221.json"
+  },
+  {
+    "num": 222,
+    "title_en": "Chapter 222",
+    "title_cn": "第222章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0222.json"
+  },
+  {
+    "num": 223,
+    "title_en": "Chapter 223",
+    "title_cn": "第223章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0223.json"
+  },
+  {
+    "num": 224,
+    "title_en": "Chapter 224",
+    "title_cn": "第224章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0224.json"
+  },
+  {
+    "num": 225,
+    "title_en": "Chapter 225",
+    "title_cn": "第225章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0225.json"
+  },
+  {
+    "num": 226,
+    "title_en": "Chapter 226",
+    "title_cn": "第226章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0226.json"
+  },
+  {
+    "num": 227,
+    "title_en": "Chapter 227",
+    "title_cn": "第227章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0227.json"
+  },
+  {
+    "num": 228,
+    "title_en": "Chapter 228",
+    "title_cn": "第228章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0228.json"
+  },
+  {
+    "num": 229,
+    "title_en": "Chapter 229",
+    "title_cn": "第229章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0229.json"
+  },
+  {
+    "num": 230,
+    "title_en": "Chapter 230",
+    "title_cn": "第230章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0230.json"
+  },
+  {
+    "num": 231,
+    "title_en": "Chapter 231",
+    "title_cn": "第231章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0231.json"
+  },
+  {
+    "num": 232,
+    "title_en": "Chapter 232",
+    "title_cn": "第232章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0232.json"
+  },
+  {
+    "num": 233,
+    "title_en": "Chapter 233",
+    "title_cn": "第233章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0233.json"
+  },
+  {
+    "num": 234,
+    "title_en": "Chapter 234",
+    "title_cn": "第234章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0234.json"
+  },
+  {
+    "num": 235,
+    "title_en": "Chapter 235",
+    "title_cn": "第235章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0235.json"
+  },
+  {
+    "num": 236,
+    "title_en": "Chapter 236",
+    "title_cn": "第236章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0236.json"
+  },
+  {
+    "num": 237,
+    "title_en": "Chapter 237",
+    "title_cn": "第237章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0237.json"
+  },
+  {
+    "num": 238,
+    "title_en": "Chapter 238",
+    "title_cn": "第238章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0238.json"
+  },
+  {
+    "num": 239,
+    "title_en": "Chapter 239",
+    "title_cn": "第239章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0239.json"
+  },
+  {
+    "num": 240,
+    "title_en": "Chapter 240",
+    "title_cn": "第240章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0240.json"
+  },
+  {
+    "num": 241,
+    "title_en": "Chapter 241",
+    "title_cn": "第241章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0241.json"
+  },
+  {
+    "num": 242,
+    "title_en": "Chapter 242",
+    "title_cn": "第242章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0242.json"
+  },
+  {
+    "num": 243,
+    "title_en": "Chapter 243",
+    "title_cn": "第243章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0243.json"
+  },
+  {
+    "num": 244,
+    "title_en": "Chapter 244",
+    "title_cn": "第244章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0244.json"
+  },
+  {
+    "num": 245,
+    "title_en": "Chapter 245",
+    "title_cn": "第245章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0245.json"
+  },
+  {
+    "num": 246,
+    "title_en": "Chapter 246",
+    "title_cn": "第246章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0246.json"
+  },
+  {
+    "num": 247,
+    "title_en": "Chapter 247",
+    "title_cn": "第247章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0247.json"
+  },
+  {
+    "num": 248,
+    "title_en": "Chapter 248",
+    "title_cn": "第248章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0248.json"
+  },
+  {
+    "num": 249,
+    "title_en": "Chapter 249",
+    "title_cn": "第249章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0249.json"
+  },
+  {
+    "num": 250,
+    "title_en": "Chapter 250",
+    "title_cn": "第250章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0250.json"
+  },
+  {
+    "num": 251,
+    "title_en": "Chapter 251",
+    "title_cn": "第251章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0251.json"
+  },
+  {
+    "num": 252,
+    "title_en": "Chapter 252",
+    "title_cn": "第252章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0252.json"
+  },
+  {
+    "num": 253,
+    "title_en": "Chapter 253",
+    "title_cn": "第253章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0253.json"
+  },
+  {
+    "num": 254,
+    "title_en": "Chapter 254",
+    "title_cn": "第254章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0254.json"
+  },
+  {
+    "num": 255,
+    "title_en": "Chapter 255",
+    "title_cn": "第255章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0255.json"
+  },
+  {
+    "num": 256,
+    "title_en": "Chapter 256",
+    "title_cn": "第256章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0256.json"
+  },
+  {
+    "num": 257,
+    "title_en": "Chapter 257",
+    "title_cn": "第257章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0257.json"
+  },
+  {
+    "num": 258,
+    "title_en": "Chapter 258",
+    "title_cn": "第258章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0258.json"
+  },
+  {
+    "num": 259,
+    "title_en": "Chapter 259",
+    "title_cn": "第259章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0259.json"
+  },
+  {
+    "num": 260,
+    "title_en": "Chapter 260",
+    "title_cn": "第260章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0260.json"
+  },
+  {
+    "num": 261,
+    "title_en": "Chapter 261",
+    "title_cn": "第261章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0261.json"
+  },
+  {
+    "num": 262,
+    "title_en": "Chapter 262",
+    "title_cn": "第262章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0262.json"
+  },
+  {
+    "num": 263,
+    "title_en": "Chapter 263",
+    "title_cn": "第263章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0263.json"
+  },
+  {
+    "num": 264,
+    "title_en": "Chapter 264",
+    "title_cn": "第264章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0264.json"
+  },
+  {
+    "num": 265,
+    "title_en": "Chapter 265",
+    "title_cn": "第265章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0265.json"
+  },
+  {
+    "num": 266,
+    "title_en": "Chapter 266",
+    "title_cn": "第266章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0266.json"
+  },
+  {
+    "num": 267,
+    "title_en": "Chapter 267",
+    "title_cn": "第267章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0267.json"
+  },
+  {
+    "num": 268,
+    "title_en": "Chapter 268",
+    "title_cn": "第268章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0268.json"
+  },
+  {
+    "num": 269,
+    "title_en": "Chapter 269",
+    "title_cn": "第269章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0269.json"
+  },
+  {
+    "num": 270,
+    "title_en": "Chapter 270",
+    "title_cn": "第270章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0270.json"
+  },
+  {
+    "num": 271,
+    "title_en": "Chapter 271",
+    "title_cn": "第271章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0271.json"
+  },
+  {
+    "num": 272,
+    "title_en": "Chapter 272",
+    "title_cn": "第272章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0272.json"
+  },
+  {
+    "num": 273,
+    "title_en": "Chapter 273",
+    "title_cn": "第273章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0273.json"
+  },
+  {
+    "num": 274,
+    "title_en": "Chapter 274",
+    "title_cn": "第274章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0274.json"
+  },
+  {
+    "num": 275,
+    "title_en": "Chapter 275",
+    "title_cn": "第275章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0275.json"
+  },
+  {
+    "num": 276,
+    "title_en": "Chapter 276",
+    "title_cn": "第276章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0276.json"
+  },
+  {
+    "num": 277,
+    "title_en": "Chapter 277",
+    "title_cn": "第277章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0277.json"
+  },
+  {
+    "num": 278,
+    "title_en": "Chapter 278",
+    "title_cn": "第278章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0278.json"
+  },
+  {
+    "num": 279,
+    "title_en": "Chapter 279",
+    "title_cn": "第279章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0279.json"
+  },
+  {
+    "num": 280,
+    "title_en": "Chapter 280",
+    "title_cn": "第280章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0280.json"
+  },
+  {
+    "num": 281,
+    "title_en": "Chapter 281",
+    "title_cn": "第281章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0281.json"
+  },
+  {
+    "num": 282,
+    "title_en": "Chapter 282",
+    "title_cn": "第282章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0282.json"
+  },
+  {
+    "num": 283,
+    "title_en": "Chapter 283",
+    "title_cn": "第283章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0283.json"
+  },
+  {
+    "num": 284,
+    "title_en": "Chapter 284",
+    "title_cn": "第284章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0284.json"
+  },
+  {
+    "num": 285,
+    "title_en": "Chapter 285",
+    "title_cn": "第285章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0285.json"
+  },
+  {
+    "num": 286,
+    "title_en": "Chapter 286",
+    "title_cn": "第286章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0286.json"
+  },
+  {
+    "num": 287,
+    "title_en": "Chapter 287",
+    "title_cn": "第287章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0287.json"
+  },
+  {
+    "num": 288,
+    "title_en": "Chapter 288",
+    "title_cn": "第288章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0288.json"
+  },
+  {
+    "num": 289,
+    "title_en": "Chapter 289",
+    "title_cn": "第289章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0289.json"
+  },
+  {
+    "num": 290,
+    "title_en": "Chapter 290",
+    "title_cn": "第290章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0290.json"
+  },
+  {
+    "num": 291,
+    "title_en": "Chapter 291",
+    "title_cn": "第291章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0291.json"
+  },
+  {
+    "num": 292,
+    "title_en": "Chapter 292",
+    "title_cn": "第292章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0292.json"
+  },
+  {
+    "num": 293,
+    "title_en": "Chapter 293",
+    "title_cn": "第293章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0293.json"
+  },
+  {
+    "num": 294,
+    "title_en": "Chapter 294",
+    "title_cn": "第294章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0294.json"
+  },
+  {
+    "num": 295,
+    "title_en": "Chapter 295",
+    "title_cn": "第295章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0295.json"
+  },
+  {
+    "num": 296,
+    "title_en": "Chapter 296",
+    "title_cn": "第296章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0296.json"
+  },
+  {
+    "num": 297,
+    "title_en": "Chapter 297",
+    "title_cn": "第297章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0297.json"
+  },
+  {
+    "num": 298,
+    "title_en": "Chapter 298",
+    "title_cn": "第298章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0298.json"
+  },
+  {
+    "num": 299,
+    "title_en": "Chapter 299",
+    "title_cn": "第299章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0299.json"
+  },
+  {
+    "num": 300,
+    "title_en": "Chapter 300",
+    "title_cn": "第300章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0300.json"
+  },
+  {
+    "num": 301,
+    "title_en": "Chapter 301",
+    "title_cn": "第301章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0301.json"
+  },
+  {
+    "num": 302,
+    "title_en": "Chapter 302",
+    "title_cn": "第302章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0302.json"
+  },
+  {
+    "num": 303,
+    "title_en": "Chapter 303",
+    "title_cn": "第303章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0303.json"
+  },
+  {
+    "num": 304,
+    "title_en": "Chapter 304",
+    "title_cn": "第304章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0304.json"
+  },
+  {
+    "num": 305,
+    "title_en": "Chapter 305",
+    "title_cn": "第305章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0305.json"
+  },
+  {
+    "num": 306,
+    "title_en": "Chapter 306",
+    "title_cn": "第306章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0306.json"
+  },
+  {
+    "num": 307,
+    "title_en": "Chapter 307",
+    "title_cn": "第307章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0307.json"
+  },
+  {
+    "num": 308,
+    "title_en": "Chapter 308",
+    "title_cn": "第308章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0308.json"
+  },
+  {
+    "num": 309,
+    "title_en": "Chapter 309",
+    "title_cn": "第309章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0309.json"
+  },
+  {
+    "num": 310,
+    "title_en": "Chapter 310",
+    "title_cn": "第310章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0310.json"
+  },
+  {
+    "num": 311,
+    "title_en": "Chapter 311",
+    "title_cn": "第311章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0311.json"
+  },
+  {
+    "num": 312,
+    "title_en": "Chapter 312",
+    "title_cn": "第312章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0312.json"
+  },
+  {
+    "num": 313,
+    "title_en": "Chapter 313",
+    "title_cn": "第313章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0313.json"
+  },
+  {
+    "num": 314,
+    "title_en": "Chapter 314",
+    "title_cn": "第314章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0314.json"
+  },
+  {
+    "num": 315,
+    "title_en": "Chapter 315",
+    "title_cn": "第315章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0315.json"
+  },
+  {
+    "num": 316,
+    "title_en": "Chapter 316",
+    "title_cn": "第316章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0316.json"
+  },
+  {
+    "num": 317,
+    "title_en": "Chapter 317",
+    "title_cn": "第317章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0317.json"
+  },
+  {
+    "num": 318,
+    "title_en": "Chapter 318",
+    "title_cn": "第318章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0318.json"
+  },
+  {
+    "num": 319,
+    "title_en": "Chapter 319",
+    "title_cn": "第319章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0319.json"
+  },
+  {
+    "num": 320,
+    "title_en": "Chapter 320",
+    "title_cn": "第320章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0320.json"
+  },
+  {
+    "num": 321,
+    "title_en": "Chapter 321",
+    "title_cn": "第321章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0321.json"
+  },
+  {
+    "num": 322,
+    "title_en": "Chapter 322",
+    "title_cn": "第322章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0322.json"
+  },
+  {
+    "num": 323,
+    "title_en": "Chapter 323",
+    "title_cn": "第323章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0323.json"
+  },
+  {
+    "num": 324,
+    "title_en": "Chapter 324",
+    "title_cn": "第324章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0324.json"
+  },
+  {
+    "num": 325,
+    "title_en": "Chapter 325",
+    "title_cn": "第325章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0325.json"
+  },
+  {
+    "num": 326,
+    "title_en": "Chapter 326",
+    "title_cn": "第326章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0326.json"
+  },
+  {
+    "num": 327,
+    "title_en": "Chapter 327",
+    "title_cn": "第327章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0327.json"
+  },
+  {
+    "num": 328,
+    "title_en": "Chapter 328",
+    "title_cn": "第328章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0328.json"
+  },
+  {
+    "num": 329,
+    "title_en": "Chapter 329",
+    "title_cn": "第329章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0329.json"
+  },
+  {
+    "num": 330,
+    "title_en": "Chapter 330",
+    "title_cn": "第330章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0330.json"
+  },
+  {
+    "num": 331,
+    "title_en": "Chapter 331",
+    "title_cn": "第331章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0331.json"
+  },
+  {
+    "num": 332,
+    "title_en": "Chapter 332",
+    "title_cn": "第332章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0332.json"
+  },
+  {
+    "num": 333,
+    "title_en": "Chapter 333",
+    "title_cn": "第333章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0333.json"
+  },
+  {
+    "num": 334,
+    "title_en": "Chapter 334",
+    "title_cn": "第334章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0334.json"
+  },
+  {
+    "num": 335,
+    "title_en": "Chapter 335",
+    "title_cn": "第335章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0335.json"
+  },
+  {
+    "num": 336,
+    "title_en": "Chapter 336",
+    "title_cn": "第336章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0336.json"
+  },
+  {
+    "num": 337,
+    "title_en": "Chapter 337",
+    "title_cn": "第337章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0337.json"
+  },
+  {
+    "num": 338,
+    "title_en": "Chapter 338",
+    "title_cn": "第338章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0338.json"
+  },
+  {
+    "num": 339,
+    "title_en": "Chapter 339",
+    "title_cn": "第339章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0339.json"
+  },
+  {
+    "num": 340,
+    "title_en": "Chapter 340",
+    "title_cn": "第340章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0340.json"
+  },
+  {
+    "num": 341,
+    "title_en": "Chapter 341",
+    "title_cn": "第341章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0341.json"
+  },
+  {
+    "num": 342,
+    "title_en": "Chapter 342",
+    "title_cn": "第342章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0342.json"
+  },
+  {
+    "num": 343,
+    "title_en": "Chapter 343",
+    "title_cn": "第343章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0343.json"
+  },
+  {
+    "num": 344,
+    "title_en": "Chapter 344",
+    "title_cn": "第344章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0344.json"
+  },
+  {
+    "num": 345,
+    "title_en": "Chapter 345",
+    "title_cn": "第345章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0345.json"
+  },
+  {
+    "num": 346,
+    "title_en": "Chapter 346",
+    "title_cn": "第346章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0346.json"
+  },
+  {
+    "num": 347,
+    "title_en": "Chapter 347",
+    "title_cn": "第347章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0347.json"
+  },
+  {
+    "num": 348,
+    "title_en": "Chapter 348",
+    "title_cn": "第348章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0348.json"
+  },
+  {
+    "num": 349,
+    "title_en": "Chapter 349",
+    "title_cn": "第349章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0349.json"
+  },
+  {
+    "num": 350,
+    "title_en": "Chapter 350",
+    "title_cn": "第350章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0350.json"
+  },
+  {
+    "num": 351,
+    "title_en": "Chapter 351",
+    "title_cn": "第351章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0351.json"
+  },
+  {
+    "num": 352,
+    "title_en": "Chapter 352",
+    "title_cn": "第352章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0352.json"
+  },
+  {
+    "num": 353,
+    "title_en": "Chapter 353",
+    "title_cn": "第353章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0353.json"
+  },
+  {
+    "num": 354,
+    "title_en": "Chapter 354",
+    "title_cn": "第354章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0354.json"
+  },
+  {
+    "num": 355,
+    "title_en": "Chapter 355",
+    "title_cn": "第355章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0355.json"
+  },
+  {
+    "num": 356,
+    "title_en": "Chapter 356",
+    "title_cn": "第356章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0356.json"
+  },
+  {
+    "num": 357,
+    "title_en": "Chapter 357",
+    "title_cn": "第357章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0357.json"
+  },
+  {
+    "num": 358,
+    "title_en": "Chapter 358",
+    "title_cn": "第358章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0358.json"
+  },
+  {
+    "num": 359,
+    "title_en": "Chapter 359",
+    "title_cn": "第359章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0359.json"
+  },
+  {
+    "num": 360,
+    "title_en": "Chapter 360",
+    "title_cn": "第360章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0360.json"
+  },
+  {
+    "num": 361,
+    "title_en": "Chapter 361",
+    "title_cn": "第361章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0361.json"
+  },
+  {
+    "num": 362,
+    "title_en": "Chapter 362",
+    "title_cn": "第362章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0362.json"
+  },
+  {
+    "num": 363,
+    "title_en": "Chapter 363",
+    "title_cn": "第363章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0363.json"
+  },
+  {
+    "num": 364,
+    "title_en": "Chapter 364",
+    "title_cn": "第364章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0364.json"
+  },
+  {
+    "num": 365,
+    "title_en": "Chapter 365",
+    "title_cn": "第365章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0365.json"
+  },
+  {
+    "num": 366,
+    "title_en": "Chapter 366",
+    "title_cn": "第366章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0366.json"
+  },
+  {
+    "num": 367,
+    "title_en": "Chapter 367",
+    "title_cn": "第367章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0367.json"
+  },
+  {
+    "num": 368,
+    "title_en": "Chapter 368",
+    "title_cn": "第368章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0368.json"
+  },
+  {
+    "num": 369,
+    "title_en": "Chapter 369",
+    "title_cn": "第369章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0369.json"
+  },
+  {
+    "num": 370,
+    "title_en": "Chapter 370",
+    "title_cn": "第370章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0370.json"
+  },
+  {
+    "num": 371,
+    "title_en": "Chapter 371",
+    "title_cn": "第371章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0371.json"
+  },
+  {
+    "num": 372,
+    "title_en": "Chapter 372",
+    "title_cn": "第372章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0372.json"
+  },
+  {
+    "num": 373,
+    "title_en": "Chapter 373",
+    "title_cn": "第373章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0373.json"
+  },
+  {
+    "num": 374,
+    "title_en": "Chapter 374",
+    "title_cn": "第374章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0374.json"
+  },
+  {
+    "num": 375,
+    "title_en": "Chapter 375",
+    "title_cn": "第375章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0375.json"
+  },
+  {
+    "num": 376,
+    "title_en": "Chapter 376",
+    "title_cn": "第376章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0376.json"
+  },
+  {
+    "num": 377,
+    "title_en": "Chapter 377",
+    "title_cn": "第377章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0377.json"
+  },
+  {
+    "num": 378,
+    "title_en": "Chapter 378",
+    "title_cn": "第378章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0378.json"
+  },
+  {
+    "num": 379,
+    "title_en": "Chapter 379",
+    "title_cn": "第379章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0379.json"
+  },
+  {
+    "num": 380,
+    "title_en": "Chapter 380",
+    "title_cn": "第380章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0380.json"
+  },
+  {
+    "num": 381,
+    "title_en": "Chapter 381",
+    "title_cn": "第381章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0381.json"
+  },
+  {
+    "num": 382,
+    "title_en": "Chapter 382",
+    "title_cn": "第382章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0382.json"
+  },
+  {
+    "num": 383,
+    "title_en": "Chapter 383",
+    "title_cn": "第383章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0383.json"
+  },
+  {
+    "num": 384,
+    "title_en": "Chapter 384",
+    "title_cn": "第384章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0384.json"
+  },
+  {
+    "num": 385,
+    "title_en": "Chapter 385",
+    "title_cn": "第385章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0385.json"
+  },
+  {
+    "num": 386,
+    "title_en": "Chapter 386",
+    "title_cn": "第386章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0386.json"
+  },
+  {
+    "num": 387,
+    "title_en": "Chapter 387",
+    "title_cn": "第387章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0387.json"
+  },
+  {
+    "num": 388,
+    "title_en": "Chapter 388",
+    "title_cn": "第388章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0388.json"
+  },
+  {
+    "num": 389,
+    "title_en": "Chapter 389",
+    "title_cn": "第389章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0389.json"
+  },
+  {
+    "num": 390,
+    "title_en": "Chapter 390",
+    "title_cn": "第390章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0390.json"
+  },
+  {
+    "num": 391,
+    "title_en": "Chapter 391",
+    "title_cn": "第391章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0391.json"
+  },
+  {
+    "num": 392,
+    "title_en": "Chapter 392",
+    "title_cn": "第392章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0392.json"
+  },
+  {
+    "num": 393,
+    "title_en": "Chapter 393",
+    "title_cn": "第393章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0393.json"
+  },
+  {
+    "num": 394,
+    "title_en": "Chapter 394",
+    "title_cn": "第394章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0394.json"
+  },
+  {
+    "num": 395,
+    "title_en": "Chapter 395",
+    "title_cn": "第395章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0395.json"
+  },
+  {
+    "num": 396,
+    "title_en": "Chapter 396",
+    "title_cn": "第396章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0396.json"
+  },
+  {
+    "num": 397,
+    "title_en": "Chapter 397",
+    "title_cn": "第397章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0397.json"
+  },
+  {
+    "num": 398,
+    "title_en": "Chapter 398",
+    "title_cn": "第398章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0398.json"
+  },
+  {
+    "num": 399,
+    "title_en": "Chapter 399",
+    "title_cn": "第399章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0399.json"
+  },
+  {
+    "num": 400,
+    "title_en": "Chapter 400",
+    "title_cn": "第400章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0400.json"
+  },
+  {
+    "num": 401,
+    "title_en": "Chapter 401",
+    "title_cn": "第401章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0401.json"
+  },
+  {
+    "num": 402,
+    "title_en": "Chapter 402",
+    "title_cn": "第402章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0402.json"
+  },
+  {
+    "num": 403,
+    "title_en": "Chapter 403",
+    "title_cn": "第403章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0403.json"
+  },
+  {
+    "num": 404,
+    "title_en": "Chapter 404",
+    "title_cn": "第404章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0404.json"
+  },
+  {
+    "num": 405,
+    "title_en": "Chapter 405",
+    "title_cn": "第405章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0405.json"
+  },
+  {
+    "num": 406,
+    "title_en": "Chapter 406",
+    "title_cn": "第406章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0406.json"
+  },
+  {
+    "num": 407,
+    "title_en": "Chapter 407",
+    "title_cn": "第407章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0407.json"
+  },
+  {
+    "num": 408,
+    "title_en": "Chapter 408",
+    "title_cn": "第408章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0408.json"
+  },
+  {
+    "num": 409,
+    "title_en": "Chapter 409",
+    "title_cn": "第409章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0409.json"
+  },
+  {
+    "num": 410,
+    "title_en": "Chapter 410",
+    "title_cn": "第410章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0410.json"
+  },
+  {
+    "num": 411,
+    "title_en": "Chapter 411",
+    "title_cn": "第411章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0411.json"
+  },
+  {
+    "num": 412,
+    "title_en": "Chapter 412",
+    "title_cn": "第412章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0412.json"
+  },
+  {
+    "num": 413,
+    "title_en": "Chapter 413",
+    "title_cn": "第413章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0413.json"
+  },
+  {
+    "num": 414,
+    "title_en": "Chapter 414",
+    "title_cn": "第414章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0414.json"
+  },
+  {
+    "num": 415,
+    "title_en": "Chapter 415",
+    "title_cn": "第415章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0415.json"
+  },
+  {
+    "num": 416,
+    "title_en": "Chapter 416",
+    "title_cn": "第416章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0416.json"
+  },
+  {
+    "num": 417,
+    "title_en": "Chapter 417",
+    "title_cn": "第417章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0417.json"
+  },
+  {
+    "num": 418,
+    "title_en": "Chapter 418",
+    "title_cn": "第418章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0418.json"
+  },
+  {
+    "num": 419,
+    "title_en": "Chapter 419",
+    "title_cn": "第419章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0419.json"
+  },
+  {
+    "num": 420,
+    "title_en": "Chapter 420",
+    "title_cn": "第420章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0420.json"
+  },
+  {
+    "num": 421,
+    "title_en": "Chapter 421",
+    "title_cn": "第421章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0421.json"
+  },
+  {
+    "num": 422,
+    "title_en": "Chapter 422",
+    "title_cn": "第422章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0422.json"
+  },
+  {
+    "num": 423,
+    "title_en": "Chapter 423",
+    "title_cn": "第423章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0423.json"
+  },
+  {
+    "num": 424,
+    "title_en": "Chapter 424",
+    "title_cn": "第424章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0424.json"
+  },
+  {
+    "num": 425,
+    "title_en": "Chapter 425",
+    "title_cn": "第425章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0425.json"
+  },
+  {
+    "num": 426,
+    "title_en": "Chapter 426",
+    "title_cn": "第426章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0426.json"
+  },
+  {
+    "num": 427,
+    "title_en": "Chapter 427",
+    "title_cn": "第427章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0427.json"
+  },
+  {
+    "num": 428,
+    "title_en": "Chapter 428",
+    "title_cn": "第428章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0428.json"
+  },
+  {
+    "num": 429,
+    "title_en": "Chapter 429",
+    "title_cn": "第429章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0429.json"
+  },
+  {
+    "num": 430,
+    "title_en": "Chapter 430",
+    "title_cn": "第430章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0430.json"
+  },
+  {
+    "num": 431,
+    "title_en": "Chapter 431",
+    "title_cn": "第431章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0431.json"
+  },
+  {
+    "num": 432,
+    "title_en": "Chapter 432",
+    "title_cn": "第432章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0432.json"
+  },
+  {
+    "num": 433,
+    "title_en": "Chapter 433",
+    "title_cn": "第433章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0433.json"
+  },
+  {
+    "num": 434,
+    "title_en": "Chapter 434",
+    "title_cn": "第434章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0434.json"
+  },
+  {
+    "num": 435,
+    "title_en": "Chapter 435",
+    "title_cn": "第435章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0435.json"
+  },
+  {
+    "num": 436,
+    "title_en": "Chapter 436",
+    "title_cn": "第436章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0436.json"
+  },
+  {
+    "num": 437,
+    "title_en": "Chapter 437",
+    "title_cn": "第437章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0437.json"
+  },
+  {
+    "num": 438,
+    "title_en": "Chapter 438",
+    "title_cn": "第438章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0438.json"
+  },
+  {
+    "num": 439,
+    "title_en": "Chapter 439",
+    "title_cn": "第439章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0439.json"
+  },
+  {
+    "num": 440,
+    "title_en": "Chapter 440",
+    "title_cn": "第440章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0440.json"
+  },
+  {
+    "num": 441,
+    "title_en": "Chapter 441",
+    "title_cn": "第441章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0441.json"
+  },
+  {
+    "num": 442,
+    "title_en": "Chapter 442",
+    "title_cn": "第442章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0442.json"
+  },
+  {
+    "num": 443,
+    "title_en": "Chapter 443",
+    "title_cn": "第443章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0443.json"
+  },
+  {
+    "num": 444,
+    "title_en": "Chapter 444",
+    "title_cn": "第444章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0444.json"
+  },
+  {
+    "num": 445,
+    "title_en": "Chapter 445",
+    "title_cn": "第445章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0445.json"
+  },
+  {
+    "num": 446,
+    "title_en": "Chapter 446",
+    "title_cn": "第446章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0446.json"
+  },
+  {
+    "num": 447,
+    "title_en": "Chapter 447",
+    "title_cn": "第447章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0447.json"
+  },
+  {
+    "num": 448,
+    "title_en": "Chapter 448",
+    "title_cn": "第448章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0448.json"
+  },
+  {
+    "num": 449,
+    "title_en": "Chapter 449",
+    "title_cn": "第449章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0449.json"
+  },
+  {
+    "num": 450,
+    "title_en": "Chapter 450",
+    "title_cn": "第450章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0450.json"
+  },
+  {
+    "num": 451,
+    "title_en": "Chapter 451",
+    "title_cn": "第451章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0451.json"
+  },
+  {
+    "num": 452,
+    "title_en": "Chapter 452",
+    "title_cn": "第452章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0452.json"
+  },
+  {
+    "num": 453,
+    "title_en": "Chapter 453",
+    "title_cn": "第453章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0453.json"
+  },
+  {
+    "num": 454,
+    "title_en": "Chapter 454",
+    "title_cn": "第454章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0454.json"
+  },
+  {
+    "num": 455,
+    "title_en": "Chapter 455",
+    "title_cn": "第455章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0455.json"
+  },
+  {
+    "num": 456,
+    "title_en": "Chapter 456",
+    "title_cn": "第456章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0456.json"
+  },
+  {
+    "num": 457,
+    "title_en": "Chapter 457",
+    "title_cn": "第457章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0457.json"
+  },
+  {
+    "num": 458,
+    "title_en": "Chapter 458",
+    "title_cn": "第458章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0458.json"
+  },
+  {
+    "num": 459,
+    "title_en": "Chapter 459",
+    "title_cn": "第459章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0459.json"
+  },
+  {
+    "num": 460,
+    "title_en": "Chapter 460",
+    "title_cn": "第460章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0460.json"
+  },
+  {
+    "num": 461,
+    "title_en": "Chapter 461",
+    "title_cn": "第461章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0461.json"
+  },
+  {
+    "num": 462,
+    "title_en": "Chapter 462",
+    "title_cn": "第462章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0462.json"
+  },
+  {
+    "num": 463,
+    "title_en": "Chapter 463",
+    "title_cn": "第463章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0463.json"
+  },
+  {
+    "num": 464,
+    "title_en": "Chapter 464",
+    "title_cn": "第464章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0464.json"
+  },
+  {
+    "num": 465,
+    "title_en": "Chapter 465",
+    "title_cn": "第465章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0465.json"
+  },
+  {
+    "num": 466,
+    "title_en": "Chapter 466",
+    "title_cn": "第466章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0466.json"
+  },
+  {
+    "num": 467,
+    "title_en": "Chapter 467",
+    "title_cn": "第467章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0467.json"
+  },
+  {
+    "num": 468,
+    "title_en": "Chapter 468",
+    "title_cn": "第468章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0468.json"
+  },
+  {
+    "num": 469,
+    "title_en": "Chapter 469",
+    "title_cn": "第469章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0469.json"
+  },
+  {
+    "num": 470,
+    "title_en": "Chapter 470",
+    "title_cn": "第470章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0470.json"
+  },
+  {
+    "num": 471,
+    "title_en": "Chapter 471",
+    "title_cn": "第471章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0471.json"
+  },
+  {
+    "num": 472,
+    "title_en": "Chapter 472",
+    "title_cn": "第472章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0472.json"
+  },
+  {
+    "num": 473,
+    "title_en": "Chapter 473",
+    "title_cn": "第473章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0473.json"
+  },
+  {
+    "num": 474,
+    "title_en": "Chapter 474",
+    "title_cn": "第474章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0474.json"
+  },
+  {
+    "num": 475,
+    "title_en": "Chapter 475",
+    "title_cn": "第475章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0475.json"
+  },
+  {
+    "num": 476,
+    "title_en": "Chapter 476",
+    "title_cn": "第476章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0476.json"
+  },
+  {
+    "num": 477,
+    "title_en": "Chapter 477",
+    "title_cn": "第477章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0477.json"
+  },
+  {
+    "num": 478,
+    "title_en": "Chapter 478",
+    "title_cn": "第478章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0478.json"
+  },
+  {
+    "num": 479,
+    "title_en": "Chapter 479",
+    "title_cn": "第479章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0479.json"
+  },
+  {
+    "num": 480,
+    "title_en": "Chapter 480",
+    "title_cn": "第480章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0480.json"
+  },
+  {
+    "num": 481,
+    "title_en": "Chapter 481",
+    "title_cn": "第481章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0481.json"
+  },
+  {
+    "num": 482,
+    "title_en": "Chapter 482",
+    "title_cn": "第482章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0482.json"
+  },
+  {
+    "num": 483,
+    "title_en": "Chapter 483",
+    "title_cn": "第483章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0483.json"
+  },
+  {
+    "num": 484,
+    "title_en": "Chapter 484",
+    "title_cn": "第484章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0484.json"
+  },
+  {
+    "num": 485,
+    "title_en": "Chapter 485",
+    "title_cn": "第485章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0485.json"
+  },
+  {
+    "num": 486,
+    "title_en": "Chapter 486",
+    "title_cn": "第486章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0486.json"
+  },
+  {
+    "num": 487,
+    "title_en": "Chapter 487",
+    "title_cn": "第487章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0487.json"
+  },
+  {
+    "num": 488,
+    "title_en": "Chapter 488",
+    "title_cn": "第488章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0488.json"
+  },
+  {
+    "num": 489,
+    "title_en": "Chapter 489",
+    "title_cn": "第489章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0489.json"
+  },
+  {
+    "num": 490,
+    "title_en": "Chapter 490",
+    "title_cn": "第490章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0490.json"
+  },
+  {
+    "num": 491,
+    "title_en": "Chapter 491",
+    "title_cn": "第491章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0491.json"
+  },
+  {
+    "num": 492,
+    "title_en": "Chapter 492",
+    "title_cn": "第492章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0492.json"
+  },
+  {
+    "num": 493,
+    "title_en": "Chapter 493",
+    "title_cn": "第493章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0493.json"
+  },
+  {
+    "num": 494,
+    "title_en": "Chapter 494",
+    "title_cn": "第494章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0494.json"
+  },
+  {
+    "num": 495,
+    "title_en": "Chapter 495",
+    "title_cn": "第495章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0495.json"
+  },
+  {
+    "num": 496,
+    "title_en": "Chapter 496",
+    "title_cn": "第496章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0496.json"
+  },
+  {
+    "num": 497,
+    "title_en": "Chapter 497",
+    "title_cn": "第497章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0497.json"
+  },
+  {
+    "num": 498,
+    "title_en": "Chapter 498",
+    "title_cn": "第498章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0498.json"
+  },
+  {
+    "num": 499,
+    "title_en": "Chapter 499",
+    "title_cn": "第499章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0499.json"
+  },
+  {
+    "num": 500,
+    "title_en": "Chapter 500",
+    "title_cn": "第500章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0500.json"
+  },
+  {
+    "num": 501,
+    "title_en": "Chapter 501",
+    "title_cn": "第501章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0501.json"
+  },
+  {
+    "num": 502,
+    "title_en": "Chapter 502",
+    "title_cn": "第502章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0502.json"
+  },
+  {
+    "num": 503,
+    "title_en": "Chapter 503",
+    "title_cn": "第503章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0503.json"
+  },
+  {
+    "num": 504,
+    "title_en": "Chapter 504",
+    "title_cn": "第504章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0504.json"
+  },
+  {
+    "num": 505,
+    "title_en": "Chapter 505",
+    "title_cn": "第505章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0505.json"
+  },
+  {
+    "num": 506,
+    "title_en": "Chapter 506",
+    "title_cn": "第506章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0506.json"
+  },
+  {
+    "num": 507,
+    "title_en": "Chapter 507",
+    "title_cn": "第507章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0507.json"
+  },
+  {
+    "num": 508,
+    "title_en": "Chapter 508",
+    "title_cn": "第508章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0508.json"
+  },
+  {
+    "num": 509,
+    "title_en": "Chapter 509",
+    "title_cn": "第509章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0509.json"
+  },
+  {
+    "num": 510,
+    "title_en": "Chapter 510",
+    "title_cn": "第510章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0510.json"
+  },
+  {
+    "num": 511,
+    "title_en": "Chapter 511",
+    "title_cn": "第511章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0511.json"
+  },
+  {
+    "num": 512,
+    "title_en": "Chapter 512",
+    "title_cn": "第512章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0512.json"
+  },
+  {
+    "num": 513,
+    "title_en": "Chapter 513",
+    "title_cn": "第513章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0513.json"
+  },
+  {
+    "num": 514,
+    "title_en": "Chapter 514",
+    "title_cn": "第514章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0514.json"
+  },
+  {
+    "num": 515,
+    "title_en": "Chapter 515",
+    "title_cn": "第515章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0515.json"
+  },
+  {
+    "num": 516,
+    "title_en": "Chapter 516",
+    "title_cn": "第516章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0516.json"
+  },
+  {
+    "num": 517,
+    "title_en": "Chapter 517",
+    "title_cn": "第517章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0517.json"
+  },
+  {
+    "num": 518,
+    "title_en": "Chapter 518",
+    "title_cn": "第518章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0518.json"
+  },
+  {
+    "num": 519,
+    "title_en": "Chapter 519",
+    "title_cn": "第519章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0519.json"
+  },
+  {
+    "num": 520,
+    "title_en": "Chapter 520",
+    "title_cn": "第520章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0520.json"
+  },
+  {
+    "num": 521,
+    "title_en": "Chapter 521",
+    "title_cn": "第521章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0521.json"
+  },
+  {
+    "num": 522,
+    "title_en": "Chapter 522",
+    "title_cn": "第522章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0522.json"
+  },
+  {
+    "num": 523,
+    "title_en": "Chapter 523",
+    "title_cn": "第523章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0523.json"
+  },
+  {
+    "num": 524,
+    "title_en": "Chapter 524",
+    "title_cn": "第524章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0524.json"
+  },
+  {
+    "num": 525,
+    "title_en": "Chapter 525",
+    "title_cn": "第525章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0525.json"
+  },
+  {
+    "num": 526,
+    "title_en": "Chapter 526",
+    "title_cn": "第526章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0526.json"
+  },
+  {
+    "num": 527,
+    "title_en": "Chapter 527",
+    "title_cn": "第527章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0527.json"
+  },
+  {
+    "num": 528,
+    "title_en": "Chapter 528",
+    "title_cn": "第528章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0528.json"
+  },
+  {
+    "num": 529,
+    "title_en": "Chapter 529",
+    "title_cn": "第529章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0529.json"
+  },
+  {
+    "num": 530,
+    "title_en": "Chapter 530",
+    "title_cn": "第530章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0530.json"
+  },
+  {
+    "num": 531,
+    "title_en": "Chapter 531",
+    "title_cn": "第531章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0531.json"
+  },
+  {
+    "num": 532,
+    "title_en": "Chapter 532",
+    "title_cn": "第532章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0532.json"
+  },
+  {
+    "num": 533,
+    "title_en": "Chapter 533",
+    "title_cn": "第533章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0533.json"
+  },
+  {
+    "num": 534,
+    "title_en": "Chapter 534",
+    "title_cn": "第534章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0534.json"
+  },
+  {
+    "num": 535,
+    "title_en": "Chapter 535",
+    "title_cn": "第535章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0535.json"
+  },
+  {
+    "num": 536,
+    "title_en": "Chapter 536",
+    "title_cn": "第536章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0536.json"
+  },
+  {
+    "num": 537,
+    "title_en": "Chapter 537",
+    "title_cn": "第537章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0537.json"
+  },
+  {
+    "num": 538,
+    "title_en": "Chapter 538",
+    "title_cn": "第538章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0538.json"
+  },
+  {
+    "num": 539,
+    "title_en": "Chapter 539",
+    "title_cn": "第539章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0539.json"
+  },
+  {
+    "num": 540,
+    "title_en": "Chapter 540",
+    "title_cn": "第540章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0540.json"
+  },
+  {
+    "num": 541,
+    "title_en": "Chapter 541",
+    "title_cn": "第541章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0541.json"
+  },
+  {
+    "num": 542,
+    "title_en": "Chapter 542",
+    "title_cn": "第542章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0542.json"
+  },
+  {
+    "num": 543,
+    "title_en": "Chapter 543",
+    "title_cn": "第543章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0543.json"
+  },
+  {
+    "num": 544,
+    "title_en": "Chapter 544",
+    "title_cn": "第544章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0544.json"
+  },
+  {
+    "num": 545,
+    "title_en": "Chapter 545",
+    "title_cn": "第545章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0545.json"
+  },
+  {
+    "num": 546,
+    "title_en": "Chapter 546",
+    "title_cn": "第546章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0546.json"
+  },
+  {
+    "num": 547,
+    "title_en": "Chapter 547",
+    "title_cn": "第547章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0547.json"
+  },
+  {
+    "num": 548,
+    "title_en": "Chapter 548",
+    "title_cn": "第548章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0548.json"
+  },
+  {
+    "num": 549,
+    "title_en": "Chapter 549",
+    "title_cn": "第549章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0549.json"
+  },
+  {
+    "num": 550,
+    "title_en": "Chapter 550",
+    "title_cn": "第550章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0550.json"
+  },
+  {
+    "num": 551,
+    "title_en": "Chapter 551",
+    "title_cn": "第551章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0551.json"
+  },
+  {
+    "num": 552,
+    "title_en": "Chapter 552",
+    "title_cn": "第552章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0552.json"
+  },
+  {
+    "num": 553,
+    "title_en": "Chapter 553",
+    "title_cn": "第553章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0553.json"
+  },
+  {
+    "num": 554,
+    "title_en": "Chapter 554",
+    "title_cn": "第554章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0554.json"
+  },
+  {
+    "num": 555,
+    "title_en": "Chapter 555",
+    "title_cn": "第555章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0555.json"
+  },
+  {
+    "num": 556,
+    "title_en": "Chapter 556",
+    "title_cn": "第556章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0556.json"
+  },
+  {
+    "num": 557,
+    "title_en": "Chapter 557",
+    "title_cn": "第557章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0557.json"
+  },
+  {
+    "num": 558,
+    "title_en": "Chapter 558",
+    "title_cn": "第558章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0558.json"
+  },
+  {
+    "num": 559,
+    "title_en": "Chapter 559",
+    "title_cn": "第559章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0559.json"
+  },
+  {
+    "num": 560,
+    "title_en": "Chapter 560",
+    "title_cn": "第560章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0560.json"
+  },
+  {
+    "num": 561,
+    "title_en": "Chapter 561",
+    "title_cn": "第561章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0561.json"
+  },
+  {
+    "num": 562,
+    "title_en": "Chapter 562",
+    "title_cn": "第562章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0562.json"
+  },
+  {
+    "num": 563,
+    "title_en": "Chapter 563",
+    "title_cn": "第563章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0563.json"
+  },
+  {
+    "num": 564,
+    "title_en": "Chapter 564",
+    "title_cn": "第564章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0564.json"
+  },
+  {
+    "num": 565,
+    "title_en": "Chapter 565",
+    "title_cn": "第565章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0565.json"
+  },
+  {
+    "num": 566,
+    "title_en": "Chapter 566",
+    "title_cn": "第566章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0566.json"
+  },
+  {
+    "num": 567,
+    "title_en": "Chapter 567",
+    "title_cn": "第567章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0567.json"
+  },
+  {
+    "num": 568,
+    "title_en": "Chapter 568",
+    "title_cn": "第568章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0568.json"
+  },
+  {
+    "num": 569,
+    "title_en": "Chapter 569",
+    "title_cn": "第569章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0569.json"
+  },
+  {
+    "num": 570,
+    "title_en": "Chapter 570",
+    "title_cn": "第570章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0570.json"
+  },
+  {
+    "num": 571,
+    "title_en": "Chapter 571",
+    "title_cn": "第571章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0571.json"
+  },
+  {
+    "num": 572,
+    "title_en": "Chapter 572",
+    "title_cn": "第572章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0572.json"
+  },
+  {
+    "num": 573,
+    "title_en": "Chapter 573",
+    "title_cn": "第573章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0573.json"
+  },
+  {
+    "num": 574,
+    "title_en": "Chapter 574",
+    "title_cn": "第574章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0574.json"
+  },
+  {
+    "num": 575,
+    "title_en": "Chapter 575",
+    "title_cn": "第575章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0575.json"
+  },
+  {
+    "num": 576,
+    "title_en": "Chapter 576",
+    "title_cn": "第576章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0576.json"
+  },
+  {
+    "num": 577,
+    "title_en": "Chapter 577",
+    "title_cn": "第577章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0577.json"
+  },
+  {
+    "num": 578,
+    "title_en": "Chapter 578",
+    "title_cn": "第578章",
+    "file": "library/necromancer-academy-s-genius-summoner/chapters/chapter_0578.json"
+  }
+]

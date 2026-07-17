@@ -1,0 +1,4268 @@
+[
+  {
+    "num": 0,
+    "title_en": "Chapter 0: Prologue",
+    "title_cn": "第0章：序言",
+    "file": "chapters/chapter_0000.json"
+  },
+  {
+    "num": 1,
+    "title_en": "Chapter 1: My Dream was to be a Knight",
+    "title_cn": "第一章：我的梦想是成为一名骑士",
+    "file": "chapters/chapter_0001.json"
+  },
+  {
+    "num": 2,
+    "title_en": "Chapter 2: Zoetrope",
+    "title_cn": "第2章：西洋镜",
+    "file": "chapters/chapter_0002.json"
+  },
+  {
+    "num": 3,
+    "title_en": "Chapter 3: A Day",
+    "title_cn": "一天",
+    "file": "chapters/chapter_0003.json"
+  },
+  {
+    "num": 4,
+    "title_en": "Chapter 4: The Heart of the Beast",
+    "title_cn": "野兽之心",
+    "file": "chapters/chapter_0004.json"
+  },
+  {
+    "num": 5,
+    "title_en": "Chapter 5: Vallen Style Swordsmanship",
+    "title_cn": "瓦伦流剑法",
+    "file": "chapters/chapter_0005.json"
+  },
+  {
+    "num": 6,
+    "title_en": "Chapter 6: His Hands Should Have Torn",
+    "title_cn": "他的手应该被撕裂了",
+    "file": "chapters/chapter_0006.json"
+  },
+  {
+    "num": 7,
+    "title_en": "Chapter 7: Three of a Kind",
+    "title_cn": "三样一类",
+    "file": "chapters/chapter_0007.json"
+  },
+  {
+    "num": 8,
+    "title_en": "Chapter 8: Snake, Alcohol, Flower, Knife",
+    "title_cn": "蛇、酒、花、刀",
+    "file": "chapters/chapter_0008.json"
+  },
+  {
+    "num": 9,
+    "title_en": "Chapter 9: A Different Man Every Day",
+    "title_cn": "每天都有一个不同的人",
+    "file": "chapters/chapter_0009.json"
+  },
+  {
+    "num": 10,
+    "title_en": "Chapter 10: He Stabbed",
+    "title_cn": "他刺伤了",
+    "file": "chapters/chapter_0010.json"
+  },
+  {
+    "num": 11,
+    "title_en": "Chapter 11: The Frog",
+    "title_cn": "青蛙",
+    "file": "chapters/chapter_0011.json"
+  },
+  {
+    "num": 12,
+    "title_en": "Chapter 12: Two Days",
+    "title_cn": "两天",
+    "file": "chapters/chapter_0012.json"
+  },
+  {
+    "num": 13,
+    "title_en": "Chapter 13: Replay",
+    "title_cn": "重播",
+    "file": "chapters/chapter_0013.json"
+  },
+  {
+    "num": 14,
+    "title_en": "Chapter 14: Knight",
+    "title_cn": "骑士",
+    "file": "chapters/chapter_0014.json"
+  },
+  {
+    "num": 15,
+    "title_en": "Chapter 15: Just One Word",
+    "title_cn": "就一个字",
+    "file": "chapters/chapter_0015.json"
+  },
+  {
+    "num": 16,
+    "title_en": "Chapter 16: Lack of Skill",
+    "title_cn": "缺乏技能",
+    "file": "chapters/chapter_0016.json"
+  },
+  {
+    "num": 17,
+    "title_en": "Chapter 17: If You Grow Eyes in the Back of Your Head",
+    "title_cn": "如果你的后脑勺长了眼睛",
+    "file": "chapters/chapter_0017.json"
+  },
+  {
+    "num": 18,
+    "title_en": "Chapter 18: Still Alive?",
+    "title_cn": "还活着吗？",
+    "file": "chapters/chapter_0018.json"
+  },
+  {
+    "num": 19,
+    "title_en": "Chapter 19: Fire",
+    "title_cn": "火",
+    "file": "chapters/chapter_0019.json"
+  },
+  {
+    "num": 20,
+    "title_en": "Chapter 20: Squad Leader Enkrid",
+    "title_cn": "班长恩克里德",
+    "file": "chapters/chapter_0020.json"
+  },
+  {
+    "num": 21,
+    "title_en": "Chapter 21: Sparring and Review",
+    "title_cn": "陪练和复习",
+    "file": "chapters/chapter_0021.json"
+  },
+  {
+    "num": 22,
+    "title_en": "Chapter 22: Temporary Reassignment",
+    "title_cn": "临时调任",
+    "file": "chapters/chapter_0022.json"
+  },
+  {
+    "num": 23,
+    "title_en": "Chapter 23: Traces of the Niu",
+    "title_cn": "牛的踪迹",
+    "file": "chapters/chapter_0023.json"
+  },
+  {
+    "num": 24,
+    "title_en": "Chapter 24: Three",
+    "title_cn": "三",
+    "file": "chapters/chapter_0024.json"
+  },
+  {
+    "num": 25,
+    "title_en": "Chapter 25: Tall Grass Field",
+    "title_cn": "高大的草地",
+    "file": "chapters/chapter_0025.json"
+  },
+  {
+    "num": 26,
+    "title_en": "Chapter 26: Escape Route",
+    "title_cn": "逃生路线",
+    "file": "chapters/chapter_0026.json"
+  },
+  {
+    "num": 27,
+    "title_en": "Chapter 27: Why is He a Low-Ranking Soldier?",
+    "title_cn": "为什么他是一个低级士兵？",
+    "file": "chapters/chapter_0027.json"
+  },
+  {
+    "num": 28,
+    "title_en": "Chapter 28: Ambush and Blue Eyes",
+    "title_cn": "伏击和蓝眼睛",
+    "file": "chapters/chapter_0028.json"
+  },
+  {
+    "num": 29,
+    "title_en": "Chapter 29: I Want to Live Too",
+    "title_cn": "我也想活下去",
+    "file": "chapters/chapter_0029.json"
+  },
+  {
+    "num": 30,
+    "title_en": "Chapter 30: When Darkness Becomes Your Friend",
+    "title_cn": "当黑暗成为你的朋友",
+    "file": "chapters/chapter_0030.json"
+  },
+  {
+    "num": 31,
+    "title_en": "Chapter 31: Set It on Fire",
+    "title_cn": "点燃它",
+    "file": "chapters/chapter_0031.json"
+  },
+  {
+    "num": 32,
+    "title_en": "Chapter 32: Dreams, Reproach, Responsibility",
+    "title_cn": "梦想、责备、责任",
+    "file": "chapters/chapter_0032.json"
+  },
+  {
+    "num": 33,
+    "title_en": "Chapter 33: Target",
+    "title_cn": "目标",
+    "file": "chapters/chapter_0033.json"
+  },
+  {
+    "num": 34,
+    "title_en": "Chapter 34: Why Do You Go That Far?",
+    "title_cn": "你为什么走那么远？",
+    "file": "chapters/chapter_0034.json"
+  },
+  {
+    "num": 35,
+    "title_en": "Chapter 35: He Was Purely Happy",
+    "title_cn": "他纯粹是快乐的",
+    "file": "chapters/chapter_0035.json"
+  },
+  {
+    "num": 36,
+    "title_en": "Chapter 36: The Fog of Annihilation",
+    "title_cn": "湮灭之雾",
+    "file": "chapters/chapter_0036.json"
+  },
+  {
+    "num": 37,
+    "title_en": "Chapter 37: What is the Medium of Sorcery?",
+    "title_cn": "巫术的媒介是什么？",
+    "file": "chapters/chapter_0037.json"
+  },
+  {
+    "num": 38,
+    "title_en": "Chapter 38: The Flags Flutter, and the Soldiers Dance with Swords (1)",
+    "title_cn": "旗帜飘扬，兵马舞动（一）",
+    "file": "chapters/chapter_0038.json"
+  },
+  {
+    "num": 39,
+    "title_en": "Chapter 39: The Flags Flutter, and the Soldiers Dance with Swords (2)",
+    "title_cn": "旗帜飘扬，兵刃舞动（二）",
+    "file": "chapters/chapter_0039.json"
+  },
+  {
+    "num": 40,
+    "title_en": "Chapter 40: The Flags Flutter, and the Soldiers Dance with Swords (3)",
+    "title_cn": "旗帜飘扬，兵马舞动（三）",
+    "file": "chapters/chapter_0040.json"
+  },
+  {
+    "num": 41,
+    "title_en": "Chapter 41: Focus Point",
+    "title_cn": "对焦点",
+    "file": "chapters/chapter_0041.json"
+  },
+  {
+    "num": 42,
+    "title_en": "Chapter 42: He’s Lucky",
+    "title_cn": "他很幸运",
+    "file": "chapters/chapter_0042.json"
+  },
+  {
+    "num": 43,
+    "title_en": "Chapter 43: Mitch Hurrier",
+    "title_cn": "米奇·赫里尔",
+    "file": "chapters/chapter_0043.json"
+  },
+  {
+    "num": 44,
+    "title_en": "Chapter 44: The Savior with Blue Eyes",
+    "title_cn": "蓝眼睛的救世主",
+    "file": "chapters/chapter_0044.json"
+  },
+  {
+    "num": 45,
+    "title_en": "Chapter 45: Enduring Countless Battles (1)",
+    "title_cn": "历尽千辛万苦（一）",
+    "file": "chapters/chapter_0045.json"
+  },
+  {
+    "num": 46,
+    "title_en": "Chapter 46: Enduring Countless Battles (2)",
+    "title_cn": "历经无数战斗（2）",
+    "file": "chapters/chapter_0046.json"
+  },
+  {
+    "num": 47,
+    "title_en": "Chapter 47: Squire",
+    "title_cn": "乡绅",
+    "file": "chapters/chapter_0047.json"
+  },
+  {
+    "num": 48,
+    "title_en": "Chapter 48: If the End is in Sight, You Can Crawl Over It",
+    "title_cn": "如果终点就在眼前，你可以爬过去",
+    "file": "chapters/chapter_0048.json"
+  },
+  {
+    "num": 49,
+    "title_en": "Chapter 49: Madness, Passion, Ambition, and Desire",
+    "title_cn": "疯狂、激情、野心和欲望",
+    "file": "chapters/chapter_0049.json"
+  },
+  {
+    "num": 50,
+    "title_en": "Chapter 50: \"The Unexpected Can Kill You\" (1)",
+    "title_cn": "“意外可能会杀了你”（1）",
+    "file": "chapters/chapter_0050.json"
+  },
+  {
+    "num": 51,
+    "title_en": "Chapter 51: \"The Unexpected Can Kill You\" (2)",
+    "title_cn": "“意外可能会杀了你”（2）",
+    "file": "chapters/chapter_0051.json"
+  },
+  {
+    "num": 52,
+    "title_en": "Chapter 52: The Turtle and the Frontier Slaughterer (1)",
+    "title_cn": "海龟与边疆屠宰者（一）",
+    "file": "chapters/chapter_0052.json"
+  },
+  {
+    "num": 53,
+    "title_en": "Chapter 53: The Turtle and the Frontier Slaughterer (2)",
+    "title_cn": "海龟与边疆屠宰者（2）",
+    "file": "chapters/chapter_0053.json"
+  },
+  {
+    "num": 54,
+    "title_en": "Chapter 54: The Turtle and the Frontier Slaughterer (3)",
+    "title_cn": "海龟与边疆屠宰者（3）",
+    "file": "chapters/chapter_0054.json"
+  },
+  {
+    "num": 55,
+    "title_en": "Chapter 55: To the End of Persistence",
+    "title_cn": "到坚持的尽头",
+    "file": "chapters/chapter_0055.json"
+  },
+  {
+    "num": 56,
+    "title_en": "Chapter 56: A Wall is a Wall",
+    "title_cn": "一堵墙就是一堵墙",
+    "file": "chapters/chapter_0056.json"
+  },
+  {
+    "num": 57,
+    "title_en": "Chapter 57: Seeing It Made Me Want It",
+    "title_cn": "看到它让我想要它",
+    "file": "chapters/chapter_0057.json"
+  },
+  {
+    "num": 58,
+    "title_en": "Chapter 58: Once I Had It, I Could See",
+    "title_cn": "一旦我拥有它，我就能看到",
+    "file": "chapters/chapter_0058.json"
+  },
+  {
+    "num": 59,
+    "title_en": "Chapter 59: Sword Flicking Technique",
+    "title_cn": "弹剑术",
+    "file": "chapters/chapter_0059.json"
+  },
+  {
+    "num": 60,
+    "title_en": "Chapter 60: Only Ten Times",
+    "title_cn": "仅十次",
+    "file": "chapters/chapter_0060.json"
+  },
+  {
+    "num": 61,
+    "title_en": "Chapter 61: The Elf’s Joke",
+    "title_cn": "精灵的笑话",
+    "file": "chapters/chapter_0061.json"
+  },
+  {
+    "num": 62,
+    "title_en": "Chapter 62: A Knight Must Never Harbor Shame in His Heart",
+    "title_cn": "骑士心中决不能有羞耻",
+    "file": "chapters/chapter_0062.json"
+  },
+  {
+    "num": 63,
+    "title_en": "Chapter 63: Knock",
+    "title_cn": "敲",
+    "file": "chapters/chapter_0063.json"
+  },
+  {
+    "num": 64,
+    "title_en": "Chapter 64: One Strike",
+    "title_cn": "一击",
+    "file": "chapters/chapter_0064.json"
+  },
+  {
+    "num": 65,
+    "title_en": "Chapter 65: Those Who Cross Over",
+    "title_cn": "那些穿越的人",
+    "file": "chapters/chapter_0065.json"
+  },
+  {
+    "num": 66,
+    "title_en": "Chapter 66: Second Job Proposal",
+    "title_cn": "第二份工作提案",
+    "file": "chapters/chapter_0066.json"
+  },
+  {
+    "num": 67,
+    "title_en": "Chapter 67: The Entire Guild",
+    "title_cn": "整个公会",
+    "file": "chapters/chapter_0067.json"
+  },
+  {
+    "num": 68,
+    "title_en": "Chapter 68: Dream of Holding a Woman (1)",
+    "title_cn": "梦见抱着女人（一）",
+    "file": "chapters/chapter_0068.json"
+  },
+  {
+    "num": 69,
+    "title_en": "Chapter 69: Dream of Holding a Woman (2)",
+    "title_cn": "梦见抱着女人（二）",
+    "file": "chapters/chapter_0069.json"
+  },
+  {
+    "num": 70,
+    "title_en": "Chapter 70: Isolation Technique",
+    "title_cn": "隔离技术",
+    "file": "chapters/chapter_0070.json"
+  },
+  {
+    "num": 71,
+    "title_en": "Chapter 71: Rumors Travel on the Wings of Light",
+    "title_cn": "谣言乘着光之翼旅行",
+    "file": "chapters/chapter_0071.json"
+  },
+  {
+    "num": 72,
+    "title_en": "Chapter 72: Because I Trained Every Moment (1)",
+    "title_cn": "因为我每时每刻都在训练（1）",
+    "file": "chapters/chapter_0072.json"
+  },
+  {
+    "num": 73,
+    "title_en": "Chapter 73: Because I Trained Every Moment (2)",
+    "title_cn": "因为我每时每刻都在训练（2）",
+    "file": "chapters/chapter_0073.json"
+  },
+  {
+    "num": 74,
+    "title_en": "Chapter 74: Because I Trained Every Moment (3)",
+    "title_cn": "因为我每时每刻都在训练（3）",
+    "file": "chapters/chapter_0074.json"
+  },
+  {
+    "num": 75,
+    "title_en": "Chapter 75: The Alluring Squad Leader",
+    "title_cn": "迷人的班长",
+    "file": "chapters/chapter_0075.json"
+  },
+  {
+    "num": 76,
+    "title_en": "Chapter 76: Carmen Collection",
+    "title_cn": "卡门系列",
+    "file": "chapters/chapter_0076.json"
+  },
+  {
+    "num": 77,
+    "title_en": "Chapter 77: When Bored, Spar",
+    "title_cn": "无聊的时候，晶石",
+    "file": "chapters/chapter_0077.json"
+  },
+  {
+    "num": 78,
+    "title_en": "Chapter 78: Colored by Passion",
+    "title_cn": "激情色彩",
+    "file": "chapters/chapter_0078.json"
+  },
+  {
+    "num": 79,
+    "title_en": "Chapter 79: How to Handle a Fool",
+    "title_cn": "如何对付傻瓜",
+    "file": "chapters/chapter_0079.json"
+  },
+  {
+    "num": 80,
+    "title_en": "Chapter 80: Leona Rockfreed",
+    "title_cn": "利昂娜·洛克弗里德",
+    "file": "chapters/chapter_0080.json"
+  },
+  {
+    "num": 81,
+    "title_en": "Chapter 81: Because I Always Do My Best",
+    "title_cn": "因为我总是尽力而为",
+    "file": "chapters/chapter_0081.json"
+  },
+  {
+    "num": 82,
+    "title_en": "Chapter 82: It Seems Like Something’s Changed",
+    "title_cn": "似乎有什么改变了",
+    "file": "chapters/chapter_0082.json"
+  },
+  {
+    "num": 83,
+    "title_en": "Chapter 83: The Heat",
+    "title_cn": "热火",
+    "file": "chapters/chapter_0083.json"
+  },
+  {
+    "num": 84,
+    "title_en": "Chapter 84: When He Decided to Save People, He Saw the Way",
+    "title_cn": "当他决定救人时，他看到了出路",
+    "file": "chapters/chapter_0084.json"
+  },
+  {
+    "num": 85,
+    "title_en": "Chapter 85: The Gate of the Sixth Sense",
+    "title_cn": "第六感之门",
+    "file": "chapters/chapter_0085.json"
+  },
+  {
+    "num": 86,
+    "title_en": "Chapter 86: What Changes When the Gate Opens",
+    "title_cn": "当大门打开时会发生什么变化",
+    "file": "chapters/chapter_0086.json"
+  },
+  {
+    "num": 87,
+    "title_en": "Chapter 87: You Must Kill Those Who Deserve to Die",
+    "title_cn": "你必须杀死那些该死的人",
+    "file": "chapters/chapter_0087.json"
+  },
+  {
+    "num": 88,
+    "title_en": "Chapter 88: Bonehead",
+    "title_cn": "笨蛋",
+    "file": "chapters/chapter_0088.json"
+  },
+  {
+    "num": 89,
+    "title_en": "Chapter 89: Chewing Over the Past Without Leaving Regrets",
+    "title_cn": "咀嚼过去不留遗憾",
+    "file": "chapters/chapter_0089.json"
+  },
+  {
+    "num": 90,
+    "title_en": "Chapter 90: The Correct Answer",
+    "title_cn": "正确答案",
+    "file": "chapters/chapter_0090.json"
+  },
+  {
+    "num": 91,
+    "title_en": "Chapter 91: Special Platoon",
+    "title_cn": "特别排",
+    "file": "chapters/chapter_0091.json"
+  },
+  {
+    "num": 92,
+    "title_en": "Chapter 92: The Fine Line Between Brilliance and Madness",
+    "title_cn": "辉煌与疯狂之间的界限",
+    "file": "chapters/chapter_0092.json"
+  },
+  {
+    "num": 93,
+    "title_en": "Chapter 93: A Coincidence, or the Inevitable Outcome of Overlapping Moments?",
+    "title_cn": "巧合，还是时刻重叠的必然结果？",
+    "file": "chapters/chapter_0093.json"
+  },
+  {
+    "num": 94,
+    "title_en": "Chapter 94: Is This a Punishment or an Opportunity?",
+    "title_cn": "这是惩罚还是机会？",
+    "file": "chapters/chapter_0094.json"
+  },
+  {
+    "num": 95,
+    "title_en": "Chapter 95: The Secret to Eternal Youth is Endless Training",
+    "title_cn": "永葆青春的秘诀是不断的训练",
+    "file": "chapters/chapter_0095.json"
+  },
+  {
+    "num": 96,
+    "title_en": "Chapter 96: Those with and Without Something to See",
+    "title_cn": "那些有或没有东西可看的人",
+    "file": "chapters/chapter_0096.json"
+  },
+  {
+    "num": 97,
+    "title_en": "Chapter 97: Is He Really Okay?",
+    "title_cn": "他真的好吗？",
+    "file": "chapters/chapter_0097.json"
+  },
+  {
+    "num": 98,
+    "title_en": "Chapter 98: Doghole",
+    "title_cn": "狗洞",
+    "file": "chapters/chapter_0098.json"
+  },
+  {
+    "num": 99,
+    "title_en": "Chapter 99: Luck Isn’t Always on Your Side (1)",
+    "title_cn": "运气并不总是站在你这边（一）",
+    "file": "chapters/chapter_0099.json"
+  },
+  {
+    "num": 100,
+    "title_en": "Chapter 100: Luck Isn’t Always on Your Side (2)",
+    "title_cn": "运气并不总是站在你这边（2）",
+    "file": "chapters/chapter_0100.json"
+  },
+  {
+    "num": 101,
+    "title_en": "Chapter 101: Luck Isn’t Always on Your Side (3)",
+    "title_cn": "运气并不总是站在你这边（3）",
+    "file": "chapters/chapter_0101.json"
+  },
+  {
+    "num": 102,
+    "title_en": "Chapter 102: Luck Isn’t Always on Your Side (4)",
+    "title_cn": "运气并不总是站在你这边（4）",
+    "file": "chapters/chapter_0102.json"
+  },
+  {
+    "num": 103,
+    "title_en": "Chapter 103: Is This Love?",
+    "title_cn": "这就是爱吗？",
+    "file": "chapters/chapter_0103.json"
+  },
+  {
+    "num": 104,
+    "title_en": "Chapter 104: Ressa’s Message",
+    "title_cn": "雷莎的讯息",
+    "file": "chapters/chapter_0104.json"
+  },
+  {
+    "num": 105,
+    "title_en": "Chapter 105: A Gamble Where You Know How to Win",
+    "title_cn": "一场你知道如何获胜的赌博",
+    "file": "chapters/chapter_0105.json"
+  },
+  {
+    "num": 106,
+    "title_en": "Chapter 106: Dodge and Dodge Again",
+    "title_cn": "闪避再闪避",
+    "file": "chapters/chapter_0106.json"
+  },
+  {
+    "num": 107,
+    "title_en": "Chapter 107: If It Were One-on-One",
+    "title_cn": "如果是一对一的话",
+    "file": "chapters/chapter_0107.json"
+  },
+  {
+    "num": 108,
+    "title_en": "Chapter 108: It Was a Gamble",
+    "title_cn": "这是一场赌博",
+    "file": "chapters/chapter_0108.json"
+  },
+  {
+    "num": 109,
+    "title_en": "Chapter 109: Setting Things on Fire, a Bad Habit",
+    "title_cn": "放火烧东西是一个坏习惯",
+    "file": "chapters/chapter_0109.json"
+  },
+  {
+    "num": 110,
+    "title_en": "Chapter 110: Fortune and Misfortune Come Unexpectedly",
+    "title_cn": "福与祸不期而至",
+    "file": "chapters/chapter_0110.json"
+  },
+  {
+    "num": 111,
+    "title_en": "Chapter 111: Swollen Cheeks",
+    "title_cn": "脸颊肿胀",
+    "file": "chapters/chapter_0111.json"
+  },
+  {
+    "num": 112,
+    "title_en": "Chapter 112: March Out Immediately",
+    "title_cn": "立即出发",
+    "file": "chapters/chapter_0112.json"
+  },
+  {
+    "num": 113,
+    "title_en": "Chapter 113: Yes, I’m Here",
+    "title_cn": "是的，我在这里",
+    "file": "chapters/chapter_0113.json"
+  },
+  {
+    "num": 114,
+    "title_en": "Chapter 114: Crawling Forward, Regardless",
+    "title_cn": "不顾一切地向前爬行",
+    "file": "chapters/chapter_0114.json"
+  },
+  {
+    "num": 115,
+    "title_en": "Chapter 115: Aren’t You Guys Sleeping?",
+    "title_cn": "你们都不睡觉吗？",
+    "file": "chapters/chapter_0115.json"
+  },
+  {
+    "num": 116,
+    "title_en": "Chapter 116: It’s Unpleasant Seeing Others Die",
+    "title_cn": "看到别人死去是不愉快的",
+    "file": "chapters/chapter_0116.json"
+  },
+  {
+    "num": 117,
+    "title_en": "Chapter 117: Left Hand",
+    "title_cn": "左手",
+    "file": "chapters/chapter_0117.json"
+  },
+  {
+    "num": 118,
+    "title_en": "Chapter 118: Dogfight",
+    "title_cn": "空战",
+    "file": "chapters/chapter_0118.json"
+  },
+  {
+    "num": 119,
+    "title_en": "Chapter 119: 残肢断骨，血战至终",
+    "title_cn": "第119章：残肢断骨，血战至终",
+    "file": "chapters/chapter_0119.json"
+  },
+  {
+    "num": 120,
+    "title_en": "Chapter 120: 一斧毙敌，蛮子雷姆的杀戮教学",
+    "title_cn": "第120章：一斧毙敌，蛮子雷姆的杀戮教学",
+    "file": "chapters/chapter_0120.json"
+  },
+  {
+    "num": 121,
+    "title_en": "Chapter 121: 左手锋芒，双剑初鸣",
+    "title_cn": "第121章：左手锋芒，双剑初鸣",
+    "file": "chapters/chapter_0121.json"
+  },
+  {
+    "num": 122,
+    "title_en": "Chapter 122: 雾中神愈，恩赐与誓言",
+    "title_cn": "第122章：雾中神愈，恩赐与誓言",
+    "file": "chapters/chapter_0122.json"
+  },
+  {
+    "num": 123,
+    "title_en": "Chapter 123: 唇舌化剑破僵局，疯狗排长初扬威",
+    "title_cn": "第123章：唇舌化剑破僵局，疯狗排长初扬威",
+    "file": "chapters/chapter_0123.json"
+  },
+  {
+    "num": 124,
+    "title_en": "Chapter 124: 斩敌证道疯安德鲁",
+    "title_cn": "第124章：斩敌证道疯安德鲁",
+    "file": "chapters/chapter_0124.json"
+  },
+  {
+    "num": 125,
+    "title_en": "Chapter 125: 狂人小队血洗弩阵，剑锋所指寸草不生",
+    "title_cn": "第125章：狂人小队血洗弩阵，剑锋所指寸草不生",
+    "file": "chapters/chapter_0125.json"
+  },
+  {
+    "num": 126,
+    "title_en": "Chapter 126: 剑锋致意，战意翻涌",
+    "title_cn": "第126章：剑锋致意，战意翻涌",
+    "file": "chapters/chapter_0126.json"
+  },
+  {
+    "num": 127,
+    "title_en": "Chapter 127: 梦中旧敌，拂晓号角",
+    "title_cn": "第127章：梦中旧敌，拂晓号角",
+    "file": "chapters/chapter_0127.json"
+  },
+  {
+    "num": 128,
+    "title_en": "Chapter 128: 巨锤碾碎阵线，赤血兽雾中现身",
+    "title_cn": "第128章：巨锤碾碎阵线，赤血兽雾中现身",
+    "file": "chapters/chapter_0128.json"
+  },
+  {
+    "num": 129,
+    "title_en": "Chapter 129: 双斧撼锤，血路重逢",
+    "title_cn": "第129章：双斧撼锤，血路重逢",
+    "file": "chapters/chapter_0129.json"
+  },
+  {
+    "num": 130,
+    "title_en": "Chapter 130: 一剑斩敌，杂碎毙命",
+    "title_cn": "第130章：一剑斩敌，杂碎毙命",
+    "file": "chapters/chapter_0130.json"
+  },
+  {
+    "num": 131,
+    "title_en": "Chapter 131: 战前默祷，战神赐福碎颅声",
+    "title_cn": "第131章：战前默祷，战神赐福碎颅声",
+    "file": "chapters/chapter_0131.json"
+  },
+  {
+    "num": 132,
+    "title_en": "Chapter 132: 雾中巨人殒命时",
+    "title_cn": "第132章：雾中巨人殒命时",
+    "file": "chapters/chapter_0132.json"
+  },
+  {
+    "num": 133,
+    "title_en": "Chapter 133: 春之魔力下的狂人礼赞",
+    "title_cn": "第133章：春之魔力下的狂人礼赞",
+    "file": "chapters/chapter_0133.json"
+  },
+  {
+    "num": 134,
+    "title_en": "Chapter 134: 兽心圆满，双剑初试",
+    "title_cn": "第134章：兽心圆满，双剑初试",
+    "file": "chapters/chapter_0134.json"
+  },
+  {
+    "num": 135,
+    "title_en": "Chapter 135: 心口相叠，骑士之誓初绽锋芒",
+    "title_cn": "第135章：心口相叠，骑士之誓初绽锋芒",
+    "file": "chapters/chapter_0135.json"
+  },
+  {
+    "num": 136,
+    "title_en": "Chapter 136: 剑刃破空心无羁",
+    "title_cn": "第136章：剑刃破空心无羁",
+    "file": "chapters/chapter_0136.json"
+  },
+  {
+    "num": 137,
+    "title_en": "Chapter 137: 赌命换心，百次轮回悟兽心",
+    "title_cn": "第137章：赌命换心，百次轮回悟兽心",
+    "file": "chapters/chapter_0137.json"
+  },
+  {
+    "num": 138,
+    "title_en": "Chapter 138: 双剑未成心先定，兽血淬练见真意",
+    "title_cn": "第138章：双剑未成心先定，兽血淬练见真意",
+    "file": "chapters/chapter_0138.json"
+  },
+  {
+    "num": 139,
+    "title_en": "Chapter 139: 双剑如爱人日夜不离",
+    "title_cn": "第139章：双剑如爱人日夜不离",
+    "file": "chapters/chapter_0139.json"
+  },
+  {
+    "num": 140,
+    "title_en": "Chapter 140: 闪避修习遇敌袭 箭下辨字见真章",
+    "title_cn": "第140章：闪避修习遇敌袭 箭下辨字见真章",
+    "file": "chapters/chapter_0140.json"
+  },
+  {
+    "num": 141,
+    "title_en": "Chapter 141: 双剑出鞘斩敌后阵",
+    "title_cn": "第141章：双剑出鞘斩敌后阵",
+    "file": "chapters/chapter_0141.json"
+  },
+  {
+    "num": 142,
+    "title_en": "Chapter 142: 化刃于身，闪避感知初试锋芒",
+    "title_cn": "第142章：化刃于身，闪避感知初试锋芒",
+    "file": "chapters/chapter_0142.json"
+  },
+  {
+    "num": 143,
+    "title_en": "Chapter 143: 深入敌后，双剑破伏",
+    "title_cn": "第143章：深入敌后，双剑破伏",
+    "file": "chapters/chapter_0143.json"
+  },
+  {
+    "num": 144,
+    "title_en": "Chapter 144: 虚招破敌，灰猎犬覆灭之始",
+    "title_cn": "第144章：虚招破敌，灰猎犬覆灭之始",
+    "file": "chapters/chapter_0144.json"
+  },
+  {
+    "num": 145,
+    "title_en": "Chapter 145: 猎人与猎物的狩猎时节",
+    "title_cn": "第145章：猎人与猎物的狩猎时节",
+    "file": "chapters/chapter_0145.json"
+  },
+  {
+    "num": 146,
+    "title_en": "Chapter 146: 灰发猎人无声潜行，血刃封喉猎杀终结",
+    "title_cn": "第146章：灰发猎人无声潜行，血刃封喉猎杀终结",
+    "file": "chapters/chapter_0146.json"
+  },
+  {
+    "num": 147,
+    "title_en": "Chapter 147: 回归基础，剑锋自省",
+    "title_cn": "第147章：回归基础，剑锋自省",
+    "file": "chapters/chapter_0147.json"
+  },
+  {
+    "num": 148,
+    "title_en": "Chapter 148: 春训十日 授剑知位",
+    "title_cn": "第148章：春训十日 授剑知位",
+    "file": "chapters/chapter_0148.json"
+  },
+  {
+    "num": 149,
+    "title_en": "Chapter 149: 剑花摇曳处，荣誉加身时",
+    "title_cn": "第149章：剑花摇曳处，荣誉加身时",
+    "file": "chapters/chapter_0149.json"
+  },
+  {
+    "num": 150,
+    "title_en": "Chapter 150: 星光宴饮，剑锋对决",
+    "title_cn": "第150章：星光宴饮，剑锋对决",
+    "file": "chapters/chapter_0150.json"
+  },
+  {
+    "num": 151,
+    "title_en": "Chapter 151: 晨光校场剑刃风暴",
+    "title_cn": "第151章：晨光校场剑刃风暴",
+    "file": "chapters/chapter_0151.json"
+  },
+  {
+    "num": 152,
+    "title_en": "Chapter 152: 天赋残酷刀锋风暴，恩克里德醒来即训",
+    "title_cn": "第152章：天赋残酷刀锋风暴，恩克里德醒来即训",
+    "file": "chapters/chapter_0152.json"
+  },
+  {
+    "num": 153,
+    "title_en": "Chapter 153: 意志重燃，剑指极限",
+    "title_cn": "第153章：意志重燃，剑指极限",
+    "file": "chapters/chapter_0153.json"
+  },
+  {
+    "num": 154,
+    "title_en": "Chapter 154: 最疯的清醒者",
+    "title_cn": "第154章：最疯的清醒者",
+    "file": "chapters/chapter_0154.json"
+  },
+  {
+    "num": 155,
+    "title_en": "Chapter 155: 青蛙的凝视与不弃的剑",
+    "title_cn": "第155章：青蛙的凝视与不弃的剑",
+    "file": "chapters/chapter_0155.json"
+  },
+  {
+    "num": 156,
+    "title_en": "Chapter 156: 夏练三伏剑悟节奏",
+    "title_cn": "第156章：夏练三伏剑悟节奏",
+    "file": "chapters/chapter_0156.json"
+  },
+  {
+    "num": 157,
+    "title_en": "Chapter 157: 寻宝奇闻引动骑士心",
+    "title_cn": "第157章：寻宝奇闻引动骑士心",
+    "file": "chapters/chapter_0157.json"
+  },
+  {
+    "num": 158,
+    "title_en": "Chapter 158: 市场偶遇 英雄无名 守护者得人心",
+    "title_cn": "第158章：市场偶遇 英雄无名 守护者得人心",
+    "file": "chapters/chapter_0158.json"
+  },
+  {
+    "num": 159,
+    "title_en": "Chapter 159: 磨锋备甲，剑斩雷姆颊血痕",
+    "title_cn": "第159章：磨锋备甲，剑斩雷姆颊血痕",
+    "file": "chapters/chapter_0159.json"
+  },
+  {
+    "num": 160,
+    "title_en": "Chapter 160: 正剑术的根基与青蛙的授业",
+    "title_cn": "第160章：正剑术的根基与青蛙的授业",
+    "file": "chapters/chapter_0160.json"
+  },
+  {
+    "num": 161,
+    "title_en": "Chapter 161: 剑术真意与鬣狗围猎",
+    "title_cn": "第161章：剑术真意与鬣狗围猎",
+    "file": "chapters/chapter_0161.json"
+  },
+  {
+    "num": 162,
+    "title_en": "Chapter 162: 溪涧洗尘见兽骸，拒援孤村剑影寒",
+    "title_cn": "第162章：溪涧洗尘见兽骸，拒援孤村剑影寒",
+    "file": "chapters/chapter_0162.json"
+  },
+  {
+    "num": 163,
+    "title_en": "Chapter 163: 晨光血战，诺尔群袭边陲村",
+    "title_cn": "第163章：晨光血战，诺尔群袭边陲村",
+    "file": "chapters/chapter_0163.json"
+  },
+  {
+    "num": 164,
+    "title_en": "Chapter 164: 剑舞孤影斩兽潮",
+    "title_cn": "第164章：剑舞孤影斩兽潮",
+    "file": "chapters/chapter_0164.json"
+  },
+  {
+    "num": 165,
+    "title_en": "Chapter 165: 孤身迎战怪物潮，毒匕刺入暗悟真",
+    "title_cn": "第165章：孤身迎战怪物潮，毒匕刺入暗悟真",
+    "file": "chapters/chapter_0165.json"
+  },
+  {
+    "num": 166,
+    "title_en": "Chapter 166: 肌肉记忆，百战不殆",
+    "title_cn": "第166章：肌肉记忆，百战不殆",
+    "file": "chapters/chapter_0166.json"
+  },
+  {
+    "num": 167,
+    "title_en": "Chapter 167: 二百日轮回终破壁，闪避之技初成",
+    "title_cn": "第167章：二百日轮回终破壁，闪避之技初成",
+    "file": "chapters/chapter_0167.json"
+  },
+  {
+    "num": 168,
+    "title_en": "Chapter 168: 剑指门关，血染晨光",
+    "title_cn": "第168章：剑指门关，血染晨光",
+    "file": "chapters/chapter_0168.json"
+  },
+  {
+    "num": 169,
+    "title_en": "Chapter 169: 群兽围城邪教狂徒献祭",
+    "title_cn": "第169章：群兽围城邪教狂徒献祭",
+    "file": "chapters/chapter_0169.json"
+  },
+  {
+    "num": 170,
+    "title_en": "Chapter 170: 伏地爬行斩首一击",
+    "title_cn": "第170章：伏地爬行斩首一击",
+    "file": "chapters/chapter_0170.json"
+  },
+  {
+    "num": 171,
+    "title_en": "Chapter 171: 剑斩丘陵首领，血路求生",
+    "title_cn": "第171章：剑斩丘陵首领，血路求生",
+    "file": "chapters/chapter_0171.json"
+  },
+  {
+    "num": 172,
+    "title_en": "Chapter 172: 疯人浴血破敌阵，残阳染壁铸墙名",
+    "title_cn": "第172章：疯人浴血破敌阵，残阳染壁铸墙名",
+    "file": "chapters/chapter_0172.json"
+  },
+  {
+    "num": 173,
+    "title_en": "Chapter 173: 越墙之夜，蓝眼映月",
+    "title_cn": "第173章：越墙之夜，蓝眼映月",
+    "file": "chapters/chapter_0173.json"
+  },
+  {
+    "num": 174,
+    "title_en": "Chapter 174: 三人出城迎千军，青蛙激怒显真章",
+    "title_cn": "第174章：三人出城迎千军，青蛙激怒显真章",
+    "file": "chapters/chapter_0174.json"
+  },
+  {
+    "num": 175,
+    "title_en": "Chapter 175: 青蛙战歌未尽，剑士忽然求援",
+    "title_cn": "第175章：青蛙战歌未尽，剑士忽然求援",
+    "file": "chapters/chapter_0175.json"
+  },
+  {
+    "num": 176,
+    "title_en": "Chapter 176: 请君入瓮，妆粉下的屠魔者",
+    "title_cn": "第176章：请君入瓮，妆粉下的屠魔者",
+    "file": "chapters/chapter_0176.json"
+  },
+  {
+    "num": 177,
+    "title_en": "Chapter 177: 狡狐设局诱敌出，断臂伏兵破邪徒",
+    "title_cn": "第177章：狡狐设局诱敌出，断臂伏兵破邪徒",
+    "file": "chapters/chapter_0177.json"
+  },
+  {
+    "num": 178,
+    "title_en": "Chapter 178: 月下苹果酒与青蛙的告白",
+    "title_cn": "第178章：月下苹果酒与青蛙的告白",
+    "file": "chapters/chapter_0178.json"
+  },
+  {
+    "num": 179,
+    "title_en": "Chapter 179: 独斩五百，恩克里德之墙",
+    "title_cn": "第179章：独斩五百，恩克里德之墙",
+    "file": "chapters/chapter_0179.json"
+  },
+  {
+    "num": 180,
+    "title_en": "Chapter 180: 迂回之术直捣藏宝窟",
+    "title_cn": "第180章：迂回之术直捣藏宝窟",
+    "file": "chapters/chapter_0180.json"
+  },
+  {
+    "num": 181,
+    "title_en": "Chapter 181: 恶灵附剑，拔剑即死",
+    "title_cn": "第181章：恶灵附剑，拔剑即死",
+    "file": "chapters/chapter_0181.json"
+  },
+  {
+    "num": 182,
+    "title_en": "Chapter 182: 诅咒之剑“导师”与死亡剑术",
+    "title_cn": "第182章：诅咒之剑“导师”与死亡剑术",
+    "file": "chapters/chapter_0182.json"
+  },
+  {
+    "num": 183,
+    "title_en": "Chapter 183: 剑狂入道，百死换真传",
+    "title_cn": "第183章：剑狂入道，百死换真传",
+    "file": "chapters/chapter_0183.json"
+  },
+  {
+    "num": 184,
+    "title_en": "Chapter 184: 诅咒之剑的剑术课堂",
+    "title_cn": "第184章：诅咒之剑的剑术课堂",
+    "file": "chapters/chapter_0184.json"
+  },
+  {
+    "num": 185,
+    "title_en": "Chapter 185: 归来即升连长，剑试雷姆初显锋芒",
+    "title_cn": "第185章：归来即升连长，剑试雷姆初显锋芒",
+    "file": "chapters/chapter_0185.json"
+  },
+  {
+    "num": 186,
+    "title_en": "Chapter 186: 归营激战，怪物群中悟新境",
+    "title_cn": "第186章：归营激战，怪物群中悟新境",
+    "file": "chapters/chapter_0186.json"
+  },
+  {
+    "num": 187,
+    "title_en": "Chapter 187: 雷姆吐露心迹，恩克里德照旧切磋",
+    "title_cn": "第187章：雷姆吐露心迹，恩克里德照旧切磋",
+    "file": "chapters/chapter_0187.json"
+  },
+  {
+    "num": 188,
+    "title_en": "Chapter 188: 暗夜双影，蝎狮越城遇熊躯",
+    "title_cn": "第188章：暗夜双影，蝎狮越城遇熊躯",
+    "file": "chapters/chapter_0188.json"
+  },
+  {
+    "num": 189,
+    "title_en": "Chapter 189: 月下熊影斗蝎尾，铁甲护腕市集行",
+    "title_cn": "第189章：月下熊影斗蝎尾，铁甲护腕市集行",
+    "file": "chapters/chapter_0189.json"
+  },
+  {
+    "num": 190,
+    "title_en": "Chapter 190: 掌掴蝎狮，开门迎敌",
+    "title_cn": "第190章：掌掴蝎狮，开门迎敌",
+    "file": "chapters/chapter_0190.json"
+  },
+  {
+    "num": 191,
+    "title_en": "Chapter 191: 拳毙邪徒狮尸未冷",
+    "title_cn": "第191章：拳毙邪徒狮尸未冷",
+    "file": "chapters/chapter_0191.json"
+  },
+  {
+    "num": 192,
+    "title_en": "Chapter 192: 剑下白狮泪，夜审黑刃踪",
+    "title_cn": "第192章：剑下白狮泪，夜审黑刃踪",
+    "file": "chapters/chapter_0192.json"
+  },
+  {
+    "num": 193,
+    "title_en": "Chapter 193: 使节护卫暗渡陈仓，黑刃盗贼自投罗网",
+    "title_cn": "第193章：使节护卫暗渡陈仓，黑刃盗贼自投罗网",
+    "file": "chapters/chapter_0193.json"
+  },
+  {
+    "num": 194,
+    "title_en": "Chapter 194: 功绩之路，骑士之梦",
+    "title_cn": "第194章：功绩之路，骑士之梦",
+    "file": "chapters/chapter_0194.json"
+  },
+  {
+    "num": 195,
+    "title_en": "Chapter 195: 暗棋出鞘，囚徒之眼藏金芒",
+    "title_cn": "第195章：暗棋出鞘，囚徒之眼藏金芒",
+    "file": "chapters/chapter_0195.json"
+  },
+  {
+    "num": 196,
+    "title_en": "Chapter 196: 兽人开口，贵族毙命",
+    "title_cn": "第196章：兽人开口，贵族毙命",
+    "file": "chapters/chapter_0196.json"
+  },
+  {
+    "num": 197,
+    "title_en": "Chapter 197: 埋伏当前，三人戏演，兽人动心",
+    "title_cn": "第197章：埋伏当前，三人戏演，兽人动心",
+    "file": "chapters/chapter_0197.json"
+  },
+  {
+    "num": 198,
+    "title_en": "Chapter 198: 斧光掠影斩首式，剑术演示授真意",
+    "title_cn": "第198章：斧光掠影斩首式，剑术演示授真意",
+    "file": "chapters/chapter_0198.json"
+  },
+  {
+    "num": 199,
+    "title_en": "Chapter 199: 精准如穿针，力技斩群匪",
+    "title_cn": "第199章：精准如穿针，力技斩群匪",
+    "file": "chapters/chapter_0199.json"
+  },
+  {
+    "num": 200,
+    "title_en": "Chapter 200: 伪契宣战，兽人女求留",
+    "title_cn": "第200章：伪契宣战，兽人女求留",
+    "file": "chapters/chapter_0200.json"
+  },
+  {
+    "num": 201,
+    "title_en": "Chapter 201: 兽女归附，月光下的抉择",
+    "title_cn": "第201章：兽女归附，月光下的抉择",
+    "file": "chapters/chapter_0201.json"
+  },
+  {
+    "num": 202,
+    "title_en": "Chapter 202: 独立连获战场专断权",
+    "title_cn": "第202章：独立连获战场专断权",
+    "file": "chapters/chapter_0202.json"
+  },
+  {
+    "num": 203,
+    "title_en": "Chapter 203: 独身逆流伏敌阵，碎械扬名镇千军",
+    "title_cn": "第203章：独身逆流伏敌阵，碎械扬名镇千军",
+    "file": "chapters/chapter_0203.json"
+  },
+  {
+    "num": 204,
+    "title_en": "Chapter 204: 夜袭敌营夺粮归",
+    "title_cn": "第204章：夜袭敌营夺粮归",
+    "file": "chapters/chapter_0204.json"
+  },
+  {
+    "num": 205,
+    "title_en": "Chapter 205: 面包香气引敌袭，熔炉营遇火劫",
+    "title_cn": "第205章：面包香气引敌袭，熔炉营遇火劫",
+    "file": "chapters/chapter_0205.json"
+  },
+  {
+    "num": 206,
+    "title_en": "Chapter 206: 诱饵巨汉声东击西，密道潜行暗袭敌营",
+    "title_cn": "第206章：诱饵巨汉声东击西，密道潜行暗袭敌营",
+    "file": "chapters/chapter_0206.json"
+  },
+  {
+    "num": 207,
+    "title_en": "Chapter 207: 枪尖与兽心",
+    "title_cn": "第207章：枪尖与兽心",
+    "file": "chapters/chapter_0207.json"
+  },
+  {
+    "num": 208,
+    "title_en": "Chapter 208: 骑兵突袭破敌阵，恩克里德迎战巫师",
+    "title_cn": "第208章：骑兵突袭破敌阵，恩克里德迎战巫师",
+    "file": "chapters/chapter_0208.json"
+  },
+  {
+    "num": 209,
+    "title_en": "Chapter 209: 骑兵冲锋碎于剑下",
+    "title_cn": "第209章：骑兵冲锋碎于剑下",
+    "file": "chapters/chapter_0209.json"
+  },
+  {
+    "num": 210,
+    "title_en": "Chapter 210: 五骑破阵，血雨斩首",
+    "title_cn": "第210章：五骑破阵，血雨斩首",
+    "file": "chapters/chapter_0210.json"
+  },
+  {
+    "num": 211,
+    "title_en": "Chapter 211: 戮英之刃折戟无声步法",
+    "title_cn": "第211章：戮英之刃折戟无声步法",
+    "file": "chapters/chapter_0211.json"
+  },
+  {
+    "num": 212,
+    "title_en": "Chapter 212: 溃军归巢，铁蹄叩城",
+    "title_cn": "第212章：溃军归巢，铁蹄叩城",
+    "file": "chapters/chapter_0212.json"
+  },
+  {
+    "num": 213,
+    "title_en": "Chapter 213: 破晓孤城黑豹影 暗夜巫师契约声",
+    "title_cn": "第213章：破晓孤城黑豹影 暗夜巫师契约声",
+    "file": "chapters/chapter_0213.json"
+  },
+  {
+    "num": 214,
+    "title_en": "Chapter 214: 暗影覆罩惊破夜，黑豹化炎女巫威",
+    "title_cn": "第214章：暗影覆罩惊破夜，黑豹化炎女巫威",
+    "file": "chapters/chapter_0214.json"
+  },
+  {
+    "num": 215,
+    "title_en": "Chapter 215: 刺客夜袭，黑豹化人露真容",
+    "title_cn": "第215章：刺客夜袭，黑豹化人露真容",
+    "file": "chapters/chapter_0215.json"
+  },
+  {
+    "num": 216,
+    "title_en": "Chapter 216: 正剑术格局·城门破时决死志",
+    "title_cn": "第216章：正剑术格局·城门破时决死志",
+    "file": "chapters/chapter_0216.json"
+  },
+  {
+    "num": 217,
+    "title_en": "Chapter 217: 雨落晴空，一剑定城",
+    "title_cn": "第217章：雨落晴空，一剑定城",
+    "file": "chapters/chapter_0217.json"
+  },
+  {
+    "num": 218,
+    "title_en": "Chapter 218: 庆功宴上拒帅印，剑心未满再出征",
+    "title_cn": "第218章：庆功宴上拒帅印，剑心未满再出征",
+    "file": "chapters/chapter_0218.json"
+  },
+  {
+    "num": 219,
+    "title_en": "Chapter 219: 伯爵驾临，当众放倒其子",
+    "title_cn": "第219章：伯爵驾临，当众放倒其子",
+    "file": "chapters/chapter_0219.json"
+  },
+  {
+    "num": 220,
+    "title_en": "Chapter 220: 伯爵暗桩初探恩克里德，贾克森拒杀情报告密",
+    "title_cn": "第220章：伯爵暗桩初探恩克里德，贾克森拒杀情报告密",
+    "file": "chapters/chapter_0220.json"
+  },
+  {
+    "num": 221,
+    "title_en": "Chapter 221: 训练连长与兽潮清剿",
+    "title_cn": "第221章：训练连长与兽潮清剿",
+    "file": "chapters/chapter_0221.json"
+  },
+  {
+    "num": 222,
+    "title_en": "Chapter 222: 虚名之下尽是蠢材",
+    "title_cn": "第222章：虚名之下尽是蠢材",
+    "file": "chapters/chapter_0222.json"
+  },
+  {
+    "num": 223,
+    "title_en": "Chapter 223: 铁壁冲撞与血战黄昏",
+    "title_cn": "第223章：铁壁冲撞与血战黄昏",
+    "file": "chapters/chapter_0223.json"
+  },
+  {
+    "num": 224,
+    "title_en": "Chapter 224: 伤愈起身，战意如潮",
+    "title_cn": "第224章：伤愈起身，战意如潮",
+    "file": "chapters/chapter_0224.json"
+  },
+  {
+    "num": 225,
+    "title_en": "Chapter 225: 丰收宴前，以一敌众显锋芒",
+    "title_cn": "第225章：丰收宴前，以一敌众显锋芒",
+    "file": "chapters/chapter_0225.json"
+  },
+  {
+    "num": 226,
+    "title_en": "Chapter 226: 一剑换两伤，岿然不动慑群雄",
+    "title_cn": "第226章：一剑换两伤，岿然不动慑群雄",
+    "file": "chapters/chapter_0226.json"
+  },
+  {
+    "num": 227,
+    "title_en": "Chapter 227: 沸水煎蛙心未死，剑锋淬火意难平",
+    "title_cn": "第227章：沸水煎蛙心未死，剑锋淬火意难平",
+    "file": "chapters/chapter_0227.json"
+  },
+  {
+    "num": 228,
+    "title_en": "Chapter 228: 意志之刃碎无形，不死之心战威压",
+    "title_cn": "第228章：意志之刃碎无形，不死之心战威压",
+    "file": "chapters/chapter_0228.json"
+  },
+  {
+    "num": 229,
+    "title_en": "Chapter 229: 额角一擦命悬一线，荒野牧人斩魂剑",
+    "title_cn": "第229章：额角一擦命悬一线，荒野牧人斩魂剑",
+    "file": "chapters/chapter_0229.json"
+  },
+  {
+    "num": 230,
+    "title_en": "Chapter 230: 流剑术破境八十余次",
+    "title_cn": "第230章：流剑术破境八十余次",
+    "file": "chapters/chapter_0230.json"
+  },
+  {
+    "num": 231,
+    "title_en": "Chapter 231: 笑悟意志，剑斩无形",
+    "title_cn": "第231章：笑悟意志，剑斩无形",
+    "file": "chapters/chapter_0231.json"
+  },
+  {
+    "num": 232,
+    "title_en": "Chapter 232: 第四百八十五次今日中领悟意志",
+    "title_cn": "第232章：第四百八十五次今日中领悟意志",
+    "file": "chapters/chapter_0232.json"
+  },
+  {
+    "num": 233,
+    "title_en": "Chapter 233: 悟得“拒绝”意志，三刀换新生",
+    "title_cn": "第233章：悟得“拒绝”意志，三刀换新生",
+    "file": "chapters/chapter_0233.json"
+  },
+  {
+    "num": 234,
+    "title_en": "Chapter 234: 借力破盾，混血巨人首尝败绩",
+    "title_cn": "第234章：借力破盾，混血巨人首尝败绩",
+    "file": "chapters/chapter_0234.json"
+  },
+  {
+    "num": 235,
+    "title_en": "Chapter 235: 意志显化，雨中破刃",
+    "title_cn": "第235章：意志显化，雨中破刃",
+    "file": "chapters/chapter_0235.json"
+  },
+  {
+    "num": 236,
+    "title_en": "Chapter 236: 意志碎片雨中淬炼，骑士之路暗夜邀约",
+    "title_cn": "第236章：意志碎片雨中淬炼，骑士之路暗夜邀约",
+    "file": "chapters/chapter_0236.json"
+  },
+  {
+    "num": 237,
+    "title_en": "Chapter 237: 暴雨夜拒邀，同伴聚誓守忠义",
+    "title_cn": "第237章：暴雨夜拒邀，同伴聚誓守忠义",
+    "file": "chapters/chapter_0237.json"
+  },
+  {
+    "num": 238,
+    "title_en": "Chapter 238: 雨幕藏锋，人质困局",
+    "title_cn": "第238章：雨幕藏锋，人质困局",
+    "file": "chapters/chapter_0238.json"
+  },
+  {
+    "num": 239,
+    "title_en": "Chapter 239: 盾压如山，缎带噬颅",
+    "title_cn": "第239章：盾压如山，缎带噬颅",
+    "file": "chapters/chapter_0239.json"
+  },
+  {
+    "num": 240,
+    "title_en": "Chapter 240: 剑斩火球，怒涛破敌",
+    "title_cn": "第240章：剑斩火球，怒涛破敌",
+    "file": "chapters/chapter_0240.json"
+  },
+  {
+    "num": 241,
+    "title_en": "Chapter 241: 斩火断空，巨人新生",
+    "title_cn": "第241章：斩火断空，巨人新生",
+    "file": "chapters/chapter_0241.json"
+  },
+  {
+    "num": 242,
+    "title_en": "Chapter 242: 意志交锋，斧影如鞭",
+    "title_cn": "第242章：意志交锋，斧影如鞭",
+    "file": "chapters/chapter_0242.json"
+  },
+  {
+    "num": 243,
+    "title_en": "Chapter 243: 兽群围林金瞳破局",
+    "title_cn": "第243章：兽群围林金瞳破局",
+    "file": "chapters/chapter_0243.json"
+  },
+  {
+    "num": 244,
+    "title_en": "Chapter 244: 新月断头台，孤身入兽群",
+    "title_cn": "第244章：新月断头台，孤身入兽群",
+    "file": "chapters/chapter_0244.json"
+  },
+  {
+    "num": 245,
+    "title_en": "Chapter 245: 孤城危局半人马啸",
+    "title_cn": "第245章：孤城危局半人马啸",
+    "file": "chapters/chapter_0245.json"
+  },
+  {
+    "num": 246,
+    "title_en": "Chapter 246: 城门洞开，三波冲锋杀阵",
+    "title_cn": "第246章：城门洞开，三波冲锋杀阵",
+    "file": "chapters/chapter_0246.json"
+  },
+  {
+    "num": 247,
+    "title_en": "Chapter 247: 意志如泉涌，剑斩半人马首领",
+    "title_cn": "第247章：意志如泉涌，剑斩半人马首领",
+    "file": "chapters/chapter_0247.json"
+  },
+  {
+    "num": 248,
+    "title_en": "Chapter 248: 野马破魔 异瞳拒血 初触未驯",
+    "title_cn": "第248章：野马破魔 异瞳拒血 初触未驯",
+    "file": "chapters/chapter_0248.json"
+  },
+  {
+    "num": 249,
+    "title_en": "Chapter 249: 抚马聆心，兽女归队",
+    "title_cn": "第249章：抚马聆心，兽女归队",
+    "file": "chapters/chapter_0249.json"
+  },
+  {
+    "num": 250,
+    "title_en": "Chapter 250: 野马引路坍塌墓穴燃骨现",
+    "title_cn": "第250章：野马引路坍塌墓穴燃骨现",
+    "file": "chapters/chapter_0250.json"
+  },
+  {
+    "num": 251,
+    "title_en": "Chapter 251: 星墓暖光，火矛怨念化尘烬",
+    "title_cn": "第251章：星墓暖光，火矛怨念化尘烬",
+    "file": "chapters/chapter_0251.json"
+  },
+  {
+    "num": 252,
+    "title_en": "Chapter 252: 聚落屠灭者雨中归",
+    "title_cn": "第252章：聚落屠灭者雨中归",
+    "file": "chapters/chapter_0252.json"
+  },
+  {
+    "num": 253,
+    "title_en": "Chapter 253: 月下自省，狂人夜练",
+    "title_cn": "第253章：月下自省，狂人夜练",
+    "file": "chapters/chapter_0253.json"
+  },
+  {
+    "num": 254,
+    "title_en": "Chapter 254: 醉汉挥拳，黑刃信使殒命酒馆",
+    "title_cn": "第254章：醉汉挥拳，黑刃信使殒命酒馆",
+    "file": "chapters/chapter_0254.json"
+  },
+  {
+    "num": 255,
+    "title_en": "Chapter 255: 矮人慧眼识奇石，众客各求称心兵",
+    "title_cn": "第255章：矮人慧眼识奇石，众客各求称心兵",
+    "file": "chapters/chapter_0255.json"
+  },
+  {
+    "num": 256,
+    "title_en": "Chapter 256: 扇神父耳光，蛇行步惊现军营",
+    "title_cn": "第256章：扇神父耳光，蛇行步惊现军营",
+    "file": "chapters/chapter_0256.json"
+  },
+  {
+    "num": 257,
+    "title_en": "Chapter 257: 晨光中剑意破茧",
+    "title_cn": "第257章：晨光中剑意破茧",
+    "file": "chapters/chapter_0257.json"
+  },
+  {
+    "num": 258,
+    "title_en": "Chapter 258: 沉浸悟剑三日醒，矮人赠器试锋芒",
+    "title_cn": "第258章：沉浸悟剑三日醒，矮人赠器试锋芒",
+    "file": "chapters/chapter_0258.json"
+  },
+  {
+    "num": 259,
+    "title_en": "Chapter 259: 蠢货先知与备战之剑",
+    "title_cn": "第259章：蠢货先知与备战之剑",
+    "file": "chapters/chapter_0259.json"
+  },
+  {
+    "num": 260,
+    "title_en": "Chapter 260: 骗杀伏敌，雪中屠戮",
+    "title_cn": "第260章：骗杀伏敌，雪中屠戮",
+    "file": "chapters/chapter_0260.json"
+  },
+  {
+    "num": 261,
+    "title_en": "Chapter 261: 一剑破敌，青蛙陨落",
+    "title_cn": "第261章：一剑破敌，青蛙陨落",
+    "file": "chapters/chapter_0261.json"
+  },
+  {
+    "num": 262,
+    "title_en": "Chapter 262: 洋葱未婚夫与断臂之蛙",
+    "title_cn": "第262章：洋葱未婚夫与断臂之蛙",
+    "file": "chapters/chapter_0262.json"
+  },
+  {
+    "num": 263,
+    "title_en": "Chapter 263: 巫师聚则祸起，黑豹心绪难平",
+    "title_cn": "第263章：巫师聚则祸起，黑豹心绪难平",
+    "file": "chapters/chapter_0263.json"
+  },
+  {
+    "num": 264,
+    "title_en": "Chapter 264: 残阳杀意，尖刺破空",
+    "title_cn": "第264章：残阳杀意，尖刺破空",
+    "file": "chapters/chapter_0264.json"
+  },
+  {
+    "num": 265,
+    "title_en": "Chapter 265: 乱局藏锋，飞镖破伏斩连环",
+    "title_cn": "第265章：乱局藏锋，飞镖破伏斩连环",
+    "file": "chapters/chapter_0265.json"
+  },
+  {
+    "num": 266,
+    "title_en": "Chapter 266: 残影断首，毒烟血雨斩群刺",
+    "title_cn": "第266章：残影断首，毒烟血雨斩群刺",
+    "file": "chapters/chapter_0266.json"
+  },
+  {
+    "num": 267,
+    "title_en": "Chapter 267: 青蛙囚牢，审问反成饵",
+    "title_cn": "第267章：青蛙囚牢，审问反成饵",
+    "file": "chapters/chapter_0267.json"
+  },
+  {
+    "num": 268,
+    "title_en": "Chapter 268: 夜潜药村，四人成行",
+    "title_cn": "第268章：夜潜药村，四人成行",
+    "file": "chapters/chapter_0268.json"
+  },
+  {
+    "num": 269,
+    "title_en": "Chapter 269: 村口盘查暗藏玄机 贾克森演技瞒天过海",
+    "title_cn": "第269章：村口盘查暗藏玄机 贾克森演技瞒天过海",
+    "file": "chapters/chapter_0269.json"
+  },
+  {
+    "num": 270,
+    "title_en": "Chapter 270: 夜色下的无形利刃",
+    "title_cn": "第270章：夜色下的无形利刃",
+    "file": "chapters/chapter_0270.json"
+  },
+  {
+    "num": 271,
+    "title_en": "Chapter 271: 夜袭磨坊，短刃破伏",
+    "title_cn": "第271章：夜袭磨坊，短刃破伏",
+    "file": "chapters/chapter_0271.json"
+  },
+  {
+    "num": 272,
+    "title_en": "Chapter 272: 村匪尽伏剑光中",
+    "title_cn": "第272章：村匪尽伏剑光中",
+    "file": "chapters/chapter_0272.json"
+  },
+  {
+    "num": 273,
+    "title_en": "Chapter 273: 血月淬刃，刺客无声",
+    "title_cn": "第273章：血月淬刃，刺客无声",
+    "file": "chapters/chapter_0273.json"
+  },
+  {
+    "num": 274,
+    "title_en": "Chapter 274: 灰袍女巫现身，雷光碎于无形镜",
+    "title_cn": "第274章：灰袍女巫现身，雷光碎于无形镜",
+    "file": "chapters/chapter_0274.json"
+  },
+  {
+    "num": 275,
+    "title_en": "Chapter 275: 黑豹手刃巫师，隧道惨案真相",
+    "title_cn": "第275章：黑豹手刃巫师，隧道惨案真相",
+    "file": "chapters/chapter_0275.json"
+  },
+  {
+    "num": 276,
+    "title_en": "Chapter 276: 断臂焚焰，剑问炼狱",
+    "title_cn": "第276章：断臂焚焰，剑问炼狱",
+    "file": "chapters/chapter_0276.json"
+  },
+  {
+    "num": 277,
+    "title_en": "Chapter 277: 两月扫荡黑刃匪巢",
+    "title_cn": "第277章：两月扫荡黑刃匪巢",
+    "file": "chapters/chapter_0277.json"
+  },
+  {
+    "num": 278,
+    "title_en": "Chapter 278: 暗流涌动黑刃聚，赌徒困局马库斯",
+    "title_cn": "第278章：暗流涌动黑刃聚，赌徒困局马库斯",
+    "file": "chapters/chapter_0278.json"
+  },
+  {
+    "num": 279,
+    "title_en": "Chapter 279: 意识领域闪避术：荆棘之路的预备",
+    "title_cn": "第279章：意识领域闪避术：荆棘之路的预备",
+    "file": "chapters/chapter_0279.json"
+  },
+  {
+    "num": 280,
+    "title_en": "Chapter 280: 北境孤军四面楚歌",
+    "title_cn": "第280章：北境孤军四面楚歌",
+    "file": "chapters/chapter_0280.json"
+  },
+  {
+    "num": 281,
+    "title_en": "Chapter 281: 一语点醒梦中人，连长定心稳军心",
+    "title_cn": "第281章：一语点醒梦中人，连长定心稳军心",
+    "file": "chapters/chapter_0281.json"
+  },
+  {
+    "num": 282,
+    "title_en": "Chapter 282: 痛楚铸魂，疯狗连长阵前宣言",
+    "title_cn": "第282章：痛楚铸魂，疯狗连长阵前宣言",
+    "file": "chapters/chapter_0282.json"
+  },
+  {
+    "num": 283,
+    "title_en": "Chapter 283: 斥候为眼定胜负，练兵实战慑敌胆",
+    "title_cn": "第283章：斥候为眼定胜负，练兵实战慑敌胆",
+    "file": "chapters/chapter_0283.json"
+  },
+  {
+    "num": 284,
+    "title_en": "Chapter 284: 佯攻破敌奇袭焚营 狂人排血刃斩狼群",
+    "title_cn": "第284章：佯攻破敌奇袭焚营 狂人排血刃斩狼群",
+    "file": "chapters/chapter_0284.json"
+  },
+  {
+    "num": 285,
+    "title_en": "Chapter 285: 血路奔袭斩首令，妖精踏盾破喉锋",
+    "title_cn": "第285章：血路奔袭斩首令，妖精踏盾破喉锋",
+    "file": "chapters/chapter_0285.json"
+  },
+  {
+    "num": 286,
+    "title_en": "Chapter 286: 断骨迎敌，浮枪追命",
+    "title_cn": "第286章：断骨迎敌，浮枪追命",
+    "file": "chapters/chapter_0286.json"
+  },
+  {
+    "num": 287,
+    "title_en": "Chapter 287: 剑锋碎牙，锤中藏锋",
+    "title_cn": "第287章：剑锋碎牙，锤中藏锋",
+    "file": "chapters/chapter_0287.json"
+  },
+  {
+    "num": 288,
+    "title_en": "Chapter 288: 快剑如潮黑衣死士",
+    "title_cn": "第288章：快剑如潮黑衣死士",
+    "file": "chapters/chapter_0288.json"
+  },
+  {
+    "num": 289,
+    "title_en": "Chapter 289: 骑士之誓，不弃边关",
+    "title_cn": "第289章：骑士之誓，不弃边关",
+    "file": "chapters/chapter_0289.json"
+  },
+  {
+    "num": 290,
+    "title_en": "Chapter 290: 孤剑独留，血战百匪",
+    "title_cn": "第290章：孤剑独留，血战百匪",
+    "file": "chapters/chapter_0290.json"
+  },
+  {
+    "num": 291,
+    "title_en": "Chapter 291: 疯犬孤刃，血溅坟前",
+    "title_cn": "第291章：疯犬孤刃，血溅坟前",
+    "file": "chapters/chapter_0291.json"
+  },
+  {
+    "num": 292,
+    "title_en": "Chapter 292: 暗夜毒计：以孩童为饵的绝命陷阱",
+    "title_cn": "第292章：暗夜毒计：以孩童为饵的绝命陷阱",
+    "file": "chapters/chapter_0292.json"
+  },
+  {
+    "num": 293,
+    "title_en": "Chapter 293: 抢先破咒，跛步穿行",
+    "title_cn": "第293章：抢先破咒，跛步穿行",
+    "file": "chapters/chapter_0293.json"
+  },
+  {
+    "num": 294,
+    "title_en": "Chapter 294: 以意驭速破心笼",
+    "title_cn": "第294章：以意驭速破心笼",
+    "file": "chapters/chapter_0294.json"
+  },
+  {
+    "num": 295,
+    "title_en": "Chapter 295: 惑敌斩丝救稚子，孤身迎敌破五剑",
+    "title_cn": "第295章：惑敌斩丝救稚子，孤身迎敌破五剑",
+    "file": "chapters/chapter_0295.json"
+  },
+  {
+    "num": 296,
+    "title_en": "Chapter 296: 送葬祝福，狂人破阵",
+    "title_cn": "第296章：送葬祝福，狂人破阵",
+    "file": "chapters/chapter_0296.json"
+  },
+  {
+    "num": 297,
+    "title_en": "Chapter 297: 盾碎狼嚎，叛徒挥剑斩旧主",
+    "title_cn": "第297章：盾碎狼嚎，叛徒挥剑斩旧主",
+    "file": "chapters/chapter_0297.json"
+  },
+  {
+    "num": 298,
+    "title_en": "Chapter 298: 投石破矛，狂人惊惧",
+    "title_cn": "第298章：投石破矛，狂人惊惧",
+    "file": "chapters/chapter_0298.json"
+  },
+  {
+    "num": 299,
+    "title_en": "Chapter 299: 双雄末路，雪中快剑决生死",
+    "title_cn": "第299章：双雄末路，雪中快剑决生死",
+    "file": "chapters/chapter_0299.json"
+  },
+  {
+    "num": 300,
+    "title_en": "Chapter 300: 血战不退，疯斧斩指惊敌胆",
+    "title_cn": "第300章：血战不退，疯斧斩指惊敌胆",
+    "file": "chapters/chapter_0300.json"
+  },
+  {
+    "num": 301,
+    "title_en": "Chapter 301: 剑光破雪，英雄初鸣",
+    "title_cn": "第301章：剑光破雪，英雄初鸣",
+    "file": "chapters/chapter_0301.json"
+  },
+  {
+    "num": 302,
+    "title_en": "Chapter 302: 雪夜托孤，暗巷立誓",
+    "title_cn": "第302章：雪夜托孤，暗巷立誓",
+    "file": "chapters/chapter_0302.json"
+  },
+  {
+    "num": 303,
+    "title_en": "Chapter 303: 运筹帷幄，将军密谈察敌踪",
+    "title_cn": "第303章：运筹帷幄，将军密谈察敌踪",
+    "file": "chapters/chapter_0303.json"
+  },
+  {
+    "num": 304,
+    "title_en": "Chapter 304: 心音如雷，剑指极限",
+    "title_cn": "第304章：心音如雷，剑指极限",
+    "file": "chapters/chapter_0304.json"
+  },
+  {
+    "num": 305,
+    "title_en": "Chapter 305: 河畔烤鱼，军厨引商机",
+    "title_cn": "第305章：河畔烤鱼，军厨引商机",
+    "file": "chapters/chapter_0305.json"
+  },
+  {
+    "num": 306,
+    "title_en": "Chapter 306: 孤身冲阵第一剑，血光裂阵惊敌胆",
+    "title_cn": "第306章：孤身冲阵第一剑，血光裂阵惊敌胆",
+    "file": "chapters/chapter_0306.json"
+  },
+  {
+    "num": 307,
+    "title_en": "Chapter 307: 潜伏之刃，术士交锋",
+    "title_cn": "第307章：潜伏之刃，术士交锋",
+    "file": "chapters/chapter_0307.json"
+  },
+  {
+    "num": 308,
+    "title_en": "Chapter 308: 恩克里德孤军陷阵，艾丝特魔像反杀",
+    "title_cn": "第308章：恩克里德孤军陷阵，艾丝特魔像反杀",
+    "file": "chapters/chapter_0308.json"
+  },
+  {
+    "num": 309,
+    "title_en": "Chapter 309: 孤绝之将陷死地，百五箭雨终殒身",
+    "title_cn": "第309章：孤绝之将陷死地，百五箭雨终殒身",
+    "file": "chapters/chapter_0309.json"
+  },
+  {
+    "num": 310,
+    "title_en": "Chapter 310: 三角封阵困孤狼",
+    "title_cn": "第310章：三角封阵困孤狼",
+    "file": "chapters/chapter_0310.json"
+  },
+  {
+    "num": 311,
+    "title_en": "Chapter 311: 血战水灵破重围，百死无悔笑深渊",
+    "title_cn": "第311章：血战水灵破重围，百死无悔笑深渊",
+    "file": "chapters/chapter_0311.json"
+  },
+  {
+    "num": 312,
+    "title_en": "Chapter 312: 领悟真墙，破局于无形",
+    "title_cn": "第312章：领悟真墙，破局于无形",
+    "file": "chapters/chapter_0312.json"
+  },
+  {
+    "num": 313,
+    "title_en": "Chapter 313: 破壁明路，力破千军",
+    "title_cn": "第313章：破壁明路，力破千军",
+    "file": "chapters/chapter_0313.json"
+  },
+  {
+    "num": 314,
+    "title_en": "Chapter 314: 赤瞳追猎，棕皮渣滓",
+    "title_cn": "第314章：赤瞳追猎，棕皮渣滓",
+    "file": "chapters/chapter_0314.json"
+  },
+  {
+    "num": 315,
+    "title_en": "Chapter 315: 血路新生：以我之剑斩开前路",
+    "title_cn": "第315章：血路新生：以我之剑斩开前路",
+    "file": "chapters/chapter_0315.json"
+  },
+  {
+    "num": 316,
+    "title_en": "Chapter 316: 孤身破阵，英雄归营",
+    "title_cn": "第316章：孤身破阵，英雄归营",
+    "file": "chapters/chapter_0316.json"
+  },
+  {
+    "num": 317,
+    "title_en": "Chapter 317: 刺刃回旋，黑百合纹身",
+    "title_cn": "第317章：刺刃回旋，黑百合纹身",
+    "file": "chapters/chapter_0317.json"
+  },
+  {
+    "num": 318,
+    "title_en": "Chapter 318: 浴火复起，众志凝锋",
+    "title_cn": "第318章：浴火复起，众志凝锋",
+    "file": "chapters/chapter_0318.json"
+  },
+  {
+    "num": 319,
+    "title_en": "Chapter 319: 死神降临，一剑封喉",
+    "title_cn": "第319章：死神降临，一剑封喉",
+    "file": "chapters/chapter_0319.json"
+  },
+  {
+    "num": 320,
+    "title_en": "Chapter 320: 挣脱循环的第三十二次微笑",
+    "title_cn": "第320章：挣脱循环的第三十二次微笑",
+    "file": "chapters/chapter_0320.json"
+  },
+  {
+    "num": 321,
+    "title_en": "Chapter 321: 痴剑问心，囚笼难困狂人笑",
+    "title_cn": "第321章：痴剑问心，囚笼难困狂人笑",
+    "file": "chapters/chapter_0321.json"
+  },
+  {
+    "num": 322,
+    "title_en": "Chapter 322: 剑鸣如雷，死境窥光",
+    "title_cn": "第322章：剑鸣如雷，死境窥光",
+    "file": "chapters/chapter_0322.json"
+  },
+  {
+    "num": 323,
+    "title_en": "Chapter 323: 淬炼直觉，静候宿敌",
+    "title_cn": "第323章：淬炼直觉，静候宿敌",
+    "file": "chapters/chapter_0323.json"
+  },
+  {
+    "num": 324,
+    "title_en": "Chapter 324: 崩山一击破骑士之隙",
+    "title_cn": "第324章：崩山一击破骑士之隙",
+    "file": "chapters/chapter_0324.json"
+  },
+  {
+    "num": 325,
+    "title_en": "Chapter 325: 碎剑一瞬，赌命狂徒",
+    "title_cn": "第325章：碎剑一瞬，赌命狂徒",
+    "file": "chapters/chapter_0325.json"
+  },
+  {
+    "num": 326,
+    "title_en": "Chapter 326: 庆功宴上，队长之剑与战友情",
+    "title_cn": "第326章：庆功宴上，队长之剑与战友情",
+    "file": "chapters/chapter_0326.json"
+  },
+  {
+    "num": 327,
+    "title_en": "Chapter 327: 干花瓣落满英雄肩",
+    "title_cn": "第327章：干花瓣落满英雄肩",
+    "file": "chapters/chapter_0327.json"
+  },
+  {
+    "num": 328,
+    "title_en": "Chapter 328: 心念电转，沉入剑境见伯爵",
+    "title_cn": "第328章：心念电转，沉入剑境见伯爵",
+    "file": "chapters/chapter_0328.json"
+  },
+  {
+    "num": 329,
+    "title_en": "Chapter 329: 英雄之名暗潮涌动",
+    "title_cn": "第329章：英雄之名暗潮涌动",
+    "file": "chapters/chapter_0329.json"
+  },
+  {
+    "num": 330,
+    "title_en": "Chapter 330: 识破伪面，舌战豺狼，疯者自渡",
+    "title_cn": "第330章：识破伪面，舌战豺狼，疯者自渡",
+    "file": "chapters/chapter_0330.json"
+  },
+  {
+    "num": 331,
+    "title_en": "Chapter 331: 独战三疯，剑试群魔",
+    "title_cn": "第331章：独战三疯，剑试群魔",
+    "file": "chapters/chapter_0331.json"
+  },
+  {
+    "num": 332,
+    "title_en": "Chapter 332: 诅咒消退，豹影寻道",
+    "title_cn": "第332章：诅咒消退，豹影寻道",
+    "file": "chapters/chapter_0332.json"
+  },
+  {
+    "num": 333,
+    "title_en": "Chapter 333: 军营燃火，群心皆沸",
+    "title_cn": "第333章：军营燃火，群心皆沸",
+    "file": "chapters/chapter_0333.json"
+  },
+  {
+    "num": 334,
+    "title_en": "Chapter 334: 旧友来访，剑试商途",
+    "title_cn": "第334章：旧友来访，剑试商途",
+    "file": "chapters/chapter_0334.json"
+  },
+  {
+    "num": 335,
+    "title_en": "Chapter 335: 铁匠铺内三剑同辉 意志锤炼筋骨如钢",
+    "title_cn": "第335章：铁匠铺内三剑同辉 意志锤炼筋骨如钢",
+    "file": "chapters/chapter_0335.json"
+  },
+  {
+    "num": 336,
+    "title_en": "Chapter 336: 斧石连击破虚招",
+    "title_cn": "第336章：斧石连击破虚招",
+    "file": "chapters/chapter_0336.json"
+  },
+  {
+    "num": 337,
+    "title_en": "Chapter 337: 囚剑初试斩群鬼",
+    "title_cn": "第337章：囚剑初试斩群鬼",
+    "file": "chapters/chapter_0337.json"
+  },
+  {
+    "num": 338,
+    "title_en": "Chapter 338: 领悟星光，困剑成林",
+    "title_cn": "第338章：领悟星光，困剑成林",
+    "file": "chapters/chapter_0338.json"
+  },
+  {
+    "num": 339,
+    "title_en": "Chapter 339: 沼泽之王与虫群覆灭",
+    "title_cn": "第339章：沼泽之王与虫群覆灭",
+    "file": "chapters/chapter_0339.json"
+  },
+  {
+    "num": 340,
+    "title_en": "Chapter 340: 疾行半日猎巨魔，山林追踪悟剑意",
+    "title_cn": "第340章：疾行半日猎巨魔，山林追踪悟剑意",
+    "file": "chapters/chapter_0340.json"
+  },
+  {
+    "num": 341,
+    "title_en": "Chapter 341: 斧落矛飞，奥丁三击碎巨魔",
+    "title_cn": "第341章：斧落矛飞，奥丁三击碎巨魔",
+    "file": "chapters/chapter_0341.json"
+  },
+  {
+    "num": 342,
+    "title_en": "Chapter 342: 意志之剑，轻重变幻定胜负",
+    "title_cn": "第342章：意志之剑，轻重变幻定胜负",
+    "file": "chapters/chapter_0342.json"
+  },
+  {
+    "num": 343,
+    "title_en": "Chapter 343: 妖精亮底牌，剑意破虚影",
+    "title_cn": "第343章：妖精亮底牌，剑意破虚影",
+    "file": "chapters/chapter_0343.json"
+  },
+  {
+    "num": 344,
+    "title_en": "Chapter 344: 确认之战，疯犬连长直问内战",
+    "title_cn": "第344章：确认之战，疯犬连长直问内战",
+    "file": "chapters/chapter_0344.json"
+  },
+  {
+    "num": 345,
+    "title_en": "Chapter 345: 故人携谜入茶叙，王语湮灭启暗局",
+    "title_cn": "第345章：故人携谜入茶叙，王语湮灭启暗局",
+    "file": "chapters/chapter_0345.json"
+  },
+  {
+    "num": 346,
+    "title_en": "Chapter 346: 无心王座者，目光已越王冠",
+    "title_cn": "第346章：无心王座者，目光已越王冠",
+    "file": "chapters/chapter_0346.json"
+  },
+  {
+    "num": 347,
+    "title_en": "Chapter 347: 剑术万井皆涌泉，狂人护卫赴王都",
+    "title_cn": "第347章：剑术万井皆涌泉，狂人护卫赴王都",
+    "file": "chapters/chapter_0347.json"
+  },
+  {
+    "num": 348,
+    "title_en": "Chapter 348: 雨幕启程，疯子连队护主入王都",
+    "title_cn": "第348章：雨幕启程，疯子连队护主入王都",
+    "file": "chapters/chapter_0348.json"
+  },
+  {
+    "num": 349,
+    "title_en": "Chapter 349: 风雨伏杀，一剑破局",
+    "title_cn": "第349章：风雨伏杀，一剑破局",
+    "file": "chapters/chapter_0349.json"
+  },
+  {
+    "num": 350,
+    "title_en": "Chapter 350: 雨歇生火，夜话王道",
+    "title_cn": "第350章：雨歇生火，夜话王道",
+    "file": "chapters/chapter_0350.json"
+  },
+  {
+    "num": 351,
+    "title_en": "Chapter 351: 驱兽投袭破双陷",
+    "title_cn": "第351章：驱兽投袭破双陷",
+    "file": "chapters/chapter_0351.json"
+  },
+  {
+    "num": 352,
+    "title_en": "Chapter 352: 安宁下的杀机，烤鸡馆中定风波",
+    "title_cn": "第352章：安宁下的杀机，烤鸡馆中定风波",
+    "file": "chapters/chapter_0352.json"
+  },
+  {
+    "num": 353,
+    "title_en": "Chapter 353: 疯马踏裂大地，骑士终结战争",
+    "title_cn": "第353章：疯马踏裂大地，骑士终结战争",
+    "file": "chapters/chapter_0353.json"
+  },
+  {
+    "num": 354,
+    "title_en": "Chapter 354: 城门对峙，王族自证锋芒初露",
+    "title_cn": "第354章：城门对峙，王族自证锋芒初露",
+    "file": "chapters/chapter_0354.json"
+  },
+  {
+    "num": 355,
+    "title_en": "Chapter 355: 赌命磨剑，王宫暗流",
+    "title_cn": "第355章：赌命磨剑，王宫暗流",
+    "file": "chapters/chapter_0355.json"
+  },
+  {
+    "num": 356,
+    "title_en": "Chapter 356: 觐见厅内暗潮涌，旧友重逢试剑锋",
+    "title_cn": "第356章：觐见厅内暗潮涌，旧友重逢试剑锋",
+    "file": "chapters/chapter_0356.json"
+  },
+  {
+    "num": 357,
+    "title_en": "Chapter 357: 严师铁腕，旧地重燃战意",
+    "title_cn": "第357章：严师铁腕，旧地重燃战意",
+    "file": "chapters/chapter_0357.json"
+  },
+  {
+    "num": 358,
+    "title_en": "Chapter 358: 徒手接箭破墙斩敌，剑光如雷惊退刺客",
+    "title_cn": "第358章：徒手接箭破墙斩敌，剑光如雷惊退刺客",
+    "file": "chapters/chapter_0358.json"
+  },
+  {
+    "num": 359,
+    "title_en": "Chapter 359: 暗巷密约与血仇低语",
+    "title_cn": "第359章：暗巷密约与血仇低语",
+    "file": "chapters/chapter_0359.json"
+  },
+  {
+    "num": 360,
+    "title_en": "Chapter 360: 无声刺击对银色锋芒",
+    "title_cn": "第360章：无声刺击对银色锋芒",
+    "file": "chapters/chapter_0360.json"
+  },
+  {
+    "num": 361,
+    "title_en": "Chapter 361: 流言如刀，王都暗潮涌",
+    "title_cn": "第361章：流言如刀，王都暗潮涌",
+    "file": "chapters/chapter_0361.json"
+  },
+  {
+    "num": 362,
+    "title_en": "Chapter 362: 暗夜棋盘，骑士缺席的危局",
+    "title_cn": "第362章：暗夜棋盘，骑士缺席的危局",
+    "file": "chapters/chapter_0362.json"
+  },
+  {
+    "num": 363,
+    "title_en": "Chapter 363: 一言激将，夜查都城",
+    "title_cn": "第363章：一言激将，夜查都城",
+    "file": "chapters/chapter_0363.json"
+  },
+  {
+    "num": 364,
+    "title_en": "Chapter 364: 侯爵挑衅与狼人谜案",
+    "title_cn": "第364章：侯爵挑衅与狼人谜案",
+    "file": "chapters/chapter_0364.json"
+  },
+  {
+    "num": 365,
+    "title_en": "Chapter 365: 幻剑对峙，意志交锋",
+    "title_cn": "第365章：幻剑对峙，意志交锋",
+    "file": "chapters/chapter_0365.json"
+  },
+  {
+    "num": 366,
+    "title_en": "Chapter 366: 满月前夕雨停云开猎兽时",
+    "title_cn": "第366章：满月前夕雨停云开猎兽时",
+    "file": "chapters/chapter_0366.json"
+  },
+  {
+    "num": 367,
+    "title_en": "Chapter 367: 月光夜行，拼图初现",
+    "title_cn": "第367章：月光夜行，拼图初现",
+    "file": "chapters/chapter_0367.json"
+  },
+  {
+    "num": 368,
+    "title_en": "Chapter 368: 月下枭兽围猎夜",
+    "title_cn": "第368章：月下枭兽围猎夜",
+    "file": "chapters/chapter_0368.json"
+  },
+  {
+    "num": 369,
+    "title_en": "Chapter 369: 枭熊伏诛，子爵遗言藏暗线",
+    "title_cn": "第369章：枭熊伏诛，子爵遗言藏暗线",
+    "file": "chapters/chapter_0369.json"
+  },
+  {
+    "num": 370,
+    "title_en": "Chapter 370: 摆渡人梦中开眼，战意沸腾",
+    "title_cn": "第370章：摆渡人梦中开眼，战意沸腾",
+    "file": "chapters/chapter_0370.json"
+  },
+  {
+    "num": 371,
+    "title_en": "Chapter 371: 一脚踢翻警吏，墙头惊见追兵",
+    "title_cn": "第371章：一脚踢翻警吏，墙头惊见追兵",
+    "file": "chapters/chapter_0371.json"
+  },
+  {
+    "num": 372,
+    "title_en": "Chapter 372: 孤窗赌命，血路求援",
+    "title_cn": "第372章：孤窗赌命，血路求援",
+    "file": "chapters/chapter_0372.json"
+  },
+  {
+    "num": 373,
+    "title_en": "Chapter 373: 异瞳马前十面埋伏，疯言戏敌双匕夺命",
+    "title_cn": "第373章：异瞳马前十面埋伏，疯言戏敌双匕夺命",
+    "file": "chapters/chapter_0373.json"
+  },
+  {
+    "num": 374,
+    "title_en": "Chapter 374: 异色瞳踏破王宫防线",
+    "title_cn": "第374章：异色瞳踏破王宫防线",
+    "file": "chapters/chapter_0374.json"
+  },
+  {
+    "num": 375,
+    "title_en": "Chapter 375: 闭目斩心墙，剑指生死关",
+    "title_cn": "第375章：闭目斩心墙，剑指生死关",
+    "file": "chapters/chapter_0375.json"
+  },
+  {
+    "num": 376,
+    "title_en": "Chapter 376: 双剑交击，血染黄昏",
+    "title_cn": "第376章：双剑交击，血染黄昏",
+    "file": "chapters/chapter_0376.json"
+  },
+  {
+    "num": 377,
+    "title_en": "Chapter 377: 模仿剑尖，心无旁骛",
+    "title_cn": "第377章：模仿剑尖，心无旁骛",
+    "file": "chapters/chapter_0377.json"
+  },
+  {
+    "num": 378,
+    "title_en": "Chapter 378: 精准如摘羽，剑指亚细亚",
+    "title_cn": "第378章：精准如摘羽，剑指亚细亚",
+    "file": "chapters/chapter_0378.json"
+  },
+  {
+    "num": 379,
+    "title_en": "Chapter 379: 剑尖交击，障壁初现",
+    "title_cn": "第379章：剑尖交击，障壁初现",
+    "file": "chapters/chapter_0379.json"
+  },
+  {
+    "num": 380,
+    "title_en": "Chapter 380: 心锁千日，一语破墙",
+    "title_cn": "第380章：心锁千日，一语破墙",
+    "file": "chapters/chapter_0380.json"
+  },
+  {
+    "num": 381,
+    "title_en": "Chapter 381: 破剑尖，战意狂涌见新路",
+    "title_cn": "第381章：破剑尖，战意狂涌见新路",
+    "file": "chapters/chapter_0381.json"
+  },
+  {
+    "num": 382,
+    "title_en": "Chapter 382: 百炼破墙，双兔兼擒",
+    "title_cn": "第382章：百炼破墙，双兔兼擒",
+    "file": "chapters/chapter_0382.json"
+  },
+  {
+    "num": 383,
+    "title_en": "Chapter 383: 一剑穿心，侍从梦碎血泊中",
+    "title_cn": "第383章：一剑穿心，侍从梦碎血泊中",
+    "file": "chapters/chapter_0383.json"
+  },
+  {
+    "num": 384,
+    "title_en": "Chapter 384: 笑战绝壁，破窗援兵至",
+    "title_cn": "第384章：笑战绝壁，破窗援兵至",
+    "file": "chapters/chapter_0384.json"
+  },
+  {
+    "num": 385,
+    "title_en": "Chapter 385: 魔女焚焰，不死追猎",
+    "title_cn": "第385章：魔女焚焰，不死追猎",
+    "file": "chapters/chapter_0385.json"
+  },
+  {
+    "num": 386,
+    "title_en": "Chapter 386: 勤学苦练破魔眼，血路直指梅内斯宫",
+    "title_cn": "第386章：勤学苦练破魔眼，血路直指梅内斯宫",
+    "file": "chapters/chapter_0386.json"
+  },
+  {
+    "num": 387,
+    "title_en": "Chapter 387: 鸟眼剑客与巨人血脉",
+    "title_cn": "第387章：鸟眼剑客与巨人血脉",
+    "file": "chapters/chapter_0387.json"
+  },
+  {
+    "num": 388,
+    "title_en": "Chapter 388: 孤身破阵踏王宫，一剑横空斩天才",
+    "title_cn": "第388章：孤身破阵踏王宫，一剑横空斩天才",
+    "file": "chapters/chapter_0388.json"
+  },
+  {
+    "num": 389,
+    "title_en": "Chapter 389: 血染黄昏斩首敌，捷径破局问本事",
+    "title_cn": "第389章：血染黄昏斩首敌，捷径破局问本事",
+    "file": "chapters/chapter_0389.json"
+  },
+  {
+    "num": 390,
+    "title_en": "Chapter 390: 守护骑士出鞘，叛臣当面叫阵",
+    "title_cn": "第390章：守护骑士出鞘，叛臣当面叫阵",
+    "file": "chapters/chapter_0390.json"
+  },
+  {
+    "num": 391,
+    "title_en": "Chapter 391: 王座之约与血月之影",
+    "title_cn": "第391章：王座之约与血月之影",
+    "file": "chapters/chapter_0391.json"
+  },
+  {
+    "num": 392,
+    "title_en": "Chapter 392: 赎罪者与猎杀者，狼嚎下的铁拳",
+    "title_cn": "第392章：赎罪者与猎杀者，狼嚎下的铁拳",
+    "file": "chapters/chapter_0392.json"
+  },
+  {
+    "num": 393,
+    "title_en": "Chapter 393: 左手为刃右手岩，血肉横飞镇边城",
+    "title_cn": "第393章：左手为刃右手岩，血肉横飞镇边城",
+    "file": "chapters/chapter_0393.json"
+  },
+  {
+    "num": 394,
+    "title_en": "Chapter 394: 暗晨梦谕，雏鸟初飞前一刻",
+    "title_cn": "第394章：暗晨梦谕，雏鸟初飞前一刻",
+    "file": "chapters/chapter_0394.json"
+  },
+  {
+    "num": 395,
+    "title_en": "Chapter 395: 人心如沙聚散难，一战定乾坤",
+    "title_cn": "第395章：人心如沙聚散难，一战定乾坤",
+    "file": "chapters/chapter_0395.json"
+  },
+  {
+    "num": 396,
+    "title_en": "Chapter 396: 单骑出阵斩副官",
+    "title_cn": "第396章：单骑出阵斩副官",
+    "file": "chapters/chapter_0396.json"
+  },
+  {
+    "num": 397,
+    "title_en": "Chapter 397: 孤身斩将，风起平原",
+    "title_cn": "第397章：孤身斩将，风起平原",
+    "file": "chapters/chapter_0397.json"
+  },
+  {
+    "num": 398,
+    "title_en": "Chapter 398: 利尔巴特的钢铁壁垒",
+    "title_cn": "第398章：利尔巴特的钢铁壁垒",
+    "file": "chapters/chapter_0398.json"
+  },
+  {
+    "num": 399,
+    "title_en": "Chapter 399: 旧日故人剑下立，两军阵前孤影燃",
+    "title_cn": "第399章：旧日故人剑下立，两军阵前孤影燃",
+    "file": "chapters/chapter_0399.json"
+  },
+  {
+    "num": 400,
+    "title_en": "Chapter 400: 月下盛宴，战前谋定",
+    "title_cn": "第400章：月下盛宴，战前谋定",
+    "file": "chapters/chapter_0400.json"
+  },
+  {
+    "num": 401,
+    "title_en": "Chapter 401: 血战平原巨人拦路",
+    "title_cn": "第401章：血战平原巨人拦路",
+    "file": "chapters/chapter_0401.json"
+  },
+  {
+    "num": 402,
+    "title_en": "Chapter 402: 魔剑破阵，荒野牧人迎战奇美拉",
+    "title_cn": "第402章：魔剑破阵，荒野牧人迎战奇美拉",
+    "file": "chapters/chapter_0402.json"
+  },
+  {
+    "num": 403,
+    "title_en": "Chapter 403: 直面怨灵法阵，魔女与巨人杀手的抉择",
+    "title_cn": "第403章：直面怨灵法阵，魔女与巨人杀手的抉择",
+    "file": "chapters/chapter_0403.json"
+  },
+  {
+    "num": 404,
+    "title_en": "Chapter 404: 兽化之躯，骑士之证",
+    "title_cn": "第404章：兽化之躯，骑士之证",
+    "file": "chapters/chapter_0404.json"
+  },
+  {
+    "num": 405,
+    "title_en": "Chapter 405: 先见之眼破流势，一语止戈定干戈",
+    "title_cn": "第405章：先见之眼破流势，一语止戈定干戈",
+    "file": "chapters/chapter_0405.json"
+  },
+  {
+    "num": 406,
+    "title_en": "Chapter 406: 观战者至，四剑破五怪",
+    "title_cn": "第406章：观战者至，四剑破五怪",
+    "file": "chapters/chapter_0406.json"
+  },
+  {
+    "num": 407,
+    "title_en": "Chapter 407: 血爪碎脊·五人终战",
+    "title_cn": "第407章：血爪碎脊·五人终战",
+    "file": "chapters/chapter_0407.json"
+  },
+  {
+    "num": 408,
+    "title_en": "Chapter 408: 血泪伏兵围孤阵，灰雾怨灵锁天光",
+    "title_cn": "第408章：血泪伏兵围孤阵，灰雾怨灵锁天光",
+    "file": "chapters/chapter_0408.json"
+  },
+  {
+    "num": 409,
+    "title_en": "Chapter 409: 贯穿鬼潮，直面黑椅之主",
+    "title_cn": "第409章：贯穿鬼潮，直面黑椅之主",
+    "file": "chapters/chapter_0409.json"
+  },
+  {
+    "num": 410,
+    "title_en": "Chapter 410: 血傀儡碎，幽魂将军一剑斩",
+    "title_cn": "第410章：血傀儡碎，幽魂将军一剑斩",
+    "file": "chapters/chapter_0410.json"
+  },
+  {
+    "num": 411,
+    "title_en": "Chapter 411: 断首斩魔，雨落魂散",
+    "title_cn": "第411章：断首斩魔，雨落魂散",
+    "file": "chapters/chapter_0411.json"
+  },
+  {
+    "num": 412,
+    "title_en": "Chapter 412: 雨落斩魔，英雄归途",
+    "title_cn": "第412章：雨落斩魔，英雄归途",
+    "file": "chapters/chapter_0412.json"
+  },
+  {
+    "num": 413,
+    "title_en": "Chapter 413: 悼念加冕雨浸肩",
+    "title_cn": "第413章：悼念加冕雨浸肩",
+    "file": "chapters/chapter_0413.json"
+  },
+  {
+    "num": 414,
+    "title_en": "Chapter 414: 贵族拉拢如潮涌，疯人连修炼破新招",
+    "title_cn": "第414章：贵族拉拢如潮涌，疯人连修炼破新招",
+    "file": "chapters/chapter_0414.json"
+  },
+  {
+    "num": 415,
+    "title_en": "Chapter 415: 拒婚侯门问本心 剑士独行避尘嚣",
+    "title_cn": "第415章：拒婚侯门问本心 剑士独行避尘嚣",
+    "file": "chapters/chapter_0415.json"
+  },
+  {
+    "num": 416,
+    "title_en": "Chapter 416: 功勋典礼王都送别，剑痴孤心归途",
+    "title_cn": "第416章：功勋典礼王都送别，剑痴孤心归途",
+    "file": "chapters/chapter_0416.json"
+  },
+  {
+    "num": 417,
+    "title_en": "Chapter 417: 哨站烽烟迎将军归",
+    "title_cn": "第417章：哨站烽烟迎将军归",
+    "file": "chapters/chapter_0417.json"
+  },
+  {
+    "num": 418,
+    "title_en": "Chapter 418: 将军之誓，黄金之城，神兵铸就",
+    "title_cn": "第418章：将军之誓，黄金之城，神兵铸就",
+    "file": "chapters/chapter_0418.json"
+  },
+  {
+    "num": 419,
+    "title_en": "Chapter 419: 追寻本心，试剑无人敢应",
+    "title_cn": "第419章：追寻本心，试剑无人敢应",
+    "file": "chapters/chapter_0419.json"
+  },
+  {
+    "num": 420,
+    "title_en": "Chapter 420: 随心而行，碎枷破旧规",
+    "title_cn": "第420章：随心而行，碎枷破旧规",
+    "file": "chapters/chapter_0420.json"
+  },
+  {
+    "num": 421,
+    "title_en": "Chapter 421: 不祥逼近与晨练铸兵",
+    "title_cn": "第421章：不祥逼近与晨练铸兵",
+    "file": "chapters/chapter_0421.json"
+  },
+  {
+    "num": 422,
+    "title_en": "Chapter 422: 诅咒使徒的绝望触碰",
+    "title_cn": "第422章：诅咒使徒的绝望触碰",
+    "file": "chapters/chapter_0422.json"
+  },
+  {
+    "num": 423,
+    "title_en": "Chapter 423: 诅咒反噬，意志碾压",
+    "title_cn": "第423章：诅咒反噬，意志碾压",
+    "file": "chapters/chapter_0423.json"
+  },
+  {
+    "num": 424,
+    "title_en": "Chapter 424: 锋芒初试，无名客踏营而来",
+    "title_cn": "第424章：锋芒初试，无名客踏营而来",
+    "file": "chapters/chapter_0424.json"
+  },
+  {
+    "num": 425,
+    "title_en": "Chapter 425: 剑锋抵喉，东方之王",
+    "title_cn": "第425章：剑锋抵喉，东方之王",
+    "file": "chapters/chapter_0425.json"
+  },
+  {
+    "num": 426,
+    "title_en": "Chapter 426: 东方之王猎才之心",
+    "title_cn": "第426章：东方之王猎才之心",
+    "file": "chapters/chapter_0426.json"
+  },
+  {
+    "num": 427,
+    "title_en": "Chapter 427: 斧光猎影，东方王邀雷姆同狩",
+    "title_cn": "第427章：斧光猎影，东方王邀雷姆同狩",
+    "file": "chapters/chapter_0427.json"
+  },
+  {
+    "num": 428,
+    "title_en": "Chapter 428: 暮色中诉说东方之梦",
+    "title_cn": "第428章：暮色中诉说东方之梦",
+    "file": "chapters/chapter_0428.json"
+  },
+  {
+    "num": 429,
+    "title_en": "Chapter 429: 锋芒初试，双角破空赠炽念",
+    "title_cn": "第429章：锋芒初试，双角破空赠炽念",
+    "file": "chapters/chapter_0429.json"
+  },
+  {
+    "num": 430,
+    "title_en": "Chapter 430: 剑中藏梦，公牛重压",
+    "title_cn": "第430章：剑中藏梦，公牛重压",
+    "file": "chapters/chapter_0430.json"
+  },
+  {
+    "num": 431,
+    "title_en": "Chapter 431: 往昔枷锁映心间，破誓寻道梦重燃",
+    "title_cn": "第431章：往昔枷锁映心间，破誓寻道梦重燃",
+    "file": "chapters/chapter_0431.json"
+  },
+  {
+    "num": 432,
+    "title_en": "Chapter 432: 剑锋相迎，雷姆授技",
+    "title_cn": "第432章：剑锋相迎，雷姆授技",
+    "file": "chapters/chapter_0432.json"
+  },
+  {
+    "num": 433,
+    "title_en": "Chapter 433: 凡人之躯，骑士之志",
+    "title_cn": "第433章：凡人之躯，骑士之志",
+    "file": "chapters/chapter_0433.json"
+  },
+  {
+    "num": 434,
+    "title_en": "Chapter 434: 瓶颈之月，负重前行",
+    "title_cn": "第434章：瓶颈之月，负重前行",
+    "file": "chapters/chapter_0434.json"
+  },
+  {
+    "num": 435,
+    "title_en": "Chapter 435: 以巫为镜剑更锋",
+    "title_cn": "第435章：以巫为镜剑更锋",
+    "file": "chapters/chapter_0435.json"
+  },
+  {
+    "num": 436,
+    "title_en": "Chapter 436",
+    "title_cn": "第436章",
+    "file": "chapters/chapter_0436.json"
+  },
+  {
+    "num": 437,
+    "title_en": "Chapter 437",
+    "title_cn": "第437章",
+    "file": "chapters/chapter_0437.json"
+  },
+  {
+    "num": 438,
+    "title_en": "Chapter 438",
+    "title_cn": "第438章",
+    "file": "chapters/chapter_0438.json"
+  },
+  {
+    "num": 439,
+    "title_en": "Chapter 439",
+    "title_cn": "第439章",
+    "file": "chapters/chapter_0439.json"
+  },
+  {
+    "num": 440,
+    "title_en": "Chapter 440",
+    "title_cn": "第440章",
+    "file": "chapters/chapter_0440.json"
+  },
+  {
+    "num": 441,
+    "title_en": "Chapter 441",
+    "title_cn": "第441章",
+    "file": "chapters/chapter_0441.json"
+  },
+  {
+    "num": 442,
+    "title_en": "Chapter 442",
+    "title_cn": "第442章",
+    "file": "chapters/chapter_0442.json"
+  },
+  {
+    "num": 443,
+    "title_en": "Chapter 443",
+    "title_cn": "第443章",
+    "file": "chapters/chapter_0443.json"
+  },
+  {
+    "num": 444,
+    "title_en": "Chapter 444",
+    "title_cn": "第444章",
+    "file": "chapters/chapter_0444.json"
+  },
+  {
+    "num": 445,
+    "title_en": "Chapter 445",
+    "title_cn": "第445章",
+    "file": "chapters/chapter_0445.json"
+  },
+  {
+    "num": 446,
+    "title_en": "Chapter 446",
+    "title_cn": "第446章",
+    "file": "chapters/chapter_0446.json"
+  },
+  {
+    "num": 447,
+    "title_en": "Chapter 447",
+    "title_cn": "第447章",
+    "file": "chapters/chapter_0447.json"
+  },
+  {
+    "num": 448,
+    "title_en": "Chapter 448",
+    "title_cn": "第448章",
+    "file": "chapters/chapter_0448.json"
+  },
+  {
+    "num": 449,
+    "title_en": "Chapter 449",
+    "title_cn": "第449章",
+    "file": "chapters/chapter_0449.json"
+  },
+  {
+    "num": 450,
+    "title_en": "Chapter 450",
+    "title_cn": "第450章",
+    "file": "chapters/chapter_0450.json"
+  },
+  {
+    "num": 451,
+    "title_en": "Chapter 451",
+    "title_cn": "第451章",
+    "file": "chapters/chapter_0451.json"
+  },
+  {
+    "num": 452,
+    "title_en": "Chapter 452",
+    "title_cn": "第452章",
+    "file": "chapters/chapter_0452.json"
+  },
+  {
+    "num": 453,
+    "title_en": "Chapter 453",
+    "title_cn": "第453章",
+    "file": "chapters/chapter_0453.json"
+  },
+  {
+    "num": 454,
+    "title_en": "Chapter 454",
+    "title_cn": "第454章",
+    "file": "chapters/chapter_0454.json"
+  },
+  {
+    "num": 455,
+    "title_en": "Chapter 455",
+    "title_cn": "第455章",
+    "file": "chapters/chapter_0455.json"
+  },
+  {
+    "num": 456,
+    "title_en": "Chapter 456",
+    "title_cn": "第456章",
+    "file": "chapters/chapter_0456.json"
+  },
+  {
+    "num": 457,
+    "title_en": "Chapter 457",
+    "title_cn": "第457章",
+    "file": "chapters/chapter_0457.json"
+  },
+  {
+    "num": 458,
+    "title_en": "Chapter 458",
+    "title_cn": "第458章",
+    "file": "chapters/chapter_0458.json"
+  },
+  {
+    "num": 459,
+    "title_en": "Chapter 459",
+    "title_cn": "第459章",
+    "file": "chapters/chapter_0459.json"
+  },
+  {
+    "num": 460,
+    "title_en": "Chapter 460",
+    "title_cn": "第460章",
+    "file": "chapters/chapter_0460.json"
+  },
+  {
+    "num": 461,
+    "title_en": "Chapter 461",
+    "title_cn": "第461章",
+    "file": "chapters/chapter_0461.json"
+  },
+  {
+    "num": 462,
+    "title_en": "Chapter 462",
+    "title_cn": "第462章",
+    "file": "chapters/chapter_0462.json"
+  },
+  {
+    "num": 463,
+    "title_en": "Chapter 463",
+    "title_cn": "第463章",
+    "file": "chapters/chapter_0463.json"
+  },
+  {
+    "num": 464,
+    "title_en": "Chapter 464",
+    "title_cn": "第464章",
+    "file": "chapters/chapter_0464.json"
+  },
+  {
+    "num": 465,
+    "title_en": "Chapter 465",
+    "title_cn": "第465章",
+    "file": "chapters/chapter_0465.json"
+  },
+  {
+    "num": 466,
+    "title_en": "Chapter 466",
+    "title_cn": "第466章",
+    "file": "chapters/chapter_0466.json"
+  },
+  {
+    "num": 467,
+    "title_en": "Chapter 467",
+    "title_cn": "第467章",
+    "file": "chapters/chapter_0467.json"
+  },
+  {
+    "num": 468,
+    "title_en": "Chapter 468",
+    "title_cn": "第468章",
+    "file": "chapters/chapter_0468.json"
+  },
+  {
+    "num": 469,
+    "title_en": "Chapter 469",
+    "title_cn": "第469章",
+    "file": "chapters/chapter_0469.json"
+  },
+  {
+    "num": 470,
+    "title_en": "Chapter 470",
+    "title_cn": "第470章",
+    "file": "chapters/chapter_0470.json"
+  },
+  {
+    "num": 471,
+    "title_en": "Chapter 471",
+    "title_cn": "第471章",
+    "file": "chapters/chapter_0471.json"
+  },
+  {
+    "num": 472,
+    "title_en": "Chapter 472",
+    "title_cn": "第472章",
+    "file": "chapters/chapter_0472.json"
+  },
+  {
+    "num": 473,
+    "title_en": "Chapter 473",
+    "title_cn": "第473章",
+    "file": "chapters/chapter_0473.json"
+  },
+  {
+    "num": 474,
+    "title_en": "Chapter 474",
+    "title_cn": "第474章",
+    "file": "chapters/chapter_0474.json"
+  },
+  {
+    "num": 475,
+    "title_en": "Chapter 475",
+    "title_cn": "第475章",
+    "file": "chapters/chapter_0475.json"
+  },
+  {
+    "num": 476,
+    "title_en": "Chapter 476",
+    "title_cn": "第476章",
+    "file": "chapters/chapter_0476.json"
+  },
+  {
+    "num": 477,
+    "title_en": "Chapter 477",
+    "title_cn": "第477章",
+    "file": "chapters/chapter_0477.json"
+  },
+  {
+    "num": 478,
+    "title_en": "Chapter 478",
+    "title_cn": "第478章",
+    "file": "chapters/chapter_0478.json"
+  },
+  {
+    "num": 479,
+    "title_en": "Chapter 479",
+    "title_cn": "第479章",
+    "file": "chapters/chapter_0479.json"
+  },
+  {
+    "num": 480,
+    "title_en": "Chapter 480",
+    "title_cn": "第480章",
+    "file": "chapters/chapter_0480.json"
+  },
+  {
+    "num": 481,
+    "title_en": "Chapter 481",
+    "title_cn": "第481章",
+    "file": "chapters/chapter_0481.json"
+  },
+  {
+    "num": 482,
+    "title_en": "Chapter 482",
+    "title_cn": "第482章",
+    "file": "chapters/chapter_0482.json"
+  },
+  {
+    "num": 483,
+    "title_en": "Chapter 483",
+    "title_cn": "第483章",
+    "file": "chapters/chapter_0483.json"
+  },
+  {
+    "num": 484,
+    "title_en": "Chapter 484",
+    "title_cn": "第484章",
+    "file": "chapters/chapter_0484.json"
+  },
+  {
+    "num": 485,
+    "title_en": "Chapter 485",
+    "title_cn": "第485章",
+    "file": "chapters/chapter_0485.json"
+  },
+  {
+    "num": 486,
+    "title_en": "Chapter 486",
+    "title_cn": "第486章",
+    "file": "chapters/chapter_0486.json"
+  },
+  {
+    "num": 487,
+    "title_en": "Chapter 487",
+    "title_cn": "第487章",
+    "file": "chapters/chapter_0487.json"
+  },
+  {
+    "num": 488,
+    "title_en": "Chapter 488",
+    "title_cn": "第488章",
+    "file": "chapters/chapter_0488.json"
+  },
+  {
+    "num": 489,
+    "title_en": "Chapter 489",
+    "title_cn": "第489章",
+    "file": "chapters/chapter_0489.json"
+  },
+  {
+    "num": 490,
+    "title_en": "Chapter 490",
+    "title_cn": "第490章",
+    "file": "chapters/chapter_0490.json"
+  },
+  {
+    "num": 491,
+    "title_en": "Chapter 491",
+    "title_cn": "第491章",
+    "file": "chapters/chapter_0491.json"
+  },
+  {
+    "num": 492,
+    "title_en": "Chapter 492",
+    "title_cn": "第492章",
+    "file": "chapters/chapter_0492.json"
+  },
+  {
+    "num": 493,
+    "title_en": "Chapter 493",
+    "title_cn": "第493章",
+    "file": "chapters/chapter_0493.json"
+  },
+  {
+    "num": 494,
+    "title_en": "Chapter 494",
+    "title_cn": "第494章",
+    "file": "chapters/chapter_0494.json"
+  },
+  {
+    "num": 495,
+    "title_en": "Chapter 495",
+    "title_cn": "第495章",
+    "file": "chapters/chapter_0495.json"
+  },
+  {
+    "num": 496,
+    "title_en": "Chapter 496",
+    "title_cn": "第496章",
+    "file": "chapters/chapter_0496.json"
+  },
+  {
+    "num": 497,
+    "title_en": "Chapter 497",
+    "title_cn": "第497章",
+    "file": "chapters/chapter_0497.json"
+  },
+  {
+    "num": 498,
+    "title_en": "Chapter 498",
+    "title_cn": "第498章",
+    "file": "chapters/chapter_0498.json"
+  },
+  {
+    "num": 499,
+    "title_en": "Chapter 499",
+    "title_cn": "第499章",
+    "file": "chapters/chapter_0499.json"
+  },
+  {
+    "num": 500,
+    "title_en": "Chapter 500",
+    "title_cn": "第500章",
+    "file": "chapters/chapter_0500.json"
+  },
+  {
+    "num": 501,
+    "title_en": "Chapter 501",
+    "title_cn": "第501章",
+    "file": "chapters/chapter_0501.json"
+  },
+  {
+    "num": 502,
+    "title_en": "Chapter 502",
+    "title_cn": "第502章",
+    "file": "chapters/chapter_0502.json"
+  },
+  {
+    "num": 503,
+    "title_en": "Chapter 503",
+    "title_cn": "第503章",
+    "file": "chapters/chapter_0503.json"
+  },
+  {
+    "num": 504,
+    "title_en": "Chapter 504",
+    "title_cn": "第504章",
+    "file": "chapters/chapter_0504.json"
+  },
+  {
+    "num": 505,
+    "title_en": "Chapter 505",
+    "title_cn": "第505章",
+    "file": "chapters/chapter_0505.json"
+  },
+  {
+    "num": 506,
+    "title_en": "Chapter 506",
+    "title_cn": "第506章",
+    "file": "chapters/chapter_0506.json"
+  },
+  {
+    "num": 507,
+    "title_en": "Chapter 507",
+    "title_cn": "第507章",
+    "file": "chapters/chapter_0507.json"
+  },
+  {
+    "num": 508,
+    "title_en": "Chapter 508",
+    "title_cn": "第508章",
+    "file": "chapters/chapter_0508.json"
+  },
+  {
+    "num": 509,
+    "title_en": "Chapter 509",
+    "title_cn": "第509章",
+    "file": "chapters/chapter_0509.json"
+  },
+  {
+    "num": 510,
+    "title_en": "Chapter 510",
+    "title_cn": "第510章",
+    "file": "chapters/chapter_0510.json"
+  },
+  {
+    "num": 511,
+    "title_en": "Chapter 511",
+    "title_cn": "第511章",
+    "file": "chapters/chapter_0511.json"
+  },
+  {
+    "num": 512,
+    "title_en": "Chapter 512",
+    "title_cn": "第512章",
+    "file": "chapters/chapter_0512.json"
+  },
+  {
+    "num": 513,
+    "title_en": "Chapter 513",
+    "title_cn": "第513章",
+    "file": "chapters/chapter_0513.json"
+  },
+  {
+    "num": 514,
+    "title_en": "Chapter 514",
+    "title_cn": "第514章",
+    "file": "chapters/chapter_0514.json"
+  },
+  {
+    "num": 515,
+    "title_en": "Chapter 515",
+    "title_cn": "第515章",
+    "file": "chapters/chapter_0515.json"
+  },
+  {
+    "num": 516,
+    "title_en": "Chapter 516",
+    "title_cn": "第516章",
+    "file": "chapters/chapter_0516.json"
+  },
+  {
+    "num": 517,
+    "title_en": "Chapter 517",
+    "title_cn": "第517章",
+    "file": "chapters/chapter_0517.json"
+  },
+  {
+    "num": 518,
+    "title_en": "Chapter 518",
+    "title_cn": "第518章",
+    "file": "chapters/chapter_0518.json"
+  },
+  {
+    "num": 519,
+    "title_en": "Chapter 519",
+    "title_cn": "第519章",
+    "file": "chapters/chapter_0519.json"
+  },
+  {
+    "num": 520,
+    "title_en": "Chapter 520",
+    "title_cn": "第520章",
+    "file": "chapters/chapter_0520.json"
+  },
+  {
+    "num": 521,
+    "title_en": "Chapter 521",
+    "title_cn": "第521章",
+    "file": "chapters/chapter_0521.json"
+  },
+  {
+    "num": 522,
+    "title_en": "Chapter 522",
+    "title_cn": "第522章",
+    "file": "chapters/chapter_0522.json"
+  },
+  {
+    "num": 523,
+    "title_en": "Chapter 523",
+    "title_cn": "第523章",
+    "file": "chapters/chapter_0523.json"
+  },
+  {
+    "num": 524,
+    "title_en": "Chapter 524",
+    "title_cn": "第524章",
+    "file": "chapters/chapter_0524.json"
+  },
+  {
+    "num": 525,
+    "title_en": "Chapter 525",
+    "title_cn": "第525章",
+    "file": "chapters/chapter_0525.json"
+  },
+  {
+    "num": 526,
+    "title_en": "Chapter 526",
+    "title_cn": "第526章",
+    "file": "chapters/chapter_0526.json"
+  },
+  {
+    "num": 527,
+    "title_en": "Chapter 527",
+    "title_cn": "第527章",
+    "file": "chapters/chapter_0527.json"
+  },
+  {
+    "num": 528,
+    "title_en": "Chapter 528",
+    "title_cn": "第528章",
+    "file": "chapters/chapter_0528.json"
+  },
+  {
+    "num": 529,
+    "title_en": "Chapter 529",
+    "title_cn": "第529章",
+    "file": "chapters/chapter_0529.json"
+  },
+  {
+    "num": 530,
+    "title_en": "Chapter 530",
+    "title_cn": "第530章",
+    "file": "chapters/chapter_0530.json"
+  },
+  {
+    "num": 531,
+    "title_en": "Chapter 531",
+    "title_cn": "第531章",
+    "file": "chapters/chapter_0531.json"
+  },
+  {
+    "num": 532,
+    "title_en": "Chapter 532",
+    "title_cn": "第532章",
+    "file": "chapters/chapter_0532.json"
+  },
+  {
+    "num": 533,
+    "title_en": "Chapter 533",
+    "title_cn": "第533章",
+    "file": "chapters/chapter_0533.json"
+  },
+  {
+    "num": 534,
+    "title_en": "Chapter 534",
+    "title_cn": "第534章",
+    "file": "chapters/chapter_0534.json"
+  },
+  {
+    "num": 535,
+    "title_en": "Chapter 535",
+    "title_cn": "第535章",
+    "file": "chapters/chapter_0535.json"
+  },
+  {
+    "num": 536,
+    "title_en": "Chapter 536",
+    "title_cn": "第536章",
+    "file": "chapters/chapter_0536.json"
+  },
+  {
+    "num": 537,
+    "title_en": "Chapter 537",
+    "title_cn": "第537章",
+    "file": "chapters/chapter_0537.json"
+  },
+  {
+    "num": 538,
+    "title_en": "Chapter 538",
+    "title_cn": "第538章",
+    "file": "chapters/chapter_0538.json"
+  },
+  {
+    "num": 539,
+    "title_en": "Chapter 539",
+    "title_cn": "第539章",
+    "file": "chapters/chapter_0539.json"
+  },
+  {
+    "num": 540,
+    "title_en": "Chapter 540",
+    "title_cn": "第540章",
+    "file": "chapters/chapter_0540.json"
+  },
+  {
+    "num": 541,
+    "title_en": "Chapter 541",
+    "title_cn": "第541章",
+    "file": "chapters/chapter_0541.json"
+  },
+  {
+    "num": 542,
+    "title_en": "Chapter 542",
+    "title_cn": "第542章",
+    "file": "chapters/chapter_0542.json"
+  },
+  {
+    "num": 543,
+    "title_en": "Chapter 543",
+    "title_cn": "第543章",
+    "file": "chapters/chapter_0543.json"
+  },
+  {
+    "num": 544,
+    "title_en": "Chapter 544",
+    "title_cn": "第544章",
+    "file": "chapters/chapter_0544.json"
+  },
+  {
+    "num": 545,
+    "title_en": "Chapter 545",
+    "title_cn": "第545章",
+    "file": "chapters/chapter_0545.json"
+  },
+  {
+    "num": 546,
+    "title_en": "Chapter 546",
+    "title_cn": "第546章",
+    "file": "chapters/chapter_0546.json"
+  },
+  {
+    "num": 547,
+    "title_en": "Chapter 547",
+    "title_cn": "第547章",
+    "file": "chapters/chapter_0547.json"
+  },
+  {
+    "num": 548,
+    "title_en": "Chapter 548",
+    "title_cn": "第548章",
+    "file": "chapters/chapter_0548.json"
+  },
+  {
+    "num": 549,
+    "title_en": "Chapter 549",
+    "title_cn": "第549章",
+    "file": "chapters/chapter_0549.json"
+  },
+  {
+    "num": 550,
+    "title_en": "Chapter 550",
+    "title_cn": "第550章",
+    "file": "chapters/chapter_0550.json"
+  },
+  {
+    "num": 551,
+    "title_en": "Chapter 551",
+    "title_cn": "第551章",
+    "file": "chapters/chapter_0551.json"
+  },
+  {
+    "num": 552,
+    "title_en": "Chapter 552",
+    "title_cn": "第552章",
+    "file": "chapters/chapter_0552.json"
+  },
+  {
+    "num": 553,
+    "title_en": "Chapter 553",
+    "title_cn": "第553章",
+    "file": "chapters/chapter_0553.json"
+  },
+  {
+    "num": 554,
+    "title_en": "Chapter 554",
+    "title_cn": "第554章",
+    "file": "chapters/chapter_0554.json"
+  },
+  {
+    "num": 555,
+    "title_en": "Chapter 555",
+    "title_cn": "第555章",
+    "file": "chapters/chapter_0555.json"
+  },
+  {
+    "num": 556,
+    "title_en": "Chapter 556",
+    "title_cn": "第556章",
+    "file": "chapters/chapter_0556.json"
+  },
+  {
+    "num": 557,
+    "title_en": "Chapter 557",
+    "title_cn": "第557章",
+    "file": "chapters/chapter_0557.json"
+  },
+  {
+    "num": 558,
+    "title_en": "Chapter 558",
+    "title_cn": "第558章",
+    "file": "chapters/chapter_0558.json"
+  },
+  {
+    "num": 559,
+    "title_en": "Chapter 559",
+    "title_cn": "第559章",
+    "file": "chapters/chapter_0559.json"
+  },
+  {
+    "num": 560,
+    "title_en": "Chapter 560",
+    "title_cn": "第560章",
+    "file": "chapters/chapter_0560.json"
+  },
+  {
+    "num": 561,
+    "title_en": "Chapter 561",
+    "title_cn": "第561章",
+    "file": "chapters/chapter_0561.json"
+  },
+  {
+    "num": 562,
+    "title_en": "Chapter 562",
+    "title_cn": "第562章",
+    "file": "chapters/chapter_0562.json"
+  },
+  {
+    "num": 563,
+    "title_en": "Chapter 563",
+    "title_cn": "第563章",
+    "file": "chapters/chapter_0563.json"
+  },
+  {
+    "num": 564,
+    "title_en": "Chapter 564",
+    "title_cn": "第564章",
+    "file": "chapters/chapter_0564.json"
+  },
+  {
+    "num": 565,
+    "title_en": "Chapter 565",
+    "title_cn": "第565章",
+    "file": "chapters/chapter_0565.json"
+  },
+  {
+    "num": 566,
+    "title_en": "Chapter 566",
+    "title_cn": "第566章",
+    "file": "chapters/chapter_0566.json"
+  },
+  {
+    "num": 567,
+    "title_en": "Chapter 567",
+    "title_cn": "第567章",
+    "file": "chapters/chapter_0567.json"
+  },
+  {
+    "num": 568,
+    "title_en": "Chapter 568",
+    "title_cn": "第568章",
+    "file": "chapters/chapter_0568.json"
+  },
+  {
+    "num": 569,
+    "title_en": "Chapter 569",
+    "title_cn": "第569章",
+    "file": "chapters/chapter_0569.json"
+  },
+  {
+    "num": 570,
+    "title_en": "Chapter 570",
+    "title_cn": "第570章",
+    "file": "chapters/chapter_0570.json"
+  },
+  {
+    "num": 571,
+    "title_en": "Chapter 571",
+    "title_cn": "第571章",
+    "file": "chapters/chapter_0571.json"
+  },
+  {
+    "num": 572,
+    "title_en": "Chapter 572",
+    "title_cn": "第572章",
+    "file": "chapters/chapter_0572.json"
+  },
+  {
+    "num": 573,
+    "title_en": "Chapter 573",
+    "title_cn": "第573章",
+    "file": "chapters/chapter_0573.json"
+  },
+  {
+    "num": 574,
+    "title_en": "Chapter 574",
+    "title_cn": "第574章",
+    "file": "chapters/chapter_0574.json"
+  },
+  {
+    "num": 575,
+    "title_en": "Chapter 575",
+    "title_cn": "第575章",
+    "file": "chapters/chapter_0575.json"
+  },
+  {
+    "num": 576,
+    "title_en": "Chapter 576",
+    "title_cn": "第576章",
+    "file": "chapters/chapter_0576.json"
+  },
+  {
+    "num": 577,
+    "title_en": "Chapter 577",
+    "title_cn": "第577章",
+    "file": "chapters/chapter_0577.json"
+  },
+  {
+    "num": 578,
+    "title_en": "Chapter 578",
+    "title_cn": "第578章",
+    "file": "chapters/chapter_0578.json"
+  },
+  {
+    "num": 579,
+    "title_en": "Chapter 579",
+    "title_cn": "第579章",
+    "file": "chapters/chapter_0579.json"
+  },
+  {
+    "num": 580,
+    "title_en": "Chapter 580",
+    "title_cn": "第580章",
+    "file": "chapters/chapter_0580.json"
+  },
+  {
+    "num": 581,
+    "title_en": "Chapter 581",
+    "title_cn": "第581章",
+    "file": "chapters/chapter_0581.json"
+  },
+  {
+    "num": 582,
+    "title_en": "Chapter 582",
+    "title_cn": "第582章",
+    "file": "chapters/chapter_0582.json"
+  },
+  {
+    "num": 583,
+    "title_en": "Chapter 583",
+    "title_cn": "第583章",
+    "file": "chapters/chapter_0583.json"
+  },
+  {
+    "num": 584,
+    "title_en": "Chapter 584",
+    "title_cn": "第584章",
+    "file": "chapters/chapter_0584.json"
+  },
+  {
+    "num": 585,
+    "title_en": "Chapter 585",
+    "title_cn": "第585章",
+    "file": "chapters/chapter_0585.json"
+  },
+  {
+    "num": 586,
+    "title_en": "Chapter 586",
+    "title_cn": "第586章",
+    "file": "chapters/chapter_0586.json"
+  },
+  {
+    "num": 587,
+    "title_en": "Chapter 587",
+    "title_cn": "第587章",
+    "file": "chapters/chapter_0587.json"
+  },
+  {
+    "num": 588,
+    "title_en": "Chapter 588",
+    "title_cn": "第588章",
+    "file": "chapters/chapter_0588.json"
+  },
+  {
+    "num": 589,
+    "title_en": "Chapter 589",
+    "title_cn": "第589章",
+    "file": "chapters/chapter_0589.json"
+  },
+  {
+    "num": 590,
+    "title_en": "Chapter 590",
+    "title_cn": "第590章",
+    "file": "chapters/chapter_0590.json"
+  },
+  {
+    "num": 591,
+    "title_en": "Chapter 591",
+    "title_cn": "第591章",
+    "file": "chapters/chapter_0591.json"
+  },
+  {
+    "num": 592,
+    "title_en": "Chapter 592",
+    "title_cn": "第592章",
+    "file": "chapters/chapter_0592.json"
+  },
+  {
+    "num": 593,
+    "title_en": "Chapter 593",
+    "title_cn": "第593章",
+    "file": "chapters/chapter_0593.json"
+  },
+  {
+    "num": 594,
+    "title_en": "Chapter 594",
+    "title_cn": "第594章",
+    "file": "chapters/chapter_0594.json"
+  },
+  {
+    "num": 595,
+    "title_en": "Chapter 595",
+    "title_cn": "第595章",
+    "file": "chapters/chapter_0595.json"
+  },
+  {
+    "num": 596,
+    "title_en": "Chapter 596",
+    "title_cn": "第596章",
+    "file": "chapters/chapter_0596.json"
+  },
+  {
+    "num": 597,
+    "title_en": "Chapter 597",
+    "title_cn": "第597章",
+    "file": "chapters/chapter_0597.json"
+  },
+  {
+    "num": 598,
+    "title_en": "Chapter 598",
+    "title_cn": "第598章",
+    "file": "chapters/chapter_0598.json"
+  },
+  {
+    "num": 599,
+    "title_en": "Chapter 599",
+    "title_cn": "第599章",
+    "file": "chapters/chapter_0599.json"
+  },
+  {
+    "num": 600,
+    "title_en": "Chapter 600",
+    "title_cn": "第600章",
+    "file": "chapters/chapter_0600.json"
+  },
+  {
+    "num": 601,
+    "title_en": "Chapter 601",
+    "title_cn": "第601章",
+    "file": "chapters/chapter_0601.json"
+  },
+  {
+    "num": 602,
+    "title_en": "Chapter 602",
+    "title_cn": "第602章",
+    "file": "chapters/chapter_0602.json"
+  },
+  {
+    "num": 603,
+    "title_en": "Chapter 603",
+    "title_cn": "第603章",
+    "file": "chapters/chapter_0603.json"
+  },
+  {
+    "num": 604,
+    "title_en": "Chapter 604",
+    "title_cn": "第604章",
+    "file": "chapters/chapter_0604.json"
+  },
+  {
+    "num": 605,
+    "title_en": "Chapter 605",
+    "title_cn": "第605章",
+    "file": "chapters/chapter_0605.json"
+  },
+  {
+    "num": 606,
+    "title_en": "Chapter 606",
+    "title_cn": "第606章",
+    "file": "chapters/chapter_0606.json"
+  },
+  {
+    "num": 607,
+    "title_en": "Chapter 607",
+    "title_cn": "第607章",
+    "file": "chapters/chapter_0607.json"
+  },
+  {
+    "num": 608,
+    "title_en": "Chapter 608",
+    "title_cn": "第608章",
+    "file": "chapters/chapter_0608.json"
+  },
+  {
+    "num": 609,
+    "title_en": "Chapter 609",
+    "title_cn": "第609章",
+    "file": "chapters/chapter_0609.json"
+  },
+  {
+    "num": 610,
+    "title_en": "Chapter 610",
+    "title_cn": "第610章",
+    "file": "chapters/chapter_0610.json"
+  },
+  {
+    "num": 611,
+    "title_en": "Chapter 611",
+    "title_cn": "第611章",
+    "file": "chapters/chapter_0611.json"
+  },
+  {
+    "num": 612,
+    "title_en": "Chapter 612",
+    "title_cn": "第612章",
+    "file": "chapters/chapter_0612.json"
+  },
+  {
+    "num": 613,
+    "title_en": "Chapter 613",
+    "title_cn": "第613章",
+    "file": "chapters/chapter_0613.json"
+  },
+  {
+    "num": 614,
+    "title_en": "Chapter 614",
+    "title_cn": "第614章",
+    "file": "chapters/chapter_0614.json"
+  },
+  {
+    "num": 615,
+    "title_en": "Chapter 615",
+    "title_cn": "第615章",
+    "file": "chapters/chapter_0615.json"
+  },
+  {
+    "num": 616,
+    "title_en": "Chapter 616",
+    "title_cn": "第616章",
+    "file": "chapters/chapter_0616.json"
+  },
+  {
+    "num": 617,
+    "title_en": "Chapter 617",
+    "title_cn": "第617章",
+    "file": "chapters/chapter_0617.json"
+  },
+  {
+    "num": 618,
+    "title_en": "Chapter 618",
+    "title_cn": "第618章",
+    "file": "chapters/chapter_0618.json"
+  },
+  {
+    "num": 619,
+    "title_en": "Chapter 619",
+    "title_cn": "第619章",
+    "file": "chapters/chapter_0619.json"
+  },
+  {
+    "num": 620,
+    "title_en": "Chapter 620",
+    "title_cn": "第620章",
+    "file": "chapters/chapter_0620.json"
+  },
+  {
+    "num": 621,
+    "title_en": "Chapter 621",
+    "title_cn": "第621章",
+    "file": "chapters/chapter_0621.json"
+  },
+  {
+    "num": 622,
+    "title_en": "Chapter 622",
+    "title_cn": "第622章",
+    "file": "chapters/chapter_0622.json"
+  },
+  {
+    "num": 623,
+    "title_en": "Chapter 623",
+    "title_cn": "第623章",
+    "file": "chapters/chapter_0623.json"
+  },
+  {
+    "num": 624,
+    "title_en": "Chapter 624",
+    "title_cn": "第624章",
+    "file": "chapters/chapter_0624.json"
+  },
+  {
+    "num": 625,
+    "title_en": "Chapter 625",
+    "title_cn": "第625章",
+    "file": "chapters/chapter_0625.json"
+  },
+  {
+    "num": 626,
+    "title_en": "Chapter 626",
+    "title_cn": "第626章",
+    "file": "chapters/chapter_0626.json"
+  },
+  {
+    "num": 627,
+    "title_en": "Chapter 627",
+    "title_cn": "第627章",
+    "file": "chapters/chapter_0627.json"
+  },
+  {
+    "num": 628,
+    "title_en": "Chapter 628",
+    "title_cn": "第628章",
+    "file": "chapters/chapter_0628.json"
+  },
+  {
+    "num": 629,
+    "title_en": "Chapter 629",
+    "title_cn": "第629章",
+    "file": "chapters/chapter_0629.json"
+  },
+  {
+    "num": 630,
+    "title_en": "Chapter 630",
+    "title_cn": "第630章",
+    "file": "chapters/chapter_0630.json"
+  },
+  {
+    "num": 631,
+    "title_en": "Chapter 631",
+    "title_cn": "第631章",
+    "file": "chapters/chapter_0631.json"
+  },
+  {
+    "num": 632,
+    "title_en": "Chapter 632",
+    "title_cn": "第632章",
+    "file": "chapters/chapter_0632.json"
+  },
+  {
+    "num": 633,
+    "title_en": "Chapter 633",
+    "title_cn": "第633章",
+    "file": "chapters/chapter_0633.json"
+  },
+  {
+    "num": 634,
+    "title_en": "Chapter 634",
+    "title_cn": "第634章",
+    "file": "chapters/chapter_0634.json"
+  },
+  {
+    "num": 635,
+    "title_en": "Chapter 635",
+    "title_cn": "第635章",
+    "file": "chapters/chapter_0635.json"
+  },
+  {
+    "num": 636,
+    "title_en": "Chapter 636",
+    "title_cn": "第636章",
+    "file": "chapters/chapter_0636.json"
+  },
+  {
+    "num": 637,
+    "title_en": "Chapter 637",
+    "title_cn": "第637章",
+    "file": "chapters/chapter_0637.json"
+  },
+  {
+    "num": 638,
+    "title_en": "Chapter 638",
+    "title_cn": "第638章",
+    "file": "chapters/chapter_0638.json"
+  },
+  {
+    "num": 639,
+    "title_en": "Chapter 639",
+    "title_cn": "第639章",
+    "file": "chapters/chapter_0639.json"
+  },
+  {
+    "num": 640,
+    "title_en": "Chapter 640",
+    "title_cn": "第640章",
+    "file": "chapters/chapter_0640.json"
+  },
+  {
+    "num": 641,
+    "title_en": "Chapter 641",
+    "title_cn": "第641章",
+    "file": "chapters/chapter_0641.json"
+  },
+  {
+    "num": 642,
+    "title_en": "Chapter 642",
+    "title_cn": "第642章",
+    "file": "chapters/chapter_0642.json"
+  },
+  {
+    "num": 643,
+    "title_en": "Chapter 643",
+    "title_cn": "第643章",
+    "file": "chapters/chapter_0643.json"
+  },
+  {
+    "num": 644,
+    "title_en": "Chapter 644",
+    "title_cn": "第644章",
+    "file": "chapters/chapter_0644.json"
+  },
+  {
+    "num": 645,
+    "title_en": "Chapter 645",
+    "title_cn": "第645章",
+    "file": "chapters/chapter_0645.json"
+  },
+  {
+    "num": 646,
+    "title_en": "Chapter 646",
+    "title_cn": "第646章",
+    "file": "chapters/chapter_0646.json"
+  },
+  {
+    "num": 647,
+    "title_en": "Chapter 647",
+    "title_cn": "第647章",
+    "file": "chapters/chapter_0647.json"
+  },
+  {
+    "num": 648,
+    "title_en": "Chapter 648",
+    "title_cn": "第648章",
+    "file": "chapters/chapter_0648.json"
+  },
+  {
+    "num": 649,
+    "title_en": "Chapter 649",
+    "title_cn": "第649章",
+    "file": "chapters/chapter_0649.json"
+  },
+  {
+    "num": 650,
+    "title_en": "Chapter 650",
+    "title_cn": "第650章",
+    "file": "chapters/chapter_0650.json"
+  },
+  {
+    "num": 651,
+    "title_en": "Chapter 651",
+    "title_cn": "第651章",
+    "file": "chapters/chapter_0651.json"
+  },
+  {
+    "num": 652,
+    "title_en": "Chapter 652",
+    "title_cn": "第652章",
+    "file": "chapters/chapter_0652.json"
+  },
+  {
+    "num": 653,
+    "title_en": "Chapter 653",
+    "title_cn": "第653章",
+    "file": "chapters/chapter_0653.json"
+  },
+  {
+    "num": 654,
+    "title_en": "Chapter 654",
+    "title_cn": "第654章",
+    "file": "chapters/chapter_0654.json"
+  },
+  {
+    "num": 655,
+    "title_en": "Chapter 655",
+    "title_cn": "第655章",
+    "file": "chapters/chapter_0655.json"
+  },
+  {
+    "num": 656,
+    "title_en": "Chapter 656",
+    "title_cn": "第656章",
+    "file": "chapters/chapter_0656.json"
+  },
+  {
+    "num": 657,
+    "title_en": "Chapter 657",
+    "title_cn": "第657章",
+    "file": "chapters/chapter_0657.json"
+  },
+  {
+    "num": 658,
+    "title_en": "Chapter 658",
+    "title_cn": "第658章",
+    "file": "chapters/chapter_0658.json"
+  },
+  {
+    "num": 659,
+    "title_en": "Chapter 659",
+    "title_cn": "第659章",
+    "file": "chapters/chapter_0659.json"
+  },
+  {
+    "num": 660,
+    "title_en": "Chapter 660",
+    "title_cn": "第660章",
+    "file": "chapters/chapter_0660.json"
+  },
+  {
+    "num": 661,
+    "title_en": "Chapter 661",
+    "title_cn": "第661章",
+    "file": "chapters/chapter_0661.json"
+  },
+  {
+    "num": 662,
+    "title_en": "Chapter 662",
+    "title_cn": "第662章",
+    "file": "chapters/chapter_0662.json"
+  },
+  {
+    "num": 663,
+    "title_en": "Chapter 663",
+    "title_cn": "第663章",
+    "file": "chapters/chapter_0663.json"
+  },
+  {
+    "num": 664,
+    "title_en": "Chapter 664",
+    "title_cn": "第664章",
+    "file": "chapters/chapter_0664.json"
+  },
+  {
+    "num": 665,
+    "title_en": "Chapter 665",
+    "title_cn": "第665章",
+    "file": "chapters/chapter_0665.json"
+  },
+  {
+    "num": 666,
+    "title_en": "Chapter 666",
+    "title_cn": "第666章",
+    "file": "chapters/chapter_0666.json"
+  },
+  {
+    "num": 667,
+    "title_en": "Chapter 667",
+    "title_cn": "第667章",
+    "file": "chapters/chapter_0667.json"
+  },
+  {
+    "num": 668,
+    "title_en": "Chapter 668",
+    "title_cn": "第668章",
+    "file": "chapters/chapter_0668.json"
+  },
+  {
+    "num": 669,
+    "title_en": "Chapter 669",
+    "title_cn": "第669章",
+    "file": "chapters/chapter_0669.json"
+  },
+  {
+    "num": 670,
+    "title_en": "Chapter 670",
+    "title_cn": "第670章",
+    "file": "chapters/chapter_0670.json"
+  },
+  {
+    "num": 671,
+    "title_en": "Chapter 671",
+    "title_cn": "第671章",
+    "file": "chapters/chapter_0671.json"
+  },
+  {
+    "num": 672,
+    "title_en": "Chapter 672",
+    "title_cn": "第672章",
+    "file": "chapters/chapter_0672.json"
+  },
+  {
+    "num": 673,
+    "title_en": "Chapter 673",
+    "title_cn": "第673章",
+    "file": "chapters/chapter_0673.json"
+  },
+  {
+    "num": 674,
+    "title_en": "Chapter 674",
+    "title_cn": "第674章",
+    "file": "chapters/chapter_0674.json"
+  },
+  {
+    "num": 675,
+    "title_en": "Chapter 675",
+    "title_cn": "第675章",
+    "file": "chapters/chapter_0675.json"
+  },
+  {
+    "num": 676,
+    "title_en": "Chapter 676",
+    "title_cn": "第676章",
+    "file": "chapters/chapter_0676.json"
+  },
+  {
+    "num": 677,
+    "title_en": "Chapter 677",
+    "title_cn": "第677章",
+    "file": "chapters/chapter_0677.json"
+  },
+  {
+    "num": 678,
+    "title_en": "Chapter 678",
+    "title_cn": "第678章",
+    "file": "chapters/chapter_0678.json"
+  },
+  {
+    "num": 679,
+    "title_en": "Chapter 679",
+    "title_cn": "第679章",
+    "file": "chapters/chapter_0679.json"
+  },
+  {
+    "num": 680,
+    "title_en": "Chapter 680",
+    "title_cn": "第680章",
+    "file": "chapters/chapter_0680.json"
+  },
+  {
+    "num": 681,
+    "title_en": "Chapter 681",
+    "title_cn": "第681章",
+    "file": "chapters/chapter_0681.json"
+  },
+  {
+    "num": 682,
+    "title_en": "Chapter 682",
+    "title_cn": "第682章",
+    "file": "chapters/chapter_0682.json"
+  },
+  {
+    "num": 683,
+    "title_en": "Chapter 683",
+    "title_cn": "第683章",
+    "file": "chapters/chapter_0683.json"
+  },
+  {
+    "num": 684,
+    "title_en": "Chapter 684",
+    "title_cn": "第684章",
+    "file": "chapters/chapter_0684.json"
+  },
+  {
+    "num": 685,
+    "title_en": "Chapter 685",
+    "title_cn": "第685章",
+    "file": "chapters/chapter_0685.json"
+  },
+  {
+    "num": 686,
+    "title_en": "Chapter 686",
+    "title_cn": "第686章",
+    "file": "chapters/chapter_0686.json"
+  },
+  {
+    "num": 687,
+    "title_en": "Chapter 687",
+    "title_cn": "第687章",
+    "file": "chapters/chapter_0687.json"
+  },
+  {
+    "num": 688,
+    "title_en": "Chapter 688",
+    "title_cn": "第688章",
+    "file": "chapters/chapter_0688.json"
+  },
+  {
+    "num": 689,
+    "title_en": "Chapter 689",
+    "title_cn": "第689章",
+    "file": "chapters/chapter_0689.json"
+  },
+  {
+    "num": 690,
+    "title_en": "Chapter 690",
+    "title_cn": "第690章",
+    "file": "chapters/chapter_0690.json"
+  },
+  {
+    "num": 691,
+    "title_en": "Chapter 691",
+    "title_cn": "第691章",
+    "file": "chapters/chapter_0691.json"
+  },
+  {
+    "num": 692,
+    "title_en": "Chapter 692",
+    "title_cn": "第692章",
+    "file": "chapters/chapter_0692.json"
+  },
+  {
+    "num": 693,
+    "title_en": "Chapter 693",
+    "title_cn": "第693章",
+    "file": "chapters/chapter_0693.json"
+  },
+  {
+    "num": 694,
+    "title_en": "Chapter 694",
+    "title_cn": "第694章",
+    "file": "chapters/chapter_0694.json"
+  },
+  {
+    "num": 695,
+    "title_en": "Chapter 695",
+    "title_cn": "第695章",
+    "file": "chapters/chapter_0695.json"
+  },
+  {
+    "num": 696,
+    "title_en": "Chapter 696",
+    "title_cn": "第696章",
+    "file": "chapters/chapter_0696.json"
+  },
+  {
+    "num": 697,
+    "title_en": "Chapter 697",
+    "title_cn": "第697章",
+    "file": "chapters/chapter_0697.json"
+  },
+  {
+    "num": 698,
+    "title_en": "Chapter 698",
+    "title_cn": "第698章",
+    "file": "chapters/chapter_0698.json"
+  },
+  {
+    "num": 699,
+    "title_en": "Chapter 699",
+    "title_cn": "第699章",
+    "file": "chapters/chapter_0699.json"
+  },
+  {
+    "num": 700,
+    "title_en": "Chapter 700",
+    "title_cn": "第700章",
+    "file": "chapters/chapter_0700.json"
+  },
+  {
+    "num": 701,
+    "title_en": "Chapter 701",
+    "title_cn": "第701章",
+    "file": "chapters/chapter_0701.json"
+  },
+  {
+    "num": 702,
+    "title_en": "Chapter 702",
+    "title_cn": "第702章",
+    "file": "chapters/chapter_0702.json"
+  },
+  {
+    "num": 703,
+    "title_en": "Chapter 703",
+    "title_cn": "第703章",
+    "file": "chapters/chapter_0703.json"
+  },
+  {
+    "num": 704,
+    "title_en": "Chapter 704",
+    "title_cn": "第704章",
+    "file": "chapters/chapter_0704.json"
+  },
+  {
+    "num": 705,
+    "title_en": "Chapter 705",
+    "title_cn": "第705章",
+    "file": "chapters/chapter_0705.json"
+  },
+  {
+    "num": 706,
+    "title_en": "Chapter 706",
+    "title_cn": "第706章",
+    "file": "chapters/chapter_0706.json"
+  },
+  {
+    "num": 707,
+    "title_en": "Chapter 707",
+    "title_cn": "第707章",
+    "file": "chapters/chapter_0707.json"
+  },
+  {
+    "num": 708,
+    "title_en": "Chapter 708",
+    "title_cn": "第708章",
+    "file": "chapters/chapter_0708.json"
+  },
+  {
+    "num": 709,
+    "title_en": "Chapter 709",
+    "title_cn": "第709章",
+    "file": "chapters/chapter_0709.json"
+  },
+  {
+    "num": 710,
+    "title_en": "Chapter 710",
+    "title_cn": "第710章",
+    "file": "chapters/chapter_0710.json"
+  }
+]

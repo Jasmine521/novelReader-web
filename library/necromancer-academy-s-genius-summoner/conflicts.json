@@ -1,0 +1,4594 @@
+[
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 40,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 44,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 44,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Spider",
+    "existing": "尸蜘蛛",
+    "incoming": "尸蛛",
+    "chapter": 47,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Spider",
+    "existing": "尸蜘蛛",
+    "incoming": "尸蛛",
+    "chapter": 53,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 58,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 59,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 70,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 73,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ellen Zile",
+    "existing": "艾伦·齐勒",
+    "incoming": "艾伦·齐尔",
+    "chapter": 85,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 87,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 88,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 92,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 93,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 93,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 94,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 107,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 111,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 111,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 116,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 121,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 122,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Tongue Pad",
+    "existing": "通板",
+    "incoming": "舌垫",
+    "chapter": 122,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 126,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 127,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 128,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 129,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 133,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 135,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 139,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Absolute Order",
+    "existing": "绝对命令",
+    "incoming": "绝对秩序",
+    "chapter": 140,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 152,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "西拉吉",
+    "chapter": 153,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 153,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 158,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 159,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 160,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ellen Zile",
+    "existing": "艾伦·齐勒",
+    "incoming": "艾伦·齐尔",
+    "chapter": 173,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 173,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Haste",
+    "existing": "加速",
+    "incoming": "急速",
+    "chapter": 177,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 179,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Venue",
+    "existing": "降临",
+    "incoming": "拉维纽",
+    "chapter": 180,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leight",
+    "existing": "莱特",
+    "incoming": "雷特",
+    "chapter": 183,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 190,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 191,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 191,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Mountain",
+    "existing": "罗克山",
+    "incoming": "柔克山",
+    "chapter": 191,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 192,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Wichasha",
+    "existing": "维查莎",
+    "incoming": "威查莎",
+    "chapter": 202,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Overlord",
+    "existing": "霸主",
+    "incoming": "霸王",
+    "chapter": 202,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Wichasha",
+    "existing": "维查莎",
+    "incoming": "威查莎",
+    "chapter": 203,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Explosion",
+    "existing": "尸体爆炸",
+    "incoming": "尸爆",
+    "chapter": 203,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Wichasha",
+    "existing": "维查莎",
+    "incoming": "威查莎",
+    "chapter": 204,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Island",
+    "existing": "柔克岛",
+    "incoming": "罗克岛",
+    "chapter": 205,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cindy Vivace",
+    "existing": "辛迪·维瓦斯",
+    "incoming": "辛迪·维瓦切",
+    "chapter": 206,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 208,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos",
+    "existing": "埃万杰洛斯",
+    "incoming": "伊万杰洛斯",
+    "chapter": 209,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos",
+    "existing": "埃万杰洛斯",
+    "incoming": "伊万杰洛斯",
+    "chapter": 210,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "莎特尔·梅尔",
+    "chapter": 211,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 212,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya Tun Sokum Marlat",
+    "existing": "贝利亚·敦·索库姆·马拉特",
+    "incoming": "贝利亚·屯·索库姆·马拉特",
+    "chapter": 214,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 216,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 217,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 222,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤纳",
+    "chapter": 223,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Walter Han",
+    "existing": "沃尔特·哈恩",
+    "incoming": "沃尔特·汉",
+    "chapter": 223,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 226,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 227,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 228,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 229,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 234,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 234,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 234,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Royal Guard",
+    "existing": "皇家卫队",
+    "incoming": "皇家守卫",
+    "chapter": 236,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 238,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 239,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 239,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 240,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 240,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 241,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 243,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Encipher",
+    "existing": "加密",
+    "incoming": "恩西弗",
+    "chapter": 246,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Royal Guard",
+    "existing": "皇家卫队",
+    "incoming": "皇家守卫",
+    "chapter": 246,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Torpedo",
+    "existing": "暗鱼雷",
+    "incoming": "黑暗鱼雷",
+    "chapter": 250,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 251,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 251,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Snowfield Castle",
+    "existing": "雪原堡",
+    "incoming": "雪原城",
+    "chapter": 252,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 252,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 253,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Darkness Arrow",
+    "existing": "黑暗箭",
+    "incoming": "暗影箭",
+    "chapter": 253,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Torpedo",
+    "existing": "暗鱼雷",
+    "incoming": "暗影鱼雷",
+    "chapter": 253,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 254,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya",
+    "existing": "贝利亚",
+    "incoming": "别利亚",
+    "chapter": 255,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 255,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·香草",
+    "chapter": 258,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya",
+    "existing": "贝利亚",
+    "incoming": "别利亚",
+    "chapter": 263,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 263,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya",
+    "existing": "贝利亚",
+    "incoming": "别利亚",
+    "chapter": 264,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 264,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Torpedo",
+    "existing": "暗鱼雷",
+    "incoming": "黑暗鱼雷",
+    "chapter": 264,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Conrad Hayabon",
+    "existing": "康拉德·哈亚邦",
+    "incoming": "康拉德·海亚邦",
+    "chapter": 265,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 265,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Tongue Pad",
+    "existing": "通板",
+    "incoming": "舌垫",
+    "chapter": 266,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Deimos",
+    "existing": "火卫二",
+    "incoming": "德摩斯",
+    "chapter": 266,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Simon Follentia",
+    "existing": "西蒙·福伦蒂亚",
+    "incoming": "西蒙·弗伦蒂亚",
+    "chapter": 267,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 268,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Alaze",
+    "existing": "阿拉泽",
+    "incoming": "阿拉兹",
+    "chapter": 269,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Deimos",
+    "existing": "火卫二",
+    "incoming": "迪莫斯",
+    "chapter": 269,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Marco",
+    "existing": "马可",
+    "incoming": "马尔科",
+    "chapter": 273,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 273,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Defense Against Holiness",
+    "existing": "神圣防御",
+    "incoming": "神圣防御学",
+    "chapter": 274,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 274,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 274,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Harddile",
+    "existing": "硬皮鳄",
+    "incoming": "哈代尔",
+    "chapter": 274,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 275,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cindy Vivace",
+    "existing": "辛迪·维瓦斯",
+    "incoming": "辛迪·维瓦切",
+    "chapter": 277,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Erzebet",
+    "existing": "埃尔泽贝特",
+    "incoming": "艾尔泽贝特",
+    "chapter": 279,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 280,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vengeance",
+    "existing": "复仇",
+    "incoming": "复仇者",
+    "chapter": 286,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Haldun Mountains",
+    "existing": "哈尔敦山脉",
+    "incoming": "哈尔顿山脉",
+    "chapter": 286,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 288,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vengeance",
+    "existing": "复仇",
+    "incoming": "复仇组织",
+    "chapter": 291,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 292,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blood Golem",
+    "existing": "血傀儡",
+    "incoming": "血魔像",
+    "chapter": 293,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 293,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Essence of Purification",
+    "existing": "净化精华",
+    "incoming": "净化本源",
+    "chapter": 294,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 294,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Essence of Purification",
+    "existing": "净化精华",
+    "incoming": "净化本源",
+    "chapter": 295,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lete",
+    "existing": "莱特",
+    "incoming": "蕾特",
+    "chapter": 296,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Efnelle",
+    "existing": "埃夫内尔",
+    "incoming": "艾芙妮尔",
+    "chapter": 296,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vengeance",
+    "existing": "复仇",
+    "incoming": "复仇组织",
+    "chapter": 296,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Essence of Purification",
+    "existing": "净化精华",
+    "incoming": "净化本源",
+    "chapter": 297,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 298,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vengeance",
+    "existing": "复仇",
+    "incoming": "复仇组织",
+    "chapter": 299,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Washburn Mountain Summit",
+    "existing": "沃什伯恩山顶",
+    "incoming": "沃什伯恩山山顶",
+    "chapter": 300,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 302,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 304,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 304,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 305,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 306,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Raheim Northfold",
+    "existing": "雷海姆·诺斯福德",
+    "incoming": "雷海姆·诺斯福尔德",
+    "chapter": 306,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Selene",
+    "existing": "艾莉莎·塞琳娜",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 306,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 307,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 308,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 310,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 310,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abyssal Horror",
+    "existing": "深渊恐兽",
+    "incoming": "深渊恐怖者",
+    "chapter": 310,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 311,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 312,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 312,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya Tun Sokum Marlat",
+    "existing": "贝利亚·敦·索库姆·马拉特",
+    "incoming": "贝利亚·屯·索库姆·马拉特",
+    "chapter": 312,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya",
+    "existing": "贝利亚",
+    "incoming": "别利亚",
+    "chapter": 313,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blood Golem",
+    "existing": "血傀儡",
+    "incoming": "血魔像",
+    "chapter": 315,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 317,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Count Caron",
+    "existing": "卡伦伯爵",
+    "incoming": "卡隆伯爵",
+    "chapter": 318,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 318,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 320,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "塞尤尔",
+    "chapter": 324,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng's Original – Impalement",
+    "existing": "鸿鹏原创·穿刺",
+    "incoming": "鸿鹏原创 – 穿刺",
+    "chapter": 325,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sheep",
+    "existing": "绵羊",
+    "incoming": "羊",
+    "chapter": 326,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 326,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Crimson Bear",
+    "existing": "赤熊",
+    "incoming": "赤红熊",
+    "chapter": 327,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vanilla",
+    "existing": "香草",
+    "incoming": "瓦尼拉",
+    "chapter": 328,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Room 409",
+    "existing": "409室",
+    "incoming": "409房间",
+    "chapter": 328,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 328,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Flare",
+    "existing": "黑暗耀斑",
+    "incoming": "暗焰",
+    "chapter": 329,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abyssal Horror",
+    "existing": "深渊恐兽",
+    "incoming": "深渊恐怖者",
+    "chapter": 330,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Haematopoiesis Injection",
+    "existing": "造血注射液",
+    "incoming": "造血注射剂",
+    "chapter": 330,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 331,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 332,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 332,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ring of Blood",
+    "existing": "血环",
+    "incoming": "血之戒",
+    "chapter": 332,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 333,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 334,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Subspace",
+    "existing": "空间袋",
+    "incoming": "子空间",
+    "chapter": 334,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 339,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Blaze",
+    "existing": "暗焰",
+    "incoming": "暗黑烈焰",
+    "chapter": 340,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 341,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文切雷",
+    "chapter": 341,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "埃莉莎",
+    "chapter": 342,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 342,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 344,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 344,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "埃莉莎·赛琳妮",
+    "chapter": 346,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chwita",
+    "existing": "楚维塔",
+    "incoming": "吹打",
+    "chapter": 346,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "埃莉莎",
+    "chapter": 347,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abyssal Horror",
+    "existing": "深渊恐兽",
+    "incoming": "深渊恐怖者",
+    "chapter": 347,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 348,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abyssal Horror",
+    "existing": "深渊恐兽",
+    "incoming": "深渊恐怖者",
+    "chapter": 348,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 348,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 349,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·香草",
+    "chapter": 350,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 350,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Areldellu",
+    "existing": "阿雷尔德鲁",
+    "incoming": "阿雷德尔鲁",
+    "chapter": 350,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne",
+    "existing": "瑟恩",
+    "incoming": "塞尔恩",
+    "chapter": 351,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 352,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 352,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 352,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 353,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kajan Edvalt",
+    "existing": "卡扬·埃德瓦尔特",
+    "incoming": "卡扬·艾德瓦尔特",
+    "chapter": 353,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos Alphonia",
+    "existing": "伊万杰洛斯·阿尔福尼亚",
+    "incoming": "埃万杰洛斯·阿尔菲尼亚",
+    "chapter": 353,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "五溴铵",
+    "chapter": 353,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 354,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔摩尼姆",
+    "chapter": 354,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔塔摩尼姆",
+    "chapter": 355,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 355,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 355,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 356,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔塔莫尼姆",
+    "chapter": 356,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Explosion",
+    "existing": "尸体爆炸",
+    "incoming": "尸爆",
+    "chapter": 356,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔蒙尼姆",
+    "chapter": 357,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 357,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Muspel",
+    "existing": "穆斯佩尔",
+    "incoming": "穆斯贝尔",
+    "chapter": 357,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔摩尼姆",
+    "chapter": 358,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 359,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos Alphonia",
+    "existing": "伊万杰洛斯·阿尔福尼亚",
+    "incoming": "伊万杰洛斯·阿尔菲尼亚",
+    "chapter": 359,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔摩尼姆",
+    "chapter": 359,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 359,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos",
+    "existing": "埃万杰洛斯",
+    "incoming": "伊万杰洛斯",
+    "chapter": 360,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 360,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos",
+    "existing": "埃万杰洛斯",
+    "incoming": "伊万杰洛斯",
+    "chapter": 361,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔摩尼姆",
+    "chapter": 361,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Crows",
+    "existing": "乌鸦",
+    "incoming": "克劳",
+    "chapter": 361,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "法塔苏斯",
+    "chapter": 362,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 362,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Desert Scorpion",
+    "existing": "沙漠蝎",
+    "incoming": "沙漠蝎子",
+    "chapter": 364,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gellen Eclipse",
+    "existing": "盖伦·伊克利普斯",
+    "incoming": "盖伦·伊克利瑟斯",
+    "chapter": 365,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Areldellu",
+    "existing": "阿雷尔德鲁",
+    "incoming": "阿雷尔德尔鲁",
+    "chapter": 366,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟芭",
+    "chapter": 367,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gellen Eclipse",
+    "existing": "盖伦·伊克利普斯",
+    "incoming": "盖伦·艾克利普斯",
+    "chapter": 367,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟巴",
+    "chapter": 369,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 369,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔塔莫尼姆",
+    "chapter": 369,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Count Caron",
+    "existing": "卡伦伯爵",
+    "incoming": "卡隆伯爵",
+    "chapter": 369,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 370,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 370,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shamime Festival",
+    "existing": "沙米姆节",
+    "incoming": "沙米米节",
+    "chapter": 370,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 370,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 371,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Darell",
+    "existing": "达雷尔",
+    "incoming": "戴雷尔",
+    "chapter": 371,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 371,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 371,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Simon Follentia",
+    "existing": "西蒙·福伦蒂亚",
+    "incoming": "西蒙·弗伦蒂亚",
+    "chapter": 372,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙提尔·玛尔",
+    "chapter": 372,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "埃莉莎·赛琳",
+    "chapter": 372,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Golden Transmutation",
+    "existing": "黄金转化",
+    "incoming": "黄金嬗变",
+    "chapter": 372,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Blaze",
+    "existing": "暗焰",
+    "incoming": "暗黑烈焰",
+    "chapter": 372,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·玛尔",
+    "chapter": 373,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "埃莉莎",
+    "chapter": 373,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya",
+    "existing": "本雅",
+    "incoming": "班雅",
+    "chapter": 373,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "法塔苏斯",
+    "chapter": 373,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟巴",
+    "chapter": 373,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 374,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫尔塞巴",
+    "chapter": 374,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "艾丽莎",
+    "chapter": 374,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Domain Domination",
+    "existing": "领域统治",
+    "incoming": "领域支配",
+    "chapter": 374,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 375,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 375,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 375,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Flare",
+    "existing": "黑暗耀斑",
+    "incoming": "暗焰",
+    "chapter": 375,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cloud",
+    "existing": "云",
+    "incoming": "云咒",
+    "chapter": 375,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 376,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 378,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 379,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Areldellu",
+    "existing": "阿雷尔德鲁",
+    "incoming": "阿雷尔德卢",
+    "chapter": 379,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 379,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Claudia Menzies",
+    "existing": "克劳迪娅·孟席斯",
+    "incoming": "克劳迪娅·门齐斯",
+    "chapter": 379,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "五芒星",
+    "chapter": 379,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔莫尼亚",
+    "chapter": 380,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Haematopoiesis Injection",
+    "existing": "造血注射液",
+    "incoming": "造血注射",
+    "chapter": 380,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 381,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 381,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 381,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 381,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa",
+    "existing": "艾莉莎",
+    "incoming": "埃莉莎",
+    "chapter": 383,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng Tun Sokum Marlat",
+    "existing": "鸿鹏·屯·索库姆·马拉特",
+    "incoming": "鸿鹏·敦索库姆·马拉特",
+    "chapter": 384,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 386,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 387,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 387,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 387,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 389,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "埃尔泽贝特",
+    "chapter": 389,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage Visabar",
+    "existing": "西拉奇·维萨巴尔",
+    "incoming": "西拉奇·维萨巴",
+    "chapter": 390,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "埃尔泽贝特",
+    "chapter": 390,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 390,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage Visabar",
+    "existing": "西拉奇·维萨巴尔",
+    "incoming": "西拉奇·维萨巴",
+    "chapter": 391,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ring of Blood",
+    "existing": "血环",
+    "incoming": "血之环",
+    "chapter": 391,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "西拉吉",
+    "chapter": 392,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "World of Sand",
+    "existing": "沙之世界",
+    "incoming": "沙世界",
+    "chapter": 392,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ring of Blood",
+    "existing": "血环",
+    "incoming": "血之戒",
+    "chapter": 392,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "斯莱吉",
+    "chapter": 393,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 393,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟巴",
+    "chapter": 393,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Spiders",
+    "existing": "尸蛛",
+    "incoming": "尸蜘蛛",
+    "chapter": 393,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 393,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "斯拉吉",
+    "chapter": 394,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "埃尔泽贝特",
+    "chapter": 394,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 394,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Escrime",
+    "existing": "拉埃斯克里姆",
+    "incoming": "拉·埃斯克里姆",
+    "chapter": 394,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "西拉吉",
+    "chapter": 395,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 395,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 396,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "希尔吉",
+    "chapter": 396,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Crows",
+    "existing": "乌鸦",
+    "incoming": "克劳斯",
+    "chapter": 396,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "埃尔泽贝特",
+    "chapter": 397,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ring of Blood",
+    "existing": "血环",
+    "incoming": "血戒",
+    "chapter": 397,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 398,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 398,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Compellonia",
+    "existing": "强制通灵",
+    "incoming": "康佩洛尼亚",
+    "chapter": 398,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 399,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 399,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 400,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟巴",
+    "chapter": 400,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 401,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 401,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 401,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "斯拉吉",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus Hugh Ikel",
+    "existing": "范塔苏斯·休·伊克尔",
+    "incoming": "幻象·休·伊克尔",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "BMAT",
+    "existing": "黑魔法能力测试",
+    "incoming": "BMAT",
+    "chapter": 402,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Umbra",
+    "existing": "安布拉",
+    "incoming": "暗影",
+    "chapter": 403,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 403,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 403,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella Villene",
+    "existing": "达妮埃拉·维伦",
+    "incoming": "丹妮拉·维伦",
+    "chapter": 404,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Al Hayword",
+    "existing": "阿尔·海沃德",
+    "incoming": "艾尔·海沃德",
+    "chapter": 405,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella",
+    "existing": "丹妮拉",
+    "incoming": "达妮埃拉",
+    "chapter": 406,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Al Hayword",
+    "existing": "阿尔·海沃德",
+    "incoming": "艾尔·海沃德",
+    "chapter": 406,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 406,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Restoration",
+    "existing": "恢复力",
+    "incoming": "恢复",
+    "chapter": 407,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "White Tomb Dungeon",
+    "existing": "白墓地牢",
+    "incoming": "白墓地下城",
+    "chapter": 409,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 409,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Whitey",
+    "existing": "小白",
+    "incoming": "白子",
+    "chapter": 410,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blackey",
+    "existing": "小黑",
+    "incoming": "黑子",
+    "chapter": 410,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kinber",
+    "existing": "金伯尔",
+    "incoming": "金伯",
+    "chapter": 412,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Escrime",
+    "existing": "拉埃斯克里姆",
+    "incoming": "拉·埃斯克里姆",
+    "chapter": 417,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Escrime",
+    "existing": "拉埃斯克里姆",
+    "incoming": "拉·埃斯克里姆",
+    "chapter": 420,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Nenia Mizenashi",
+    "existing": "水无宁尼亚",
+    "incoming": "妮妮亚·水无",
+    "chapter": 423,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "dungeon master",
+    "existing": "地下城主",
+    "incoming": "地牢城主",
+    "chapter": 424,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 427,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 428,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 431,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔腾学术会议",
+    "chapter": 432,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 433,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 433,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Spear",
+    "existing": "混沌之矛",
+    "incoming": "混沌之枪",
+    "chapter": 434,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 434,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cancellation",
+    "existing": "取消",
+    "incoming": "解除",
+    "chapter": 434,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔索斯",
+    "chapter": 435,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Seiyur Griezmann",
+    "existing": "塞尤尔·格列兹曼",
+    "incoming": "塞尤尔·格里兹曼",
+    "chapter": 435,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Compello",
+    "existing": "康佩洛",
+    "incoming": "强制通灵",
+    "chapter": 435,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sleep Curse",
+    "existing": "沉睡咒",
+    "incoming": "睡眠诅咒",
+    "chapter": 435,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 436,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 437,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 437,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 438,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Simon Follentia",
+    "existing": "西蒙·福伦蒂亚",
+    "incoming": "西蒙·弗伦蒂亚",
+    "chapter": 438,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Keyzen",
+    "existing": "凯森",
+    "incoming": "凯森学院",
+    "chapter": 438,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 440,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 441,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 442,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng's Original - Sky Calamity",
+    "existing": "鸿鹏原创——天灾",
+    "incoming": "鸿鹏原创·天灾",
+    "chapter": 442,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kabara's poison",
+    "existing": "卡巴拉的毒药",
+    "incoming": "卡巴拉的毒",
+    "chapter": 442,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 443,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sleep",
+    "existing": "睡眠",
+    "incoming": "睡眠诅咒",
+    "chapter": 443,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cancellation",
+    "existing": "取消",
+    "incoming": "取消咒语",
+    "chapter": 443,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 444,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Deimos Museum",
+    "existing": "火卫二博物馆",
+    "incoming": "德伊莫斯博物馆",
+    "chapter": 444,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pharonna Peninsula",
+    "existing": "法罗纳半岛",
+    "incoming": "法罗娜半岛",
+    "chapter": 444,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Spear",
+    "existing": "混沌之矛",
+    "incoming": "混沌之枪",
+    "chapter": 444,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 444,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 446,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Compello",
+    "existing": "康佩洛",
+    "incoming": "康佩罗",
+    "chapter": 446,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 448,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Deimos",
+    "existing": "火卫二",
+    "incoming": "德摩斯",
+    "chapter": 448,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Professor Belya",
+    "existing": "别利亚教授",
+    "incoming": "贝利亚教授",
+    "chapter": 450,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 450,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Wild Fang",
+    "existing": "狂牙",
+    "incoming": "野牙",
+    "chapter": 450,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya",
+    "existing": "贝利亚",
+    "incoming": "别利亚",
+    "chapter": 451,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng Tun Sokum Marlat",
+    "existing": "鸿鹏·屯·索库姆·马拉特",
+    "incoming": "鸿鹏·吞·索库姆·马拉特",
+    "chapter": 451,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 451,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "埃莉莎·赛琳",
+    "chapter": 451,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jane Olivia",
+    "existing": "简·奥利维亚",
+    "incoming": "简·奥莉薇娅",
+    "chapter": 452,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔腾学院",
+    "chapter": 452,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leonard Feiron",
+    "existing": "伦纳德·费龙",
+    "incoming": "伦纳德·费隆",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾莉莎·塞琳",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔索斯",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chehekle",
+    "existing": "切赫克尔",
+    "incoming": "切赫克莱",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 453,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维尔恩",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "埃莉莎·塞琳",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Meridiana Anne Sudden Death",
+    "existing": "梅里迪安娜·安妮·萨登德思",
+    "incoming": "梅里迪安娜·安妮·猝死",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elishia Rosenfeld",
+    "existing": "伊丽莎·罗森菲尔德",
+    "incoming": "埃莉西亚·罗森菲尔德",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 454,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 455,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 455,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 455,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 455,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 456,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 458,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 458,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Summoning Department",
+    "existing": "召唤系",
+    "incoming": "召唤部",
+    "chapter": 459,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 461,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Darkness Dynamics",
+    "existing": "黑暗动力学",
+    "incoming": "黑暗动力学系",
+    "chapter": 461,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学系",
+    "chapter": 461,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫瑟芭",
+    "chapter": 462,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sillage",
+    "existing": "西拉奇",
+    "incoming": "西尔吉",
+    "chapter": 462,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 463,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 463,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime",
+    "existing": "海梅",
+    "incoming": "杰米",
+    "chapter": 464,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Talaria",
+    "existing": "塔拉里亚",
+    "incoming": "塔拉利亚",
+    "chapter": 464,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 465,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 466,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 468,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Blaze",
+    "existing": "暗焰",
+    "incoming": "黑暗烈焰",
+    "chapter": 468,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 470,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sleep",
+    "existing": "睡眠",
+    "incoming": "睡眠咒",
+    "chapter": 470,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 472,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 474,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 474,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 475,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 475,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "Pentamium",
+    "chapter": 477,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Summon Materials Science",
+    "existing": "召唤材料学",
+    "incoming": "召唤材料科学",
+    "chapter": 478,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chimera",
+    "existing": "嵌合体",
+    "incoming": "奇美拉",
+    "chapter": 478,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 480,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 480,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bash",
+    "existing": "猛击",
+    "incoming": "重击",
+    "chapter": 480,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Defense Against Holiness",
+    "existing": "神圣防御",
+    "incoming": "防御神圣学",
+    "chapter": 481,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 482,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Compellonia",
+    "existing": "强制通灵",
+    "incoming": "康佩罗尼亚",
+    "chapter": 482,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leg Down",
+    "existing": "腿软咒",
+    "incoming": "腿软",
+    "chapter": 483,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sickness",
+    "existing": "疾病",
+    "incoming": "晕眩",
+    "chapter": 483,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Indolence",
+    "existing": "懒惰",
+    "incoming": "怠惰",
+    "chapter": 483,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahil Amagar",
+    "existing": "巴希尔·阿马加尔",
+    "incoming": "巴希尔·阿玛加尔",
+    "chapter": 484,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology Building",
+    "existing": "卡塔罗学楼",
+    "incoming": "卡塔罗学大楼",
+    "chapter": 484,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 485,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Muspel",
+    "existing": "穆斯佩尔",
+    "incoming": "穆斯贝尔",
+    "chapter": 485,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sky Calamity",
+    "existing": "天劫",
+    "incoming": "天灾",
+    "chapter": 486,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·赛琳",
+    "chapter": 487,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 487,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 487,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sky Calamity",
+    "existing": "天劫",
+    "incoming": "天灾",
+    "chapter": 487,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Evangelos",
+    "existing": "埃万杰洛斯",
+    "incoming": "伊万杰洛斯",
+    "chapter": 488,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔蒙尼姆",
+    "chapter": 488,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng",
+    "existing": "鸿鹏",
+    "incoming": "洪鹏",
+    "chapter": 489,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 489,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 489,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 490,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lin",
+    "existing": "林",
+    "incoming": "琳",
+    "chapter": 491,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 491,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kajan Edvalt",
+    "existing": "卡扬·埃德瓦尔特",
+    "incoming": "卡扬·艾德瓦尔特",
+    "chapter": 493,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 493,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fitzgerald Ingels",
+    "existing": "菲茨杰拉德·英格斯",
+    "incoming": "菲茨杰拉德·英格尔斯",
+    "chapter": 494,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 495,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 495,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "加内斯公会",
+    "chapter": 497,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 497,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "加内斯公会",
+    "chapter": 498,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "加内斯公会",
+    "chapter": 499,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lisa",
+    "existing": "丽莎",
+    "incoming": "莉莎",
+    "chapter": 500,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 500,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "甘尼斯公会",
+    "chapter": 500,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "兰杰斯廷",
+    "chapter": 501,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 502,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 502,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "甘尼斯公会",
+    "chapter": 502,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 502,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 504,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gold Mine Dungeon",
+    "existing": "金矿地牢",
+    "incoming": "金矿副本",
+    "chapter": 505,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 505,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 506,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 506,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gold Mine Dungeon",
+    "existing": "金矿地牢",
+    "incoming": "金矿地下城",
+    "chapter": 506,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Golden Transmutation",
+    "existing": "黄金转化",
+    "incoming": "黄金嬗变",
+    "chapter": 506,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 507,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 508,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 509,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 509,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 509,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 510,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 510,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ganes Guild",
+    "existing": "加尼斯公会",
+    "incoming": "甘尼斯公会",
+    "chapter": 510,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 512,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 512,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰德",
+    "chapter": 513,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 513,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benz",
+    "existing": "本茨",
+    "incoming": "奔驰",
+    "chapter": 514,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 514,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 514,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 515,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 515,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 516,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 516,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 517,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Maelyn Villene",
+    "existing": "梅琳·维伦",
+    "incoming": "梅琳·维琳",
+    "chapter": 517,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 517,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blood Storm",
+    "existing": "血风暴",
+    "incoming": "血色风暴",
+    "chapter": 519,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blood Chaser",
+    "existing": "追血者",
+    "incoming": "追血弹",
+    "chapter": 519,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blood Wave",
+    "existing": "血浪",
+    "incoming": "血波",
+    "chapter": 519,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chwita",
+    "existing": "楚维塔",
+    "incoming": "吹打",
+    "chapter": 520,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Soul Spear",
+    "existing": "灵魂之矛",
+    "incoming": "魂枪",
+    "chapter": 521,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Spear",
+    "existing": "混沌之矛",
+    "incoming": "混沌长矛",
+    "chapter": 521,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 521,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Alizarin",
+    "existing": "茜素",
+    "incoming": "阿利萨林",
+    "chapter": 522,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Keyzen Necromancer Academy",
+    "existing": "凯森死灵法师学院",
+    "incoming": "凯曾死灵法师学院",
+    "chapter": 522,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "White",
+    "existing": "怀特",
+    "incoming": "白",
+    "chapter": 523,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "White",
+    "existing": "怀特",
+    "incoming": "白",
+    "chapter": 524,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benz",
+    "existing": "本茨",
+    "incoming": "本兹",
+    "chapter": 524,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 525,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 525,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 525,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 525,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 525,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Alizarin",
+    "existing": "茜素",
+    "incoming": "阿利扎林",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Recon",
+    "existing": "雷肯",
+    "incoming": "雷康",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Meridiana Anne Sudden Death",
+    "existing": "梅里迪安娜·安妮·萨登德思",
+    "incoming": "梅里迪安娜·安妮·猝死",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·席琳",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙特尔·马尔",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elishia Rosenfeld",
+    "existing": "伊丽莎·罗森菲尔德",
+    "incoming": "艾莉西亚·罗森菲尔德",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文塞雷",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Keyzen",
+    "existing": "凯森",
+    "incoming": "凯森学院",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sierra",
+    "existing": "西拉",
+    "incoming": "塞拉",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "幻象",
+    "chapter": 526,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Summonology Department",
+    "existing": "召唤学系",
+    "incoming": "召唤系",
+    "chapter": 527,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aland",
+    "existing": "阿兰德",
+    "incoming": "奥兰",
+    "chapter": 528,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 529,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology building",
+    "existing": "卡塔罗学楼",
+    "incoming": "卡塔罗学大楼",
+    "chapter": 529,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "ghoul",
+    "existing": "食尸鬼",
+    "incoming": "尸鬼",
+    "chapter": 529,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine",
+    "existing": "洛琳",
+    "incoming": "洛兰",
+    "chapter": 530,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 531,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 531,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ratchets",
+    "existing": "棘齿族",
+    "incoming": "棘齿兽",
+    "chapter": 531,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 531,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Belya Tun Sokum Marlat",
+    "existing": "贝利亚·敦·索库姆·马拉特",
+    "incoming": "贝利亚·图恩·索库姆·马拉特",
+    "chapter": 534,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·瓦妮拉",
+    "chapter": 534,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 534,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benz McBeef",
+    "existing": "本茨·麦克比夫",
+    "incoming": "本兹·麦克比夫",
+    "chapter": 535,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eldarin Luo",
+    "existing": "埃尔达林·洛",
+    "incoming": "埃尔达林·罗",
+    "chapter": 535,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 536,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 536,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃修",
+    "chapter": 538,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 10",
+    "existing": "第10队",
+    "incoming": "第十队",
+    "chapter": 538,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 4",
+    "existing": "第4队",
+    "incoming": "第四队",
+    "chapter": 539,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 10",
+    "existing": "第10队",
+    "incoming": "第十队",
+    "chapter": 539,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 1",
+    "existing": "第1队",
+    "incoming": "第一队",
+    "chapter": 539,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 13",
+    "existing": "第13队",
+    "incoming": "第十三队",
+    "chapter": 539,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Professor Belya",
+    "existing": "别利亚教授",
+    "incoming": "贝利亚教授",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 10",
+    "existing": "第10队",
+    "incoming": "十队",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 1",
+    "existing": "第1队",
+    "incoming": "一队",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 4",
+    "existing": "第4队",
+    "incoming": "四队",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 13",
+    "existing": "第13队",
+    "incoming": "十三队",
+    "chapter": 540,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·瓦妮拉",
+    "chapter": 541,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Funeral Chant",
+    "existing": "葬礼圣歌",
+    "incoming": "丧歌",
+    "chapter": 541,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "team 8",
+    "existing": "八队",
+    "incoming": "第八队",
+    "chapter": 541,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "team 10",
+    "existing": "第10队",
+    "incoming": "第十队",
+    "chapter": 541,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Rochest Startup Support Club",
+    "existing": "罗切斯特创业支持社团",
+    "incoming": "罗切斯特初创公司支持俱乐部",
+    "chapter": 542,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "法塔苏斯",
+    "chapter": 543,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dungeon Research Club",
+    "existing": "地下城研究社团",
+    "incoming": "地下城研究俱乐部",
+    "chapter": 543,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Physical Club",
+    "existing": "体能社团",
+    "incoming": "体育俱乐部",
+    "chapter": 543,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Transformation Club",
+    "existing": "变形社团",
+    "incoming": "变形俱乐部",
+    "chapter": 543,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 545,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 545,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Noble Club",
+    "existing": "贵族社团",
+    "incoming": "贵族俱乐部",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Physical Club",
+    "existing": "体能社团",
+    "incoming": "体能俱乐部",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Darkness Kendo Club",
+    "existing": "黑暗剑道社团",
+    "incoming": "黑暗剑道俱乐部",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Transformation Club",
+    "existing": "变形社团",
+    "incoming": "变形俱乐部",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Seiren",
+    "existing": "塞壬",
+    "incoming": "海妖",
+    "chapter": 546,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sasha Endrasil",
+    "existing": "萨莎·恩德拉希尔",
+    "incoming": "萨莎·恩德拉西尔",
+    "chapter": 547,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Toto Amoriya",
+    "existing": "托托·阿莫里亚",
+    "incoming": "托托·阿莫瑞亚",
+    "chapter": 547,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gourmet Club",
+    "existing": "美食俱乐部",
+    "incoming": "美食社",
+    "chapter": 547,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 547,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 548,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人社团",
+    "chapter": 548,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sasha Endrasil",
+    "existing": "萨莎·恩德拉希尔",
+    "incoming": "萨莎·恩德拉西尔",
+    "chapter": 549,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 549,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·香草",
+    "chapter": 550,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sasha Endrasil",
+    "existing": "萨莎·恩德拉希尔",
+    "incoming": "萨莎·恩德拉西尔",
+    "chapter": 550,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arthur Bleman",
+    "existing": "阿瑟·布莱曼",
+    "incoming": "亚瑟·布莱曼",
+    "chapter": 550,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 550,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vinepus",
+    "existing": "藤蔓怪",
+    "incoming": "维尼普斯",
+    "chapter": 551,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 551,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Island",
+    "existing": "柔克岛",
+    "incoming": "罗克岛",
+    "chapter": 552,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "艾修",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Raheim Northfold",
+    "existing": "雷海姆·诺斯福德",
+    "incoming": "拉海姆·诺斯福德",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elisa Celine",
+    "existing": "艾莉莎·赛琳",
+    "incoming": "艾丽莎·塞琳",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus Hugh Ikel",
+    "existing": "范塔苏斯·休·伊克尔",
+    "incoming": "凡塔苏斯·休·伊克尔",
+    "chapter": 553,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Festival of Time",
+    "existing": "时间祭典",
+    "incoming": "时间之节",
+    "chapter": 554,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "法塔苏斯",
+    "chapter": 554,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 555,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Festival of Time",
+    "existing": "时间祭典",
+    "incoming": "时之祭典",
+    "chapter": 555,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 556,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella Villene",
+    "existing": "达妮埃拉·维伦",
+    "incoming": "丹妮拉·维伦",
+    "chapter": 556,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella Villene",
+    "existing": "达妮埃拉·维伦",
+    "incoming": "丹妮埃拉·维伦",
+    "chapter": 557,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 557,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时之幽灵",
+    "chapter": 563,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 564,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Snowfield Castle",
+    "existing": "雪原堡",
+    "incoming": "雪原城堡",
+    "chapter": 565,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Simon Follentia",
+    "existing": "西蒙·福伦蒂亚",
+    "incoming": "西蒙·弗伦蒂亚",
+    "chapter": 565,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 565,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时之幽灵",
+    "chapter": 565,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时间之魂",
+    "chapter": 566,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Girdon",
+    "existing": "格登",
+    "incoming": "吉尔登",
+    "chapter": 566,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 566,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时之幽灵",
+    "chapter": 567,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 567,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时间之灵",
+    "chapter": 568,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 568,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时间之鬼",
+    "chapter": 569,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 569,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Girdon",
+    "existing": "格登",
+    "incoming": "吉尔登",
+    "chapter": 570,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时之幽灵",
+    "chapter": 570,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 570,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 571,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时间之鬼",
+    "chapter": 571,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 571,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ghost of Time",
+    "existing": "时间幽灵",
+    "incoming": "时之幽灵",
+    "chapter": 572,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bermude",
+    "existing": "贝尔穆德",
+    "incoming": "贝穆德",
+    "chapter": 572,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "幻象",
+    "chapter": 572,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 572,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus Hugh Ikel",
+    "existing": "范塔苏斯·休·伊克尔",
+    "incoming": "凡塔苏斯·休·伊克尔",
+    "chapter": 573,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 573,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 573,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Girdon",
+    "existing": "格登",
+    "incoming": "吉登",
+    "chapter": 573,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bermude",
+    "existing": "贝尔穆德",
+    "incoming": "百慕大",
+    "chapter": 574,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 574,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫尔塞巴",
+    "chapter": 574,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 574,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 575,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lost in a Dream",
+    "existing": "迷失于梦",
+    "incoming": "迷失在梦中",
+    "chapter": 575,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 575,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida",
+    "existing": "梅丽达",
+    "incoming": "梅莉达",
+    "chapter": 576,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 576,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 576,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella",
+    "existing": "丹妮拉",
+    "incoming": "达妮埃拉",
+    "chapter": 576,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Akallion",
+    "existing": "阿卡利昂",
+    "incoming": "阿卡利翁",
+    "chapter": 576,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Daniella Villene",
+    "existing": "达妮埃拉·维伦",
+    "incoming": "丹妮拉·维伦",
+    "chapter": 577,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 577,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 577,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 578,
+    "status": "kept_existing"
+  }
+]
