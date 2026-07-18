@@ -21,7 +21,7 @@
       "score_source": "platform_rating",
       "score_label": "平台评分 4.8/5",
       "local_read_url": "reader.html?book=necromancer-academy-s-genius-summoner",
-      "local_chapters": 50,
+      "local_chapters": 747,
       "processing_status": "ready"
     },
     {
@@ -37,7 +37,10 @@
       "appearances": 3,
       "score": 85.7,
       "score_source": "computed",
-      "score_label": "推荐分（章节规模、榜单位置、多页曝光）"
+      "score_label": "推荐分（章节规模、榜单位置、多页曝光）",
+      "local_read_url": "reader.html?book=i-get-a-random-new-occupation-every-week",
+      "local_chapters": 6,
+      "processing_status": "ready"
     },
     {
       "id": "webnovelplus:starting-from-a-son-in-law-to-build-an-long-lasting-family",
@@ -52,7 +55,10 @@
       "appearances": 3,
       "score": 82.4,
       "score_source": "computed",
-      "score_label": "推荐分（章节规模、榜单位置、多页曝光）"
+      "score_label": "推荐分（章节规模、榜单位置、多页曝光）",
+      "local_read_url": "reader.html?book=starting-from-a-son-in-law-to-build-an-long-lasting-family",
+      "local_chapters": 5,
+      "processing_status": "ready"
     },
     {
       "id": "webnovelplus:apocalypse-gachapon",
@@ -67,7 +73,10 @@
       "appearances": 3,
       "score": 80.9,
       "score_source": "computed",
-      "score_label": "推荐分（章节规模、榜单位置、多页曝光）"
+      "score_label": "推荐分（章节规模、榜单位置、多页曝光）",
+      "local_read_url": "reader.html?book=apocalypse-gachapon",
+      "local_chapters": 5,
+      "processing_status": "ready"
     },
     {
       "id": "webnovelplus:city-of-desire",

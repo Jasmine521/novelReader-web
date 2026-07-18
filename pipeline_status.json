@@ -1,0 +1,58 @@
+{
+  "updated_at": "2026-07-18T06:29:00+00:00",
+  "workers": 4,
+  "jobs": [
+    {
+      "rank": 1,
+      "title": "Necromancer Academy’s Genius Summoner",
+      "url": "https://revengernovel.com/series/necromancer-academy%E2%80%99s-genius-summoner",
+      "slug": "necromancer-academy-s-genius-summoner",
+      "limit": 1746,
+      "status": "running",
+      "pid": 46720,
+      "retries": 0,
+      "exit_code": null,
+      "started_at": "2026-07-18T06:26:15+00:00",
+      "processed_chapters": 747
+    },
+    {
+      "rank": 2,
+      "title": "I Get A Random New Occupation Every Week",
+      "url": "https://webnovelplus.com/i-get-a-random-new-occupation-every-week",
+      "slug": "i-get-a-random-new-occupation-every-week",
+      "limit": 3854,
+      "status": "running",
+      "pid": 76284,
+      "retries": 0,
+      "exit_code": null,
+      "started_at": "2026-07-18T06:26:15+00:00",
+      "processed_chapters": 6
+    },
+    {
+      "rank": 3,
+      "title": "Starting From A Son In Law To Build An Long Lasting Family",
+      "url": "https://webnovelplus.com/starting-from-a-son-in-law-to-build-an-long-lasting-family",
+      "slug": "starting-from-a-son-in-law-to-build-an-long-lasting-family",
+      "limit": 2548,
+      "status": "running",
+      "pid": 26532,
+      "retries": 0,
+      "exit_code": null,
+      "started_at": "2026-07-18T06:26:15+00:00",
+      "processed_chapters": 5
+    },
+    {
+      "rank": 4,
+      "title": "Apocalypse Gachapon",
+      "url": "https://webnovelplus.com/apocalypse-gachapon",
+      "slug": "apocalypse-gachapon",
+      "limit": 2149,
+      "status": "running",
+      "pid": 66108,
+      "retries": 0,
+      "exit_code": null,
+      "started_at": "2026-07-18T06:26:15+00:00",
+      "processed_chapters": 6
+    }
+  ]
+}

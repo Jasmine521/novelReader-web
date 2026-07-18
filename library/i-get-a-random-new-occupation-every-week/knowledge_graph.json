@@ -1,0 +1,680 @@
+{
+  "entities": [
+    {
+      "en": "Lin Yi",
+      "cn": "林逸",
+      "type": "PERSON",
+      "description": "朝阳集团销售部员工，被解雇后激活系统，成为滴滴司机。；朝阳集团前员工，激活系统后成为滴滴司机，现拥有半岛酒店。；半岛酒店新老板，前朝阳集团销售员，现拥有半岛酒店和帕加尼Zonda。；半岛酒店老板，前朝阳集团销售员，现拥有半岛酒店和帕加尼Zonda。；半岛酒店老板，前朝阳集团销售员，现拥有半岛酒店和帕加尼Zonda，被公司解雇后成为滴滴司机。",
+      "aliases": [
+        "林主任",
+        "林哥",
+        "林总"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Ji Qingyan",
+      "cn": "季清颜",
+      "type": "PERSON",
+      "description": "朝阳集团总裁，记得林逸，车坏了需要搭车。；朝阳集团总裁，林逸的滴滴乘客，发微信让林逸去建设局接她。；朝阳集团总裁，林逸的滴滴乘客，因公司新闻发布会场地问题发愁。",
+      "aliases": [
+        "季总"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Chaoyang Group",
+      "cn": "朝阳集团",
+      "type": "ORGANIZATION",
+      "description": "林逸和季清颜所在的公司。",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Peninsula Hotel",
+      "cn": "半岛酒店",
+      "type": "ITEM",
+      "description": "系统奖励的酒店，需现场登记。；系统奖励的五星级酒店，位于中海，林逸前来认领。；林逸拥有的五星级酒店，年收入过亿。；林逸拥有的五星级酒店，年收入过亿，林逸入住总统套房。；林逸拥有的五星级酒店，位于中海，年收入过亿。",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Didi Driver",
+      "cn": "滴滴司机",
+      "type": "SKILL",
+      "description": "系统激活的第一个体验职业。；林逸体验的滴滴司机职业，通过跑单获得系统奖励。",
+      "aliases": [
+        "滴滴"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Full-class Experience System",
+      "cn": "全职业体验系统",
+      "type": "OTHER",
+      "description": "林逸激活的系统，每周激活新职业，完成任务获得奖励。；林逸激活的系统，完成订单获得经验值和金钱奖励。",
+      "aliases": [
+        "系统"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 7
+    },
+    {
+      "en": "Wang Tianlong",
+      "cn": "王天龙",
+      "type": "PERSON",
+      "description": "半岛酒店经理，认识云杰的父亲，给云杰95折优惠。；半岛酒店经理。；半岛酒店经理，为林逸安排总统套房。",
+      "aliases": [
+        "王经理"
+      ],
+      "first_chapter": 3,
+      "last_chapter": 7
+    },
+    {
+      "en": "Pagani Zonda",
+      "cn": "帕加尼Zonda",
+      "type": "ITEM",
+      "description": "系统奖励的跑车，价值2800万，停在朝阳集团停车场C区22号。；林逸的系统奖励跑车，价值2800万，银色。；林逸拥有的超跑，价值2800万。；林逸拥有的超跑，价值2800万，银色。；林逸的系统奖励跑车，价值2800万，银色，鸥翼门。",
+      "aliases": [
+        "帕加尼"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 6
+    },
+    {
+      "en": "Xiali",
+      "cn": "夏利",
+      "type": "ITEM",
+      "description": "林逸之前开的破旧国产车，被李云航嘲笑。；林逸之前的破旧国产车。；林逸之前开的破旧国产车，已被帕加尼取代。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 6
+    },
+    {
+      "en": "Wu Jinlan",
+      "cn": "吴金兰",
+      "type": "PERSON",
+      "description": "林逸的房东，中年妇女，靠收租和打麻将为生。；林逸的房东，中年妇女，靠收租和打麻将为生，现实势利。",
+      "aliases": [
+        "房东太太",
+        "金兰"
+      ],
+      "first_chapter": 5,
+      "last_chapter": 6
+    },
+    {
+      "en": "Zhang Jingjing",
+      "cn": "张晶晶",
+      "type": "PERSON",
+      "description": "吴金兰的女儿，大学毕业后在家备考公务员。；吴金兰的女儿，大学毕业后在家备考公务员，对林逸有好感。",
+      "aliases": [
+        "晶晶"
+      ],
+      "first_chapter": 5,
+      "last_chapter": 6
+    },
+    {
+      "en": "Wang Ying",
+      "cn": "王英",
+      "type": "PERSON",
+      "description": "林逸的前同事，比林逸大四岁，组织送别聚餐。",
+      "aliases": [
+        "王姐"
+      ],
+      "first_chapter": 6,
+      "last_chapter": 6
+    },
+    {
+      "en": "Yi Pin Ju",
+      "cn": "一品居",
+      "type": "PLACE",
+      "description": "林逸部门常去的餐厅，用于送别聚餐。",
+      "aliases": [
+        "老地方"
+      ],
+      "first_chapter": 6,
+      "last_chapter": 6
+    },
+    {
+      "en": "Construction Bureau",
+      "cn": "建设局",
+      "type": "PLACE",
+      "description": "季清颜所在的地点，林逸要去接她。",
+      "aliases": [],
+      "first_chapter": 6,
+      "last_chapter": 6
+    },
+    {
+      "en": "Liu Sisi",
+      "cn": "刘思思",
+      "type": "PERSON",
+      "description": "林逸的女朋友，打电话提出分手。；林逸的前女友，与云杰在一起，在半岛酒店举办生日聚会。；林逸的前女友，后悔分手，想挽回林逸。",
+      "aliases": [
+        "思思"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 5
+    },
+    {
+      "en": "Gu Jingshu",
+      "cn": "顾静姝",
+      "type": "PERSON",
+      "description": "半岛酒店1704房客人，因租车问题投诉，后接受林逸的帕加尼接送。",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Jinxiu Hotel",
+      "cn": "锦绣宾馆",
+      "type": "PLACE",
+      "description": "顾静姝同学举办婚礼的酒店。",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Yun Jie",
+      "cn": "云杰",
+      "type": "PERSON",
+      "description": "木材生意家庭出身，在中海算小富翁，开奔驰E级，刘思思的新男友。；刘思思的新男友，木材生意家庭出身，开奔驰E级。",
+      "aliases": [
+        "云杰"
+      ],
+      "first_chapter": 3,
+      "last_chapter": 4
+    },
+    {
+      "en": "Mercedes-Benz E-class",
+      "cn": "奔驰E级",
+      "type": "ITEM",
+      "description": "云杰的车，价值超过50万美元。",
+      "aliases": [
+        "奔驰"
+      ],
+      "first_chapter": 3,
+      "last_chapter": 4
+    },
+    {
+      "en": "Li Yunhang",
+      "cn": "李云航",
+      "type": "PERSON",
+      "description": "航海集团的少爷，疯狂追求季清颜，开兰博基尼Huracan。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Navigation Group",
+      "cn": "航海集团",
+      "type": "ORGANIZATION",
+      "description": "比朝阳集团稍大的公司，李云航是其少爷。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Lamborghini Huracan",
+      "cn": "兰博基尼Huracan",
+      "type": "ITEM",
+      "description": "李云航新买的跑车，价值两百多万美元。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Maserati",
+      "cn": "玛莎拉蒂",
+      "type": "ITEM",
+      "description": "季清颜的车，价值一百万。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Didi",
+      "cn": "滴滴",
+      "type": "SKILL",
+      "description": "林逸体验的滴滴司机职业，季清颜成为其第一位乘客。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Yu Lili",
+      "cn": "余丽丽",
+      "type": "PERSON",
+      "description": "朝阳集团销售经理，解雇了林逸。",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    }
+  ],
+  "relationships": [
+    {
+      "source_en": "Yu Lili",
+      "source_cn": "余丽丽",
+      "type": "FIRES",
+      "description": "余丽丽解雇了林逸。",
+      "direction": "directed",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ji Qingyan",
+      "source_cn": "季清颜",
+      "type": "KNOWS",
+      "description": "季清颜认识林逸。",
+      "direction": "undirected",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ji Qingyan",
+      "source_cn": "季清颜",
+      "type": "ASKS_FOR_HELP",
+      "description": "季清颜请求林逸送她去建设局。",
+      "direction": "directed",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Liu Sisi",
+      "source_cn": "刘思思",
+      "type": "EX_PARTNER_OF",
+      "description": "刘思思是林逸的前女友",
+      "direction": "undirected",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Wang Tianlong",
+      "source_cn": "王天龙",
+      "type": "RESPECTS",
+      "description": "王天龙对林逸恭敬",
+      "direction": "directed",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Liu Sisi",
+      "source_cn": "刘思思",
+      "type": "EX_PARTNER",
+      "description": "刘思思是林逸的前女友，想挽回。",
+      "direction": "undirected",
+      "target_en": "Lin Yi",
+      "target_cn": "林逸",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "BOYFRIEND_OF",
+      "description": "林逸是刘思思的男朋友。",
+      "direction": "undirected",
+      "target_en": "Liu Sisi",
+      "target_cn": "刘思思",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Yun Jie",
+      "source_cn": "云杰",
+      "type": "PARTNER",
+      "description": "云杰曾是刘思思的男友，但被甩。",
+      "direction": "undirected",
+      "target_en": "Liu Sisi",
+      "target_cn": "刘思思",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "滴滴司机与乘客",
+      "description": "林逸作为滴滴司机，季清颜是他的乘客。",
+      "direction": "undirected",
+      "target_en": "Ji Qingyan",
+      "target_cn": "季清颜",
+      "first_chapter": 6,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "OWNS",
+      "description": "林逸是半岛酒店的老板。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 1,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Gu Jingshu",
+      "source_cn": "顾静姝",
+      "type": "GUEST_OF",
+      "description": "顾静姝是半岛酒店的客人，住1704房。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Wang Tianlong",
+      "source_cn": "王天龙",
+      "type": "WORKS_AT",
+      "description": "王天龙是半岛酒店经理。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "拥有",
+      "description": "林逸是半岛酒店的老板。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 5,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ji Qingyan",
+      "source_cn": "季清颜",
+      "type": "寻求场地",
+      "description": "季清颜希望半岛酒店能为朝阳集团提供新闻发布会场地。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 7,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Wang Tianlong",
+      "source_cn": "王天龙",
+      "type": "经理",
+      "description": "王天龙是半岛酒店的经理。",
+      "direction": "directed",
+      "target_en": "Peninsula Hotel",
+      "target_cn": "半岛酒店",
+      "first_chapter": 7,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "OWNS",
+      "description": "林逸拥有帕加尼Zonda。",
+      "direction": "directed",
+      "target_en": "Pagani Zonda",
+      "target_cn": "帕加尼Zonda",
+      "first_chapter": 1,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "拥有",
+      "description": "林逸拥有帕加尼Zonda跑车。",
+      "direction": "directed",
+      "target_en": "Pagani Zonda",
+      "target_cn": "帕加尼Zonda",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "HAS_SKILL",
+      "description": "林逸获得滴滴司机职业。",
+      "direction": "directed",
+      "target_en": "Didi Driver",
+      "target_cn": "滴滴司机",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "从事",
+      "description": "林逸从事滴滴司机职业。",
+      "direction": "directed",
+      "target_en": "Didi Driver",
+      "target_cn": "滴滴司机",
+      "first_chapter": 6,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "ACTIVATED",
+      "description": "林逸激活了系统。",
+      "direction": "directed",
+      "target_en": "Full-class Experience System",
+      "target_cn": "全职业体验系统",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "激活",
+      "description": "林逸激活了全职业体验系统。",
+      "direction": "directed",
+      "target_en": "Full-class Experience System",
+      "target_cn": "全职业体验系统",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "拥有",
+      "description": "林逸拥有全职业体验系统。",
+      "direction": "directed",
+      "target_en": "Full-class Experience System",
+      "target_cn": "全职业体验系统",
+      "first_chapter": 7,
+      "last_chapter": 7,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Li Yunhang",
+      "source_cn": "李云航",
+      "type": "MEMBER_OF",
+      "description": "李云航是航海集团的少爷",
+      "direction": "directed",
+      "target_en": "Navigation Group",
+      "target_cn": "航海集团",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Liu Sisi",
+      "source_cn": "刘思思",
+      "type": "IN_RELATIONSHIP_WITH",
+      "description": "刘思思与云杰是情侣关系",
+      "direction": "undirected",
+      "target_en": "Yun Jie",
+      "target_cn": "云杰",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Yun Jie",
+      "source_cn": "云杰",
+      "type": "KNOWS",
+      "description": "云杰认识王天龙",
+      "direction": "undirected",
+      "target_en": "Wang Tianlong",
+      "target_cn": "王天龙",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "雇佣",
+      "description": "王天龙是林逸酒店的员工。",
+      "direction": "directed",
+      "target_en": "Wang Tianlong",
+      "target_cn": "王天龙",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "DRIVES",
+      "description": "林逸开车送顾静姝去参加婚礼。",
+      "direction": "directed",
+      "target_en": "Gu Jingshu",
+      "target_cn": "顾静姝",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "假扮情侣",
+      "description": "林逸在刘思思面前称顾静姝是他的人，但实际并非情侣。",
+      "direction": "undirected",
+      "target_en": "Gu Jingshu",
+      "target_cn": "顾静姝",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Gu Jingshu",
+      "source_cn": "顾静姝",
+      "type": "前往",
+      "description": "顾静姝让林逸送她去锦绣宾馆参加同学婚礼。",
+      "direction": "directed",
+      "target_en": "Jinxiu Hotel",
+      "target_cn": "锦绣宾馆",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "租客与房东",
+      "description": "林逸租住吴金兰的房子，支付房租。",
+      "direction": "undirected",
+      "target_en": "Wu Jinlan",
+      "target_cn": "吴金兰",
+      "first_chapter": 5,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Wu Jinlan",
+      "source_cn": "吴金兰",
+      "type": "母女",
+      "description": "吴金兰是张晶晶的母亲。",
+      "direction": "undirected",
+      "target_en": "Zhang Jingjing",
+      "target_cn": "张晶晶",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "邻居",
+      "description": "林逸是张晶晶的租客，张晶晶对林逸有好感。",
+      "direction": "undirected",
+      "target_en": "Zhang Jingjing",
+      "target_cn": "张晶晶",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "前同事",
+      "description": "王英是林逸的前同事，组织送别聚餐。",
+      "direction": "undirected",
+      "target_en": "Wang Ying",
+      "target_cn": "王英",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "前往",
+      "description": "林逸将去一品居参加送别聚餐。",
+      "direction": "directed",
+      "target_en": "Yi Pin Ju",
+      "target_cn": "一品居",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lin Yi",
+      "source_cn": "林逸",
+      "type": "前往",
+      "description": "林逸将去建设局接季清颜。",
+      "direction": "directed",
+      "target_en": "Construction Bureau",
+      "target_cn": "建设局",
+      "first_chapter": 6,
+      "last_chapter": 6,
+      "confidence": 1.0
+    }
+  ]
+}

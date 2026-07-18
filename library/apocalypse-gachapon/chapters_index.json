@@ -1,0 +1,38 @@
+[
+  {
+    "num": 1,
+    "title_en": "Chapter 1: Return",
+    "title_cn": "第1章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0001.json"
+  },
+  {
+    "num": 2,
+    "title_en": "Chapter 2: Level 1 Gachapon",
+    "title_cn": "第2章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0002.json"
+  },
+  {
+    "num": 3,
+    "title_en": "Chapter 3: Pajamas Girl",
+    "title_cn": "第3章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0003.json"
+  },
+  {
+    "num": 4,
+    "title_en": "Chapter 4: Future nine star expert",
+    "title_cn": "第4章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0004.json"
+  },
+  {
+    "num": 5,
+    "title_en": "Chapter 5: First spin",
+    "title_cn": "第5章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0005.json"
+  },
+  {
+    "num": 6,
+    "title_en": "Chapter 6: Basic Elimination Technique",
+    "title_cn": "第6章",
+    "file": "library/apocalypse-gachapon/chapters/chapter_0006.json"
+  }
+]

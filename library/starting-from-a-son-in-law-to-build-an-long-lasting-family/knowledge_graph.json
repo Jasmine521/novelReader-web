@@ -1,0 +1,709 @@
+{
+  "entities": [
+    {
+      "en": "Lu Changsheng",
+      "cn": "陆长生",
+      "type": "PERSON",
+      "description": "主角，18岁，九品灵根，穿越者，觉醒前世记忆和多子多福系统",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 5
+    },
+    {
+      "en": "Many Children Many Blessings System",
+      "cn": "多子多福系统",
+      "type": "SKILL",
+      "description": "陆长生觉醒的系统，子女越多福报越多，后代天赋和修为会加成给本人",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 5
+    },
+    {
+      "en": "Li Feiyu",
+      "cn": "李飞羽",
+      "type": "PERSON",
+      "description": "18岁，七品灵根，赤鲸帮少帮主；18岁，七品灵根，赤鲸帮少帮主，武功高强",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 5
+    },
+    {
+      "en": "Lu Yuanding",
+      "cn": "陆元鼎",
+      "type": "PERSON",
+      "description": "陆家家主，炼气八层，绿袍男子，负责招募女婿",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 5
+    },
+    {
+      "en": "Immortal Seedling",
+      "cn": "仙苗",
+      "type": "OTHER",
+      "description": "有修仙资质的年轻人，被家族招募",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 5
+    },
+    {
+      "en": "Uncle Fu",
+      "cn": "福伯",
+      "type": "PERSON",
+      "description": "青竹山庄管事，头发花白，身形微驼",
+      "aliases": [
+        "福叔"
+      ],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Lu Lanshu",
+      "cn": "陆兰舒",
+      "type": "PERSON",
+      "description": "陆长生三位妻子之一，端庄美丽",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Lu Zier",
+      "cn": "陆紫儿",
+      "type": "PERSON",
+      "description": "陆长生三位妻子之一，清纯妩媚",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Lu Qinger",
+      "cn": "陆晴儿",
+      "type": "PERSON",
+      "description": "陆长生三位妻子之一，清纯可爱",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Qingzhu Mountain Manor",
+      "cn": "青竹山庄",
+      "type": "PLACE",
+      "description": "青竹山外围的庄园，有一阶灵脉，仙苗居住地",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Lu Pingan",
+      "cn": "陆平安",
+      "type": "PERSON",
+      "description": "陆长生与陆兰舒之子，本章出生",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Yellow Dragon Pill",
+      "cn": "黄龙丹",
+      "type": "ITEM",
+      "description": "一种丹药，可辅助修炼，价值十灵石一瓶",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Spiritual Rice",
+      "cn": "灵米",
+      "type": "ITEM",
+      "description": "蕴含灵气的稻米，可食用，价值十灵石一百斤",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Low-grade Magical Weapon Flying Sword",
+      "cn": "下品法器飞剑",
+      "type": "ITEM",
+      "description": "一种下品法器，飞剑，价值五十灵石",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Green Bamboo Robe",
+      "cn": "青竹袍",
+      "type": "ITEM",
+      "description": "一套袍子，可自动调整尺寸，耐寒耐热，不染尘埃，价值三十灵石",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Qingzhu Mountain Lu Family",
+      "cn": "青竹山陆家",
+      "type": "ORGANIZATION",
+      "description": "招募女婿的家族，提供灵脉福地和修仙功法；修仙家族，因与红叶谷陈家大战损失大量年轻人，破例招募女婿；招募女婿的修仙家族，因与红叶谷陈家大战损失大量年轻人，破例招募女婿",
+      "aliases": [
+        "Lu family",
+        "陆家"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 4
+    },
+    {
+      "en": "Spirit Root",
+      "cn": "灵根",
+      "type": "SKILL",
+      "description": "修仙资质，分为九品，九品最差，一品以上有地灵根、天灵根等",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 4
+    },
+    {
+      "en": "Qingzhu Mountain",
+      "cn": "青竹山",
+      "type": "PLACE",
+      "description": "一片长满青翠竹子的山脉，陆家所在地",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 4
+    },
+    {
+      "en": "The Return to Origin Technique",
+      "cn": "归元诀",
+      "type": "ITEM",
+      "description": "陆长生获得的修仙功法，有影像讲解功能",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 4
+    },
+    {
+      "en": "Hongye Valley Chen Family",
+      "cn": "红叶谷陈家",
+      "type": "ORGANIZATION",
+      "description": "与青竹山陆家因灵石矿发生大战的家族",
+      "aliases": [
+        "Chen family"
+      ],
+      "first_chapter": 2,
+      "last_chapter": 3
+    },
+    {
+      "en": "Spirit Horse",
+      "cn": "灵马",
+      "type": "ITEM",
+      "description": "陆家饲养的马，日行千里，即使不会骑也没问题",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 3
+    },
+    {
+      "en": "Chen Shuisheng",
+      "cn": "陈水生",
+      "type": "PERSON",
+      "description": "红叶谷陈家家主，红袍中年男子，伏击陆家",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Lu Miaoge",
+      "cn": "陆妙歌",
+      "type": "PERSON",
+      "description": "陆元鼎之女，白衣女子，容貌绝美，气质出尘",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Fasting Pill",
+      "cn": "辟谷丹",
+      "type": "ITEM",
+      "description": "服下一颗可一个月不饿的丹药",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Message Talisman",
+      "cn": "传讯符",
+      "type": "ITEM",
+      "description": "用于向家族求援的符箓",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Jiang State",
+      "cn": "姜国",
+      "type": "PLACE",
+      "description": "故事发生的国家",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Blue Cloud Sect",
+      "cn": "青云宗",
+      "type": "ORGANIZATION",
+      "description": "修仙宗门，进行弟子考核",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Heart Questioning Platform",
+      "cn": "问心台",
+      "type": "ITEM",
+      "description": "青云宗考核第四关，测试道心",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Hong Yi",
+      "cn": "洪易",
+      "type": "PERSON",
+      "description": "16岁，九品灵根，侯爵嫡子，与陆长生一同参加考核",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Han Lin",
+      "cn": "韩林",
+      "type": "PERSON",
+      "description": "15岁，七品灵根，铁匠，与陆长生关系较好",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Xiao Xiyue",
+      "cn": "萧夕月",
+      "type": "PERSON",
+      "description": "15岁，四品灵根，书香门第千金，被青云宗录取",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    },
+    {
+      "en": "Zhao Qingqing",
+      "cn": "赵青青",
+      "type": "PERSON",
+      "description": "16岁，六品灵根，医师世家，被青云宗录取",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 1
+    }
+  ],
+  "relationships": [
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "PARTICIPATES_IN",
+      "description": "陆长生参加青云宗的考核",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Hong Yi",
+      "source_cn": "洪易",
+      "type": "PARTICIPATES_IN",
+      "description": "洪易参加青云宗考核但未被录取",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Han Lin",
+      "source_cn": "韩林",
+      "type": "MEMBER_OF",
+      "description": "韩林被青云宗录取",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Xiao Xiyue",
+      "source_cn": "萧夕月",
+      "type": "MEMBER_OF",
+      "description": "萧夕月被青云宗录取",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Zhao Qingqing",
+      "source_cn": "赵青青",
+      "type": "MEMBER_OF",
+      "description": "赵青青被青云宗录取",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Li Feiyu",
+      "source_cn": "李飞羽",
+      "type": "PARTICIPATES_IN",
+      "description": "李飞羽参加青云宗考核但未被录取",
+      "direction": "directed",
+      "target_en": "Blue Cloud Sect",
+      "target_cn": "青云宗",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Qingzhu Mountain Lu Family",
+      "source_cn": "青竹山陆家",
+      "type": "RECRUITS",
+      "description": "青竹山陆家招募女婿，陆长生是潜在对象",
+      "direction": "directed",
+      "target_en": "Lu Changsheng",
+      "target_cn": "陆长生",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 0.8
+    },
+    {
+      "source_en": "Lu Yuanding",
+      "source_cn": "陆元鼎",
+      "type": "奖励",
+      "description": "陆元鼎因陆兰舒怀孕奖励陆长生",
+      "direction": "directed",
+      "target_en": "Lu Changsheng",
+      "target_cn": "陆长生",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Uncle Fu",
+      "source_cn": "福伯",
+      "type": "派遣",
+      "description": "福伯派遣丫鬟照顾陆长生",
+      "direction": "directed",
+      "target_en": "Lu Changsheng",
+      "target_cn": "陆长生",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "POSSESSES",
+      "description": "陆长生拥有多子多福系统",
+      "direction": "directed",
+      "target_en": "Many Children Many Blessings System",
+      "target_cn": "多子多福系统",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "拥有",
+      "description": "陆长生拥有多子多福系统",
+      "direction": "directed",
+      "target_en": "Many Children Many Blessings System",
+      "target_cn": "多子多福系统",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "SAVED_BY",
+      "description": "李飞羽推倒陆长生，救了他一命",
+      "direction": "directed",
+      "target_en": "Li Feiyu",
+      "target_cn": "李飞羽",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "朋友",
+      "description": "陆长生与李飞羽是朋友关系",
+      "direction": "undirected",
+      "target_en": "Li Feiyu",
+      "target_cn": "李飞羽",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Yuanding",
+      "source_cn": "陆元鼎",
+      "type": "MEMBER_OF",
+      "description": "陆元鼎是陆家家主",
+      "direction": "directed",
+      "target_en": "Qingzhu Mountain Lu Family",
+      "target_cn": "青竹山陆家",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Chen Shuisheng",
+      "source_cn": "陈水生",
+      "type": "ATTACKS",
+      "description": "陈水生带领陈家修士伏击陆元鼎一行",
+      "direction": "directed",
+      "target_en": "Lu Yuanding",
+      "target_cn": "陆元鼎",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "ASSIGNED_BY",
+      "description": "陆元鼎安排陆长生等仙苗住在青竹山庄",
+      "direction": "directed",
+      "target_en": "Lu Yuanding",
+      "target_cn": "陆元鼎",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Qingzhu Mountain Lu Family",
+      "source_cn": "青竹山陆家",
+      "type": "CONFLICT_WITH",
+      "description": "陆家与陈家因灵石矿发生大战",
+      "direction": "undirected",
+      "target_en": "Hongye Valley Chen Family",
+      "target_cn": "红叶谷陈家",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Chen Shuisheng",
+      "source_cn": "陈水生",
+      "type": "MEMBER_OF",
+      "description": "陈水生是红叶谷陈家家主",
+      "direction": "directed",
+      "target_en": "Hongye Valley Chen Family",
+      "target_cn": "红叶谷陈家",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Yuanding",
+      "source_cn": "陆元鼎",
+      "type": "PARENT_OF",
+      "description": "陆元鼎是陆妙歌的父亲",
+      "direction": "directed",
+      "target_en": "Lu Miaoge",
+      "target_cn": "陆妙歌",
+      "first_chapter": 3,
+      "last_chapter": 3,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "GUIDED_BY",
+      "description": "福伯带领陆长生办理手续并介绍山庄",
+      "direction": "directed",
+      "target_en": "Uncle Fu",
+      "target_cn": "福伯",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "MARRIED",
+      "description": "陆长生娶陆兰舒为妻",
+      "direction": "undirected",
+      "target_en": "Lu Lanshu",
+      "target_cn": "陆兰舒",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "配偶",
+      "description": "陆长生与陆兰舒为夫妻关系",
+      "direction": "undirected",
+      "target_en": "Lu Lanshu",
+      "target_cn": "陆兰舒",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "MARRIED",
+      "description": "陆长生娶陆紫儿为妻",
+      "direction": "undirected",
+      "target_en": "Lu Zier",
+      "target_cn": "陆紫儿",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Lanshu",
+      "source_cn": "陆兰舒",
+      "type": "SIBLING",
+      "description": "陆兰舒和陆紫儿是姐妹",
+      "direction": "undirected",
+      "target_en": "Lu Zier",
+      "target_cn": "陆紫儿",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "配偶",
+      "description": "陆长生与陆紫儿为夫妻关系",
+      "direction": "undirected",
+      "target_en": "Lu Zier",
+      "target_cn": "陆紫儿",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "MARRIED",
+      "description": "陆长生娶陆晴儿为妻",
+      "direction": "undirected",
+      "target_en": "Lu Qinger",
+      "target_cn": "陆晴儿",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Lanshu",
+      "source_cn": "陆兰舒",
+      "type": "SIBLING",
+      "description": "陆兰舒和陆晴儿是姐妹",
+      "direction": "undirected",
+      "target_en": "Lu Qinger",
+      "target_cn": "陆晴儿",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Lu Zier",
+      "source_cn": "陆紫儿",
+      "type": "SIBLING",
+      "description": "陆紫儿和陆晴儿是姐妹",
+      "direction": "undirected",
+      "target_en": "Lu Qinger",
+      "target_cn": "陆晴儿",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 0.9
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "配偶",
+      "description": "陆长生与陆晴儿为夫妻关系",
+      "direction": "undirected",
+      "target_en": "Lu Qinger",
+      "target_cn": "陆晴儿",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "LOCATED_AT",
+      "description": "陆长生被安置在青竹山庄",
+      "direction": "undirected",
+      "target_en": "Qingzhu Mountain Manor",
+      "target_cn": "青竹山庄",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Li Feiyu",
+      "source_cn": "李飞羽",
+      "type": "LOCATED_AT",
+      "description": "李飞羽也住在青竹山庄",
+      "direction": "undirected",
+      "target_en": "Qingzhu Mountain Manor",
+      "target_cn": "青竹山庄",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "POSSESSES",
+      "description": "陆长生获得并修炼《归元诀》",
+      "direction": "directed",
+      "target_en": "The Return to Origin Technique",
+      "target_cn": "归元诀",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Changsheng",
+      "source_cn": "陆长生",
+      "type": "父子",
+      "description": "陆长生是陆平安的父亲",
+      "direction": "directed",
+      "target_en": "Lu Pingan",
+      "target_cn": "陆平安",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Lu Lanshu",
+      "source_cn": "陆兰舒",
+      "type": "母子",
+      "description": "陆兰舒是陆平安的母亲",
+      "direction": "directed",
+      "target_en": "Lu Pingan",
+      "target_cn": "陆平安",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    }
+  ]
+}

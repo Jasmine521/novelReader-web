@@ -1,0 +1,408 @@
+{
+  "entities": [
+    {
+      "en": "Level 1 Strengthening Potion",
+      "cn": "一级强化药剂",
+      "type": "ITEM",
+      "description": "一种能赋予人五倍于常人力量的药剂，是一级转盘中最好的物品。；一种能赋予人五倍于常人力量的药剂，是一级转盘中最好的物品。本章中叶钟鸣希望得到但未获得。",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 6
+    },
+    {
+      "en": "Successive Fire Crossbow",
+      "cn": "连发火弩",
+      "type": "ITEM",
+      "description": "天启扭蛋奖励，黑色弩，设计精美，有十根15厘米长的金属箭，可单发或连发。",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 6
+    },
+    {
+      "en": "Basic Elimination Technique",
+      "cn": "基础消除术",
+      "type": "SKILL",
+      "description": "可进化技能，旋转二级及以下扭蛋时可移除一个不想要的选项，属于史诗级物品。",
+      "aliases": [],
+      "first_chapter": 6,
+      "last_chapter": 6
+    },
+    {
+      "en": "Ye Zhongming",
+      "cn": "叶钟鸣",
+      "type": "PERSON",
+      "description": "主角，重生者，经历了十年末日，回到末日发生前一小时。；主角，重生者，经历了十年末日，回到末日发生前一小时，本章中遇到木馨菲并选择接近她，随后击杀三只丧尸获得一级魔晶。；主角，重生者，经历了十年末日，回到末日发生前一小时。本章中击杀丧尸获得魔晶，使用天启扭蛋获得连发火弩。",
+      "aliases": [
+        "钟鸣"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 5
+    },
+    {
+      "en": "Mu Xinfei",
+      "cn": "木馨菲",
+      "type": "PERSON",
+      "description": "别墅中的年轻女性，约20岁，穿粉色睡衣，对叶钟鸣闯入感到惊讶和警惕。；九星强者，绰号杀戮玫瑰，与叶钟鸣来自同一城市，本章中在别墅中遇到叶钟鸣，穿着粉色睡衣，手持水果刀自卫。；别墅中的年轻女性，约20岁，穿粉色睡衣，对叶钟鸣闯入感到惊讶和警惕。本章中在别墅中遇到叶钟鸣，手持水果刀自卫，对扭蛋系统感兴趣。",
+      "aliases": [
+        "杀戮玫瑰"
+      ],
+      "first_chapter": 3,
+      "last_chapter": 5
+    },
+    {
+      "en": "Level 1 Demon Crystal",
+      "cn": "一级魔晶",
+      "type": "ITEM",
+      "description": "丧尸头顶的灰色晶体，可用于激活扭蛋机。本章中叶钟鸣从三只丧尸头上获得三颗。；丧尸头顶的灰色晶体，可用于激活扭蛋机。本章中叶钟鸣获得21颗一级魔晶。",
+      "aliases": [
+        "一级晶体"
+      ],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Apocalypse Gachapon",
+      "cn": "天启扭蛋",
+      "type": "ITEM",
+      "description": "可以用魔晶激活获得贵重物品的装置，本章中出现在别墅中。；可以用魔晶激活获得贵重物品的装置，本章中出现在别墅中，叶钟鸣使用它获得了连发火弩。",
+      "aliases": [
+        "扭蛋"
+      ],
+      "first_chapter": 4,
+      "last_chapter": 5
+    },
+    {
+      "en": "Dingsheng Apartments",
+      "cn": "鼎盛公寓",
+      "type": "PLACE",
+      "description": "城市中的高档小区，有七层楼房和十栋别墅，叶钟鸣选择此地作为末日据点。本章中末日降临后变得喧闹。",
+      "aliases": [],
+      "first_chapter": 5,
+      "last_chapter": 5
+    },
+    {
+      "en": "Killing Rose",
+      "cn": "杀戮玫瑰",
+      "type": "OTHER",
+      "description": "木馨菲的绰号，九星强者，几乎全世界都知道。",
+      "aliases": [],
+      "first_chapter": 4,
+      "last_chapter": 4
+    },
+    {
+      "en": "Lucky Skill Card",
+      "cn": "幸运技能卡",
+      "type": "ITEM",
+      "description": "一种能赋予特殊技能的卡片，如视觉卡、感官卡、宠物卡等。",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Stone Skin Technique",
+      "cn": "石肤术",
+      "type": "SKILL",
+      "description": "一种让皮肤坚如磐石、保护内脏的技能，来自四级扭蛋的幸运技能卡。",
+      "aliases": [],
+      "first_chapter": 3,
+      "last_chapter": 3
+    },
+    {
+      "en": "Bai Sisi",
+      "cn": "白思思",
+      "type": "PERSON",
+      "description": "叶钟鸣的女朋友，大学同学，交往两年，即将与叶钟鸣分手。",
+      "aliases": [
+        "思思"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 2
+    },
+    {
+      "en": "Lurker",
+      "cn": "潜伏者",
+      "type": "ITEM",
+      "description": "一种怪物，触手从地下刺穿叶钟鸣的身体，导致他死亡。",
+      "aliases": [],
+      "first_chapter": 1,
+      "last_chapter": 2
+    },
+    {
+      "en": "Dingcheng Apartments",
+      "cn": "鼎城公寓",
+      "type": "PLACE",
+      "description": "城市中的高档小区，有七层楼房和十栋别墅，叶钟鸣选择此地作为末日据点。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Golden Saint",
+      "cn": "黄金圣斗士",
+      "type": "ITEM",
+      "description": "九级扭蛋的十大奖励之一，一艘强大的金色飞船，出现在末日开始时。",
+      "aliases": [
+        "Golden Saint Warship"
+      ],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Gachapon",
+      "cn": "扭蛋",
+      "type": "ITEM",
+      "description": "末日中出现的转盘系统，人类可通过填充魔晶旋转获得物品、技能等。",
+      "aliases": [
+        "Apocalypse Gachapon",
+        "交换扭蛋",
+        "天启扭蛋"
+      ],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Demon Crystal",
+      "cn": "魔晶",
+      "type": "ITEM",
+      "description": "丧尸、变异体等头顶的晶体，用于填充扭蛋机孔洞以获取旋转机会。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Six Star Evolved",
+      "cn": "六星进化者",
+      "type": "SKILL",
+      "description": "叶钟鸣上一世达到的进化等级，属于较强水平。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Long-haired girl",
+      "cn": "长发女孩",
+      "type": "PERSON",
+      "description": "别墅中的年轻女性，约20岁，穿粉色睡衣，对叶钟鸣闯入感到惊讶和警惕。",
+      "aliases": [],
+      "first_chapter": 2,
+      "last_chapter": 2
+    },
+    {
+      "en": "Qin Jun",
+      "cn": "秦军",
+      "type": "PERSON",
+      "description": "白思思的新男友，富家子弟，叶钟鸣认为他会在末日中抛弃白思思。",
+      "aliases": [
+        "秦君"
+      ],
+      "first_chapter": 1,
+      "last_chapter": 1
+    }
+  ],
+  "relationships": [
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "恋爱关系",
+      "description": "叶钟鸣和白思思是男女朋友，已交往两年。",
+      "direction": "undirected",
+      "target_en": "Bai Sisi",
+      "target_cn": "白思思",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Bai Sisi",
+      "source_cn": "白思思",
+      "type": "恋爱关系",
+      "description": "白思思与秦军有染，计划与叶钟鸣分手后与秦军在一起。",
+      "direction": "undirected",
+      "target_en": "Qin Jun",
+      "target_cn": "秦军",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "被攻击",
+      "description": "叶钟鸣被潜伏者的触手刺穿身体而死。",
+      "direction": "directed",
+      "target_en": "Lurker",
+      "target_cn": "潜伏者",
+      "first_chapter": 1,
+      "last_chapter": 1,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "LOCATED_AT",
+      "description": "叶钟鸣开车到达鼎城公寓，作为末日据点。",
+      "direction": "directed",
+      "target_en": "Dingcheng Apartments",
+      "target_cn": "鼎城公寓",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "OBSERVED",
+      "description": "叶钟鸣在末日开始时看到黄金圣斗士飞船。",
+      "direction": "directed",
+      "target_en": "Golden Saint",
+      "target_cn": "黄金圣斗士",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "USED",
+      "description": "叶钟鸣上一世通过扭蛋交换物品生存，并计划使用一级扭蛋。",
+      "direction": "directed",
+      "target_en": "Gachapon",
+      "target_cn": "扭蛋",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "KNOWS_ABOUT",
+      "description": "叶钟鸣知道魔晶用于填充扭蛋机。",
+      "direction": "directed",
+      "target_en": "Demon Crystal",
+      "target_cn": "魔晶",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "ACHIEVED",
+      "description": "叶钟鸣上一世成为六星进化者。",
+      "direction": "directed",
+      "target_en": "Six Star Evolved",
+      "target_cn": "六星进化者",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "ENCOUNTERED",
+      "description": "叶钟鸣在别墅中遇到长发女孩。",
+      "direction": "directed",
+      "target_en": "Long-haired girl",
+      "target_cn": "长发女孩",
+      "first_chapter": 2,
+      "last_chapter": 2,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "INTERACTS_WITH",
+      "description": "叶钟鸣与木馨菲在别墅中相遇并交谈。",
+      "direction": "undirected",
+      "target_en": "Mu Xinfei",
+      "target_cn": "木馨菲",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "ENCOUNTER",
+      "description": "叶钟鸣在别墅中遇到木馨菲，并选择接近她以成为盟友。",
+      "direction": "undirected",
+      "target_en": "Mu Xinfei",
+      "target_cn": "木馨菲",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "ACQUIRES",
+      "description": "叶钟鸣通过击杀丧尸获得一级魔晶。",
+      "direction": "directed",
+      "target_en": "Level 1 Demon Crystal",
+      "target_cn": "一级魔晶",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "OBTAIN",
+      "description": "叶钟鸣击杀三只丧尸后获得三颗一级魔晶。",
+      "direction": "directed",
+      "target_en": "Level 1 Demon Crystal",
+      "target_cn": "一级魔晶",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Mu Xinfei",
+      "source_cn": "木馨菲",
+      "type": "OBSERVES",
+      "description": "木馨菲看到叶钟鸣使用扭蛋，表现出兴趣。",
+      "direction": "undirected",
+      "target_en": "Apocalypse Gachapon",
+      "target_cn": "天启扭蛋",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "USES",
+      "description": "叶钟鸣使用天启扭蛋获得连发火弩。",
+      "direction": "directed",
+      "target_en": "Apocalypse Gachapon",
+      "target_cn": "天启扭蛋",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Ye Zhongming",
+      "source_cn": "叶钟鸣",
+      "type": "INTERACT",
+      "description": "叶钟鸣向木馨菲解释天启扭蛋的用途。",
+      "direction": "directed",
+      "target_en": "Apocalypse Gachapon",
+      "target_cn": "天启扭蛋",
+      "first_chapter": 4,
+      "last_chapter": 4,
+      "confidence": 1.0
+    },
+    {
+      "source_en": "Apocalypse Gachapon",
+      "source_cn": "天启扭蛋",
+      "type": "PRODUCES",
+      "description": "天启扭蛋奖励了连发火弩。",
+      "direction": "directed",
+      "target_en": "Successive Fire Crossbow",
+      "target_cn": "连发火弩",
+      "first_chapter": 5,
+      "last_chapter": 5,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -4590,5 +4590,2378 @@
     "incoming": "无头骑士",
     "chapter": 578,
     "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 579,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 580,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Toto Amoriya",
+    "existing": "托托·阿莫里亚",
+    "incoming": "阿森谷托托",
+    "chapter": 580,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine",
+    "existing": "洛琳",
+    "incoming": "洛兰",
+    "chapter": 580,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 580,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 582,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Holiness",
+    "existing": "圣洁",
+    "incoming": "神圣之力",
+    "chapter": 582,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "厄舒",
+    "chapter": 584,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "艾修",
+    "chapter": 585,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 586,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 586,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 586,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 587,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 587,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 588,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aron Deia",
+    "existing": "阿隆·德亚",
+    "incoming": "阿隆·戴亚",
+    "chapter": 588,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Toto Amoriya",
+    "existing": "托托·阿莫里亚",
+    "incoming": "阿森谷托托",
+    "chapter": 588,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 588,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gahal Tribe",
+    "existing": "加哈尔部落",
+    "incoming": "迦哈部落",
+    "chapter": 588,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 589,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 589,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 589,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 590,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Seiren",
+    "existing": "塞壬",
+    "incoming": "海妖",
+    "chapter": 591,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng's Original – Impalement",
+    "existing": "鸿鹏原创·穿刺",
+    "incoming": "鸿鹏原创——穿刺",
+    "chapter": 592,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aron Deia",
+    "existing": "阿隆·德亚",
+    "incoming": "阿隆·戴亚",
+    "chapter": 594,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格里里恩",
+    "chapter": 594,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 594,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Overlord",
+    "existing": "霸主",
+    "incoming": "霸王",
+    "chapter": 595,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 595,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 596,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 597,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 597,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sasha",
+    "existing": "萨莎",
+    "incoming": "萨沙",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Whitey",
+    "existing": "小白",
+    "incoming": "怀蒂",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blackey",
+    "existing": "小黑",
+    "incoming": "布莱基",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Escrime",
+    "existing": "拉埃斯克里姆",
+    "incoming": "拉·埃斯克里姆",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 598,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 600,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 600,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abaddon",
+    "existing": "亚巴顿",
+    "incoming": "阿巴顿",
+    "chapter": 600,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 600,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 600,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 601,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Whitey",
+    "existing": "小白",
+    "incoming": "怀蒂",
+    "chapter": 601,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blackey",
+    "existing": "小黑",
+    "incoming": "布莱基",
+    "chapter": 601,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Akallion",
+    "existing": "阿卡利昂",
+    "incoming": "阿卡利翁",
+    "chapter": 601,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 602,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 602,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Abaddon",
+    "existing": "亚巴顿",
+    "incoming": "阿巴顿",
+    "chapter": 602,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu Arzel",
+    "existing": "埃舒·阿泽尔",
+    "incoming": "艾舒·阿泽尔",
+    "chapter": 603,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu Arzel",
+    "existing": "埃舒·阿泽尔",
+    "incoming": "艾舒·阿泽尔",
+    "chapter": 604,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格里里恩",
+    "chapter": 604,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 604,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 605,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格雷里昂",
+    "chapter": 605,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 1",
+    "existing": "第1队",
+    "incoming": "第一队",
+    "chapter": 605,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Team 8",
+    "existing": "八队",
+    "incoming": "第八队",
+    "chapter": 605,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 606,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 606,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格里里恩",
+    "chapter": 606,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "艾修",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jaime Victoria",
+    "existing": "海梅·维多利亚",
+    "incoming": "杰米·维多利亚",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Claudia Menzies",
+    "existing": "克劳迪娅·孟席斯",
+    "incoming": "克劳迪娅·门齐斯",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Cindy Vivace",
+    "existing": "辛迪·维瓦斯",
+    "incoming": "辛迪·维瓦切",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 607,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leonard Feiron",
+    "existing": "伦纳德·费龙",
+    "incoming": "伦纳德·费隆",
+    "chapter": 609,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 609,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "艾修",
+    "chapter": 610,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahil Amagar",
+    "existing": "巴希尔·阿马加尔",
+    "incoming": "巴希尔·阿玛加",
+    "chapter": 610,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bone Prison",
+    "existing": "骨牢",
+    "incoming": "骨狱",
+    "chapter": 610,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅莉达·休·伊克尔",
+    "chapter": 611,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor",
+    "existing": "黑暗皇帝",
+    "incoming": "黑皇帝",
+    "chapter": 611,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lost in a Dream",
+    "existing": "迷失于梦",
+    "incoming": "迷失梦境",
+    "chapter": 611,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jane Olivia",
+    "existing": "简·奥利维亚",
+    "incoming": "简·奥莉薇娅",
+    "chapter": 612,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "暗帝祭",
+    "chapter": 613,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu Arzel",
+    "existing": "埃舒·阿泽尔",
+    "incoming": "艾修·阿泽尔",
+    "chapter": 614,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 614,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔索斯",
+    "chapter": 615,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "暗帝祭",
+    "chapter": 615,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 615,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "暗帝祭",
+    "chapter": 616,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 617,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 617,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 617,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Malcolm Randolph",
+    "existing": "马尔科姆·兰道夫",
+    "incoming": "马尔科姆·伦道夫",
+    "chapter": 618,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "暗帝祭",
+    "chapter": 618,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Merida Hugh Ikel",
+    "existing": "梅里达·休·伊克尔",
+    "incoming": "梅丽达·休·伊克尔",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus Hugh Ikel",
+    "existing": "范塔苏斯·休·伊克尔",
+    "incoming": "幻象·休·伊克尔",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Spiritology",
+    "existing": "灵体学",
+    "incoming": "灵学",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lost in a Dream",
+    "existing": "迷失于梦",
+    "incoming": "迷梦",
+    "chapter": 619,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 620,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng's Original – Chwita",
+    "existing": "鸿鹏原创——吹打",
+    "incoming": "鸿鹏原创 – 吹打",
+    "chapter": 621,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bermude",
+    "existing": "贝尔穆德",
+    "incoming": "贝穆德",
+    "chapter": 622,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Professor Farahan",
+    "existing": "法拉罕教授",
+    "incoming": "法拉汉教授",
+    "chapter": 623,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lady Neftis",
+    "existing": "奈芙蒂斯夫人",
+    "incoming": "奈芙蒂斯大人",
+    "chapter": 623,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "黑皇帝节",
+    "chapter": 623,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Island",
+    "existing": "柔克岛",
+    "incoming": "洛克岛",
+    "chapter": 623,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "丰收圣女",
+    "chapter": 624,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "永恒基尔",
+    "chapter": 624,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 625,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Crows",
+    "existing": "乌鸦",
+    "incoming": "乌鸦队",
+    "chapter": 625,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hongpeng's Original - Impalement",
+    "existing": "鸿鹏原创·穿刺",
+    "incoming": "鸿鹏原创——穿刺",
+    "chapter": 625,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 626,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Spear",
+    "existing": "混沌之矛",
+    "incoming": "混沌之枪",
+    "chapter": 626,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 627,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Festival",
+    "existing": "黑暗祭典",
+    "incoming": "黑暗祭",
+    "chapter": 627,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 627,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 628,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 628,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 628,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 628,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "永基尔",
+    "chapter": 629,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获圣者",
+    "chapter": 629,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Golem Board",
+    "existing": "魔像滑板",
+    "incoming": "魔像板",
+    "chapter": 630,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 631,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 631,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Efnelle",
+    "existing": "埃夫内尔",
+    "incoming": "艾芙妮尔",
+    "chapter": 631,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leshill",
+    "existing": "莱希尔",
+    "incoming": "莱斯希尔",
+    "chapter": 632,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 633,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 633,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "黑帝祭",
+    "chapter": 633,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "永恒基尔",
+    "chapter": 633,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jule Vincere",
+    "existing": "朱尔·文瑟",
+    "incoming": "朱尔·文瑟尔",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shatel Maer",
+    "existing": "沙特尔·梅尔",
+    "incoming": "沙提尔·马尔",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Martial Combat Department",
+    "existing": "武斗系",
+    "incoming": "武斗部",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 634,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Summonology Department",
+    "existing": "召唤学系",
+    "incoming": "召唤系",
+    "chapter": 636,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学系",
+    "chapter": 636,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Magical Combat",
+    "existing": "魔法战斗",
+    "incoming": "魔法战斗系",
+    "chapter": 636,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Haematology",
+    "existing": "血液学",
+    "incoming": "血液学系",
+    "chapter": 636,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 636,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾薇·基尔",
+    "chapter": 638,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获圣者",
+    "chapter": 638,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 638,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 639,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Goddess Dave",
+    "existing": "戴夫女神",
+    "incoming": "女神戴夫",
+    "chapter": 639,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 639,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "La Escrime",
+    "existing": "拉埃斯克里姆",
+    "incoming": "拉·埃斯克里姆",
+    "chapter": 639,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 640,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 641,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Alastair",
+    "existing": "阿拉斯泰尔",
+    "incoming": "阿拉斯特",
+    "chapter": 641,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Essence of Purification",
+    "existing": "净化精华",
+    "incoming": "净化圣者",
+    "chapter": 641,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾芙·基尔",
+    "chapter": 642,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获圣者",
+    "chapter": 642,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Essence of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获精华",
+    "chapter": 642,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 642,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Rock Island",
+    "existing": "岩石岛",
+    "incoming": "柔克岛",
+    "chapter": 642,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗基尔",
+    "chapter": 643,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获圣者",
+    "chapter": 643,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Lete",
+    "existing": "莱特",
+    "incoming": "蕾特",
+    "chapter": 644,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 644,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 644,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Shahed Kingdom",
+    "existing": "沙赫德王国",
+    "incoming": "沙希德王国",
+    "chapter": 645,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔摩尼姆",
+    "chapter": 645,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 645,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本雅·香草",
+    "chapter": 646,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu Arzel",
+    "existing": "埃舒·阿泽尔",
+    "incoming": "艾舒·阿泽尔",
+    "chapter": 646,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "艾修",
+    "chapter": 647,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leshill",
+    "existing": "莱希尔",
+    "incoming": "莱斯希尔",
+    "chapter": 647,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Elizabeth Weffer",
+    "existing": "埃尔泽贝特·韦弗",
+    "incoming": "伊丽莎白·韦弗",
+    "chapter": 647,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 648,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格里里恩",
+    "chapter": 648,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion",
+    "existing": "格雷里恩",
+    "incoming": "格里里恩",
+    "chapter": 649,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 649,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 649,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aseraz",
+    "existing": "阿瑟拉兹",
+    "incoming": "阿塞拉兹",
+    "chapter": 650,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine",
+    "existing": "洛琳",
+    "incoming": "洛兰",
+    "chapter": 650,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Feon",
+    "existing": "费昂",
+    "incoming": "费恩",
+    "chapter": 650,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔腾学术会议",
+    "chapter": 650,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 650,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 651,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 651,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 651,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "奔腾学术",
+    "chapter": 651,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 651,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 652,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chaos Reaper",
+    "existing": "混沌死神",
+    "incoming": "混沌收割者",
+    "chapter": 652,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dondra",
+    "existing": "东德拉",
+    "incoming": "栋德拉",
+    "chapter": 654,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dondra",
+    "existing": "东德拉",
+    "incoming": "唐德拉",
+    "chapter": 655,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jin Arskalt",
+    "existing": "金·阿斯卡尔特",
+    "incoming": "金·阿尔斯卡特",
+    "chapter": 658,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Skullwings",
+    "existing": "骷髅之翼",
+    "incoming": "骷髅翼",
+    "chapter": 659,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Geheim",
+    "existing": "格黑姆",
+    "incoming": "格海姆",
+    "chapter": 660,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Geheim",
+    "existing": "格黑姆",
+    "incoming": "格海姆",
+    "chapter": 662,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Prince",
+    "existing": "王子",
+    "incoming": "普林斯",
+    "chapter": 663,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grand Duke",
+    "existing": "大公",
+    "incoming": "大公爵",
+    "chapter": 663,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 663,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gourmet",
+    "existing": "美食家",
+    "incoming": "美食",
+    "chapter": 663,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 663,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 664,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 665,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 665,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 666,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Third",
+    "existing": "第三",
+    "incoming": "老三",
+    "chapter": 667,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 667,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 667,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Corpse Explosion",
+    "existing": "尸体爆炸",
+    "incoming": "尸爆",
+    "chapter": 667,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Geheim",
+    "existing": "格黑姆",
+    "incoming": "格海姆",
+    "chapter": 667,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 668,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 669,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜之地",
+    "chapter": 670,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 671,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜领域",
+    "chapter": 672,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hate",
+    "existing": "憎恨",
+    "incoming": "哈特",
+    "chapter": 674,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 674,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chronos",
+    "existing": "克罗诺斯",
+    "incoming": "克洛诺斯",
+    "chapter": 675,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 676,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 677,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bow of Tempest",
+    "existing": "风暴之弓",
+    "incoming": "暴风之弓",
+    "chapter": 677,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hate",
+    "existing": "憎恨",
+    "incoming": "仇恨",
+    "chapter": 678,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Akemius",
+    "existing": "阿克米乌斯",
+    "incoming": "阿克缪斯",
+    "chapter": 678,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Northern Army",
+    "existing": "北方军团",
+    "incoming": "北方军",
+    "chapter": 678,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 680,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 681,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 681,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Skullwing",
+    "existing": "骷髅之翼",
+    "incoming": "骷髅翼",
+    "chapter": 681,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 682,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hate",
+    "existing": "憎恨",
+    "incoming": "哈特",
+    "chapter": 682,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜领域",
+    "chapter": 682,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 683,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pluto",
+    "existing": "冥王",
+    "incoming": "普鲁托",
+    "chapter": 683,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hate",
+    "existing": "憎恨",
+    "incoming": "仇恨",
+    "chapter": 683,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bow of Tempest",
+    "existing": "风暴之弓",
+    "incoming": "暴风之弓",
+    "chapter": 683,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Geheim",
+    "existing": "格黑姆",
+    "incoming": "格海姆",
+    "chapter": 683,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Hate",
+    "existing": "憎恨",
+    "incoming": "仇恨",
+    "chapter": 684,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜之地",
+    "chapter": 684,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 685,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pluto",
+    "existing": "冥王",
+    "incoming": "普鲁托",
+    "chapter": 685,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 686,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fourth",
+    "existing": "第四",
+    "incoming": "老四",
+    "chapter": 687,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fourth",
+    "existing": "第四",
+    "incoming": "老四",
+    "chapter": 688,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 688,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bow of Tempest",
+    "existing": "风暴之弓",
+    "incoming": "暴风之弓",
+    "chapter": 688,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 689,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jin Arskalt",
+    "existing": "金·阿斯卡尔特",
+    "incoming": "金·阿尔斯卡特",
+    "chapter": 689,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Geheim",
+    "existing": "格黑姆",
+    "incoming": "格海姆",
+    "chapter": 689,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 690,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Greatsword of Destruction",
+    "existing": "毁灭大剑",
+    "incoming": "毁灭巨剑",
+    "chapter": 690,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fourth",
+    "existing": "第四",
+    "incoming": "第四人",
+    "chapter": 691,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Kamibarez Ursula",
+    "existing": "卡米巴雷斯·乌苏拉",
+    "incoming": "卡米巴雷斯·乌尔苏拉",
+    "chapter": 691,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jin Arskalt",
+    "existing": "金·阿斯卡尔特",
+    "incoming": "金·阿尔斯卡尔特",
+    "chapter": 691,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜领域",
+    "chapter": 691,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Jin Arskalt",
+    "existing": "金·阿斯卡尔特",
+    "incoming": "金·阿斯卡特",
+    "chapter": 692,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 694,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Phantasus",
+    "existing": "范塔苏斯",
+    "incoming": "凡塔苏斯",
+    "chapter": 694,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 695,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 696,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Emperor Festival",
+    "existing": "暗帝节",
+    "incoming": "黑帝节",
+    "chapter": 696,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 697,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 697,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Summonology dormitory",
+    "existing": "召唤学宿舍",
+    "incoming": "召唤系宿舍",
+    "chapter": 697,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 698,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu Arzel",
+    "existing": "埃舒·阿泽尔",
+    "incoming": "埃舒·阿尔泽尔",
+    "chapter": 698,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Guinevere Venners",
+    "existing": "吉尼维尔·维纳斯",
+    "incoming": "吉娜薇·文纳斯",
+    "chapter": 698,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Chehekle",
+    "existing": "切赫克尔",
+    "incoming": "切赫克勒",
+    "chapter": 698,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Arachnea",
+    "existing": "蛛形纲",
+    "incoming": "阿拉克尼亚",
+    "chapter": 698,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahil Amagar",
+    "existing": "巴希尔·阿马加尔",
+    "incoming": "巴希尔·阿玛加尔",
+    "chapter": 699,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Katarology",
+    "existing": "诅咒学",
+    "incoming": "卡塔罗学",
+    "chapter": 699,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dark Blaze",
+    "existing": "暗焰",
+    "incoming": "暗黑烈焰",
+    "chapter": 700,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 701,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 701,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fulgor",
+    "existing": "富尔戈",
+    "incoming": "福尔格",
+    "chapter": 703,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sleep",
+    "existing": "睡眠",
+    "incoming": "沉眠",
+    "chapter": 703,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 704,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 704,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Auror Serum",
+    "existing": "奥罗拉·塞鲁姆",
+    "incoming": "奥罗拉·塞拉姆",
+    "chapter": 705,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Keyzen",
+    "existing": "凯森",
+    "incoming": "凯森学院",
+    "chapter": 705,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "永恒基雷",
+    "chapter": 705,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Valkese Arena",
+    "existing": "瓦尔克斯竞技场",
+    "incoming": "瓦尔基斯竞技场",
+    "chapter": 705,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Roke Island",
+    "existing": "柔克岛",
+    "incoming": "洛克岛",
+    "chapter": 705,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 706,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Whitey",
+    "existing": "小白",
+    "incoming": "白仔",
+    "chapter": 707,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Blackie",
+    "existing": "小黑",
+    "incoming": "黑仔",
+    "chapter": 707,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Auror",
+    "existing": "傲罗",
+    "incoming": "奥罗拉",
+    "chapter": 708,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "埃夫内尔·基尔",
+    "chapter": 708,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Drake",
+    "existing": "龙兽",
+    "incoming": "地龙",
+    "chapter": 709,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Saint of Harvest",
+    "existing": "丰收圣者",
+    "incoming": "收获圣者",
+    "chapter": 710,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Pentamonium",
+    "existing": "潘塔莫尼姆",
+    "incoming": "潘塔莫尼乌姆",
+    "chapter": 710,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Gleck Crow",
+    "existing": "格莱克·克罗",
+    "incoming": "格莱克·克劳",
+    "chapter": 711,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Newspaper Club",
+    "existing": "报纸俱乐部",
+    "incoming": "报社",
+    "chapter": 711,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dullahan",
+    "existing": "杜拉汉",
+    "incoming": "无头骑士",
+    "chapter": 713,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Tae",
+    "existing": "泰",
+    "incoming": "泰伊",
+    "chapter": 713,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya Vanilla",
+    "existing": "本雅·瓦尼拉",
+    "incoming": "本亚·香草",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Xairos",
+    "existing": "赛罗斯",
+    "incoming": "萨罗斯",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Vanilla Group",
+    "existing": "瓦尼拉集团",
+    "incoming": "香草集团",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Frost Field",
+    "existing": "霜原",
+    "incoming": "冰霜原野",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Skullwing Unit",
+    "existing": "骷髅翼小队",
+    "incoming": "骷髅之翼部队",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bilkenos",
+    "existing": "比尔克诺斯",
+    "incoming": "比尔肯诺斯",
+    "chapter": 714,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sota Psyche",
+    "existing": "索塔·赛琪",
+    "incoming": "索塔·普赛克",
+    "chapter": 715,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Eshu",
+    "existing": "艾舒",
+    "incoming": "埃舒",
+    "chapter": 715,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Rune of Reminiscence",
+    "existing": "追忆符文",
+    "incoming": "回忆符文",
+    "chapter": 715,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sota Psyche",
+    "existing": "索塔·赛琪",
+    "incoming": "索塔·普赛克",
+    "chapter": 716,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fulgor",
+    "existing": "富尔戈",
+    "incoming": "富尔格",
+    "chapter": 716,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 716,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 717,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Leonard Feiron",
+    "existing": "伦纳德·费龙",
+    "incoming": "伦纳德·费隆",
+    "chapter": 717,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变异者俱乐部",
+    "chapter": 718,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion family",
+    "existing": "格雷里恩家族",
+    "incoming": "格里里恩家族",
+    "chapter": 718,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sharier Tenier",
+    "existing": "沙里尔·特尼尔",
+    "incoming": "沙里尔·泰尼尔",
+    "chapter": 718,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 719,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ednic Grerion",
+    "existing": "埃德尼克·格雷里恩",
+    "incoming": "埃德尼克·格雷里昂",
+    "chapter": 719,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Grerion Family",
+    "existing": "格雷里恩家族",
+    "incoming": "格雷里昂家族",
+    "chapter": 719,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Benya",
+    "existing": "本雅",
+    "incoming": "班亚",
+    "chapter": 720,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Fulgor",
+    "existing": "富尔戈",
+    "incoming": "富尔戈尔",
+    "chapter": 720,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Drake",
+    "existing": "龙兽",
+    "incoming": "德雷克",
+    "chapter": 720,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahil Amagar",
+    "existing": "巴希尔·阿马加尔",
+    "incoming": "巴希尔·阿玛加尔",
+    "chapter": 721,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Mutant Club",
+    "existing": "突变社团",
+    "incoming": "变种人俱乐部",
+    "chapter": 721,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Aizel Bringer",
+    "existing": "艾泽尔·布林杰",
+    "incoming": "艾泽尔·布林格",
+    "chapter": 722,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sota Psyche",
+    "existing": "索塔·赛琪",
+    "incoming": "索塔·普赛克",
+    "chapter": 722,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 722,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 722,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 723,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Langerstine",
+    "existing": "兰格斯坦",
+    "incoming": "朗杰斯汀",
+    "chapter": 724,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Loraine Arkbold",
+    "existing": "洛琳·阿科博尔德",
+    "incoming": "洛琳·阿克博尔德",
+    "chapter": 725,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Serne Eindark",
+    "existing": "塞尔恩·艾因达克",
+    "incoming": "瑟恩·艾因达克",
+    "chapter": 725,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Dana",
+    "existing": "达娜",
+    "incoming": "达纳",
+    "chapter": 726,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Farahan",
+    "existing": "法拉汉",
+    "incoming": "法拉罕",
+    "chapter": 726,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫尔塞巴",
+    "chapter": 726,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "永恒基尔",
+    "chapter": 726,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Xairos",
+    "existing": "赛罗斯",
+    "incoming": "泽罗斯",
+    "chapter": 726,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 730,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Ever Kire",
+    "existing": "埃弗·基尔",
+    "incoming": "艾弗·基尔",
+    "chapter": 732,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Herseba",
+    "existing": "赫塞芭",
+    "incoming": "赫塞巴",
+    "chapter": 732,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴希拉封地",
+    "chapter": 733,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴希拉封地",
+    "chapter": 736,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 736,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴希拉封地",
+    "chapter": 737,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Yona",
+    "existing": "约纳",
+    "incoming": "尤娜",
+    "chapter": 737,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴伊拉领地",
+    "chapter": 738,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴希拉封地",
+    "chapter": 743,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Sealed Letter",
+    "existing": "密封信件",
+    "incoming": "封印信",
+    "chapter": 744,
+    "status": "kept_existing"
+  },
+  {
+    "entity": "Bahila Fiefdom",
+    "existing": "巴希拉领地",
+    "incoming": "巴希拉封地",
+    "chapter": 745,
+    "status": "kept_existing"
   }
 ]
