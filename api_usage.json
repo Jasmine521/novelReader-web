@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-18T04:26:42+00:00",
+  "currency": "USD",
+  "billing_note": "Estimated quota value; OpenCode Go subscription usage is not a per-request charge.",
+  "pricing_per_million_tokens": {
+    "deepseek-v4-flash": {
+      "input": 0.14,
+      "output": 0.28,
+      "cached_read": 0.0028
+    }
+  },
+  "totals": {
+    "requests": 1,
+    "input_tokens": 17813,
+    "cached_tokens": 0,
+    "output_tokens": 8193,
+    "total_tokens": 26006,
+    "estimated_usd": 0.00478786
+  },
+  "by_model": {
+    "deepseek-v4-flash": {
+      "requests": 1,
+      "input_tokens": 17813,
+      "cached_tokens": 0,
+      "output_tokens": 8193,
+      "total_tokens": 26006,
+      "estimated_usd": 0.00478786,
+      "provider": "opencode-go"
+    }
+  },
+  "by_day": {
+    "2026-07-18": {
+      "requests": 1,
+      "input_tokens": 17813,
+      "cached_tokens": 0,
+      "output_tokens": 8193,
+      "total_tokens": 26006,
+      "estimated_usd": 0.00478786
+    }
+  },
+  "recent": [
+    {
+      "at": "2026-07-18T04:26:42+00:00",
+      "provider": "opencode-go",
+      "model": "deepseek-v4-flash",
+      "operation": "polish-and-extract",
+      "context": "chapter-579",
+      "input_tokens": 17813,
+      "cached_tokens": 0,
+      "output_tokens": 8193,
+      "total_tokens": 26006,
+      "estimated_usd": 0.00478786
+    }
+  ]
+}
